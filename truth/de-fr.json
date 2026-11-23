@@ -1,0 +1,97 @@
+{
+ "id": "de-fr",
+ "duration_sec": 151.2,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 8.4,
+   "lang": "de",
+   "fleurs": "de_de",
+   "file": "10058299886985225661.wav",
+   "gender": "MALE",
+   "text": "Dieses Sediment war nötig, um Sandbänke und Strände zu bilden, die als Lebensräume für Wildtiere dienten."
+  },
+  {
+   "start": 9.0,
+   "end": 16.2,
+   "lang": "fr",
+   "fleurs": "fr_fr",
+   "file": "10174413140250646001.wav",
+   "gender": "MALE",
+   "text": "Giancarlo Fisichella a perdu le contrôle de sa voiture et a terminé la course peu après le démarrage."
+  },
+  {
+   "start": 16.8,
+   "end": 29.76,
+   "lang": "de",
+   "fleurs": "de_de",
+   "file": "10095057775426831514.wav",
+   "gender": "MALE",
+   "text": "Blogs können auch dazu beitragen, die Schreibfertigkeiten von Schülern zu verbessern. Zwar haben Schüler am Anfang ihrer Blogerfahrung oft eine schlampige Grammatik und Rechtschreibung, aber das ändert sich normalerweise, wenn es ein Publikum gibt."
+  },
+  {
+   "start": 30.36,
+   "end": 38.76,
+   "lang": "fr",
+   "fleurs": "fr_fr",
+   "file": "10221277978969763776.wav",
+   "gender": "MALE",
+   "text": "Malgré le net avantage de Del Potro pendant le deuxième set, il a fallu passer par un tie-break une fois que le score a atteint 6-6."
+  },
+  {
+   "start": 39.36,
+   "end": 59.04,
+   "lang": "de",
+   "fleurs": "de_de",
+   "file": "10159541282515887574.wav",
+   "gender": "MALE",
+   "text": "Nachdem der Damm 1963 erbaut worden war, kamen die jahreszeitlichen Überflutungen, die Sedimente im Fluss verteilen, zum Stillstand."
+  },
+  {
+   "start": 59.64,
+   "end": 71.28,
+   "lang": "fr",
+   "fleurs": "fr_fr",
+   "file": "10334413597118469552.wav",
+   "gender": "MALE",
+   "text": "Malheureusement, il est difficile d'étudier le flux de circulation car le comportement des conducteurs ne peut être prédit avec cent pour cent de certitude."
+  },
+  {
+   "start": 71.88,
+   "end": 82.92,
+   "lang": "de",
+   "fleurs": "de_de",
+   "file": "10166547362714956625.wav",
+   "gender": "MALE",
+   "text": "Insbesondere wird behauptet, dass man erkennen kann, ob jemand lügt, indem man minimale Veränderungen des Gesichtsausdrucks richtig deutet.x"
+  },
+  {
+   "start": 83.52,
+   "end": 91.2,
+   "lang": "fr",
+   "fleurs": "fr_fr",
+   "file": "10385751433252343757.wav",
+   "gender": "FEMALE",
+   "text": "Les deux composés réagissent l'un avec l'autre pour former des cristaux qui peuvent bloquer la fonction rénale, ont déclaré des chercheurs de l'université."
+  },
+  {
+   "start": 91.8,
+   "end": 135.18,
+   "lang": "de",
+   "fleurs": "de_de",
+   "file": "10171859810965764480.wav",
+   "gender": "MALE",
+   "text": "Die angemessene Nutzung von Blogs „kann Schülerinnen und Schüler befähigen, analytischer und kritischer zu werden; durch die aktive Reaktion auf Internetmaterialien können die Schülerinnen und Schüler ihre Positionen im Kontext der Texte anderer definieren und ihre eigenen Perspektiven zu bestimmten Themen darlegen“ (Oravec, 2002)."
+  },
+  {
+   "start": 135.78,
+   "end": 150.6,
+   "lang": "fr",
+   "fleurs": "fr_fr",
+   "file": "10399459061919571703.wav",
+   "gender": "MALE",
+   "text": "Par exemple, des étudiants de l'école Bennet en Caroline du Nord conçoivent chaque année un site web consacré à leur visite de la capitale de l'État. Chaque année, le site est remis à jour, mais les anciennes versions sont conservées en ligne pour servir d'album."
+  }
+ ]
+}

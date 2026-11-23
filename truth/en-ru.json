@@ -1,0 +1,97 @@
+{
+ "id": "en-ru",
+ "duration_sec": 111.7,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 4.5,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10969774925516121312.wav",
+   "gender": "FEMALE",
+   "text": "This is an important way to distinguish between some verbs and objects."
+  },
+  {
+   "start": 5.1,
+   "end": 22.02,
+   "lang": "ru",
+   "fleurs": "ru_ru",
+   "file": "10000611681338527501.wav",
+   "gender": "FEMALE",
+   "text": "В древнем Китае использовали уникальный способ обозначения периодов времени; каждый этап Китая или каждая семья, находившаяся у власти, были особой династией."
+  },
+  {
+   "start": 22.62,
+   "end": 30.18,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11060294228176938598.wav",
+   "gender": "FEMALE",
+   "text": "As a result, two fish species have become extinct, and two others have become endangered, including the humpback chub."
+  },
+  {
+   "start": 30.78,
+   "end": 42.3,
+   "lang": "ru",
+   "fleurs": "ru_ru",
+   "file": "10002861505982796062.wav",
+   "gender": "FEMALE",
+   "text": "Мадагаскар намного больше других и  является самобытным континентом в том, что касается дикой природы."
+  },
+  {
+   "start": 42.9,
+   "end": 48.68,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1107772981946748169.wav",
+   "gender": "MALE",
+   "text": "But there are a lot of things about birds that still look like a dinosaur."
+  },
+  {
+   "start": 49.28,
+   "end": 57.92,
+   "lang": "ru",
+   "fleurs": "ru_ru",
+   "file": "10008070632189747443.wav",
+   "gender": "FEMALE",
+   "text": "Во всех научных вопросах, включая психологию, были приняты взгляды Аристотеля."
+  },
+  {
+   "start": 58.52,
+   "end": 71.3,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1111475259790805601.wav",
+   "gender": "FEMALE",
+   "text": "Oliver Sacks, in his paper The President's Speech, indicated how people who are unable to understand speech because of brain damage are nevertheless able to assess sincerity accurately."
+  },
+  {
+   "start": 71.9,
+   "end": 79.82,
+   "lang": "ru",
+   "fleurs": "ru_ru",
+   "file": "10011799110630615565.wav",
+   "gender": "MALE",
+   "text": "В различных местах Рима были установлены большие телевизионные экраны, с помощью которых люди могли наблюдать за церемонией."
+  },
+  {
+   "start": 80.42,
+   "end": 91.04,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11147918080606585533.wav",
+   "gender": "MALE",
+   "text": "Goats seem to have been first domesticated roughly 10,000 years ago in the Zagros Mountains of Iran."
+  },
+  {
+   "start": 91.64,
+   "end": 111.08,
+   "lang": "ru",
+   "fleurs": "ru_ru",
+   "file": "10015465823387918619.wav",
+   "gender": "FEMALE",
+   "text": "Причиной дебатов стали разногласия относительно затрат на оказание материальной поддержки и восстановление зданий после урагана Катрина, который некоторые фискальные консерваторы в шутку назвали \"новоорлеанской сделкой Буша\"."
+  }
+ ]
+}

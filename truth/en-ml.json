@@ -1,0 +1,97 @@
+{
+ "id": "en-ml",
+ "duration_sec": 133.1,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 11.04,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10344335557154974057.wav",
+   "gender": "MALE",
+   "text": "The aspect ratio of this format (dividing by twelve to obtain the simplest whole-number ratio) is therefore said to be 3:2."
+  },
+  {
+   "start": 11.64,
+   "end": 23.04,
+   "lang": "ml",
+   "fleurs": "ml_in",
+   "file": "10013487754489332324.wav",
+   "gender": "FEMALE",
+   "text": "ഈ നഗരം രാജ്യത്തെ മറ്റ് നഗരങ്ങളിൽ നിന്ന്  പൂർണ്ണമായും വ്യത്യസ്തമാണ്, കാരണം ഇതിന് ആഫ്രിക്കൻ വാസനയേക്കാൾ അറബിവാസനയാണ് കൂടുതൽ."
+  },
+  {
+   "start": 23.64,
+   "end": 33.54,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1036771894648013441.wav",
+   "gender": "FEMALE",
+   "text": "As light pollution in their heyday was not the kind of problem it is today, they are usually located in cities or at campuses, easier to reach than those built in modern times."
+  },
+  {
+   "start": 34.14,
+   "end": 57.72,
+   "lang": "ml",
+   "fleurs": "ml_in",
+   "file": "10069218717188856999.wav",
+   "gender": "FEMALE",
+   "text": "പാലത്തിനു താഴെയുള്ള കുത്തനെയുള്ള ഉയരം 15 മീറ്ററാണ്. ഇതിന്റെ നിർമ്മാണം 2011 ഓഗസ്റ്റിൽ പൂർത്തിയാക്കിയതാണ്, എന്നാൽ ഇത് 2017 മാർച്ച് വരെ ഗതാഗതത്തിനായി തുറന്ന് കൊടുത്തിട്ടില്ല."
+  },
+  {
+   "start": 58.32,
+   "end": 63.12,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1038214857203833067.wav",
+   "gender": "FEMALE",
+   "text": "Through the night between 150 and 200 copies were made, now known as \"Dunlap broadsides\"."
+  },
+  {
+   "start": 63.72,
+   "end": 89.16,
+   "lang": "ml",
+   "fleurs": "ml_in",
+   "file": "10078044035084322628.wav",
+   "gender": "FEMALE",
+   "text": "ഇത് ബന്ധപ്പെട്ടിരിക്കുന്നു, എന്നാൽ സാധാരണയായി ആൽപൈൻ ശൈലിയിലുള്ള സ്കീ ടൂറിംഗോ പർവ്വതാരോഹണമോ ഉൾപ്പെടുന്നില്ല. ഇതിൽ രണ്ടാമത്തേത് കുത്തനെയുള്ള ഭൂപ്രദേശങ്ങളിൽ ചെയ്യുന്നതും, കൂടുതൽ കട്ടിയുള്ള സ്‌കീകളും ബൂട്ടുകളും ആവശ്യമായതുമാണ്."
+  },
+  {
+   "start": 89.76,
+   "end": 101.04,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10383288285905292158.wav",
+   "gender": "FEMALE",
+   "text": "For example, each year students from Bennet School in North Carolina design a website about their trip to the State Capital, each year the website gets remodeled, but old versions are kept online to serve as a scrapbook."
+  },
+  {
+   "start": 101.64,
+   "end": 108.48,
+   "lang": "ml",
+   "fleurs": "ml_in",
+   "file": "10101537866226983572.wav",
+   "gender": "FEMALE",
+   "text": "സഹ ഗുസ്തിക്കാരും ലൂണയ്ക്ക് ആദരാഞ്ജലികൾ അർപ്പിച്ചു."
+  },
+  {
+   "start": 109.08,
+   "end": 120.0,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10405958125670257178.wav",
+   "gender": "FEMALE",
+   "text": "Lion prides act much like packs of wolves or dogs, animals surprisingly similar to lions (but not other big cats) in behavior, and also very deadly to their prey."
+  },
+  {
+   "start": 120.6,
+   "end": 132.54,
+   "lang": "ml",
+   "fleurs": "ml_in",
+   "file": "10134676116368565149.wav",
+   "gender": "FEMALE",
+   "text": "മുറിവുകൾക്കായി അദ്ദേഹം ഒരു ചിത്രം സജ്ജമാക്കിയിട്ടില്ല, ചൈനയുടെ സാമ്പത്തിക ഉൽ‌പാദനത്തെ അടിസ്ഥാനമാക്കിയാണ് അവ നിർമ്മിക്കുക എന്ന് പറഞ്ഞു."
+  }
+ ]
+}

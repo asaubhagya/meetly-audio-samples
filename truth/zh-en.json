@@ -1,0 +1,79 @@
+{
+ "id": "zh-en",
+ "duration_sec": 100.0,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 10.38,
+   "lang": "zh",
+   "fleurs": "cmn_hans_cn",
+   "file": "10026684690566417990.wav",
+   "gender": "MALE",
+   "text": "“这并不是告别。这是一个篇章的结束，也是新篇章的开始。”"
+  },
+  {
+   "start": 10.98,
+   "end": 30.1,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11318597463051480163.wav",
+   "gender": "MALE",
+   "text": "Mrs. Kirchner announced her intention to run for president at the Argentine Theatre, the same location she used to start her 2005 campaign for the Senate as member of the Buenos Aires province delegation."
+  },
+  {
+   "start": 30.7,
+   "end": 38.98,
+   "lang": "zh",
+   "fleurs": "cmn_hans_cn",
+   "file": "10040380210557600780.wav",
+   "gender": "MALE",
+   "text": "钙、钾等元素属于金属，银和金等元素当然也是金属。"
+  },
+  {
+   "start": 39.58,
+   "end": 46.0,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11374239868879585530.wav",
+   "gender": "FEMALE",
+   "text": "The hot chocolate is up to Belgian standards. Fruit juices are pricey but excellent."
+  },
+  {
+   "start": 46.6,
+   "end": 60.46,
+   "lang": "zh",
+   "fleurs": "cmn_hans_cn",
+   "file": "10048525650290665384.wav",
+   "gender": "MALE",
+   "text": "桥下垂直净空 15 米。该项目于 2011 年 8 月完工，但直到 2017 年 3 月才开始通车。"
+  },
+  {
+   "start": 61.06,
+   "end": 73.84,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11426556553252626005.wav",
+   "gender": "MALE",
+   "text": "The harbor was the site of an infamous naval standoff in 1889 when seven ships from Germany, the US, and Britain refused to leave the harbor."
+  },
+  {
+   "start": 74.44,
+   "end": 89.86,
+   "lang": "zh",
+   "fleurs": "cmn_hans_cn",
+   "file": "10053956375630517392.wav",
+   "gender": "FEMALE",
+   "text": "\"适当使用博客，\"可以使学生变得更善于分析和进行思辨；通过积极回应网络材料，学生们可以在他人文章的上下文语境中找到自己的立场，并能够针对特定问题提出自己的观点（Oravec, 2002）。\""
+  },
+  {
+   "start": 90.46,
+   "end": 99.4,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11459777646810052940.wav",
+   "gender": "FEMALE",
+   "text": "Built by the Egyptians in the third century BCE, the Great Pyramid is one of many large pyramid structures built to honor dead Pharaoh."
+  }
+ ]
+}

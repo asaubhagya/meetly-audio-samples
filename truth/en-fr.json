@@ -1,0 +1,97 @@
+{
+ "id": "en-fr",
+ "duration_sec": 111.1,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 6.84,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10899527843662463911.wav",
+   "gender": "FEMALE",
+   "text": "He was subsequently relocated to Addenbrooke's Hospital in Cambridge."
+  },
+  {
+   "start": 7.44,
+   "end": 17.64,
+   "lang": "fr",
+   "fleurs": "fr_fr",
+   "file": "10043298898524273336.wav",
+   "gender": "FEMALE",
+   "text": "L’accident a eu lieu en terrain montagneux, et il semblerait que cela ait été causé par un incendie malveillant."
+  },
+  {
+   "start": 18.24,
+   "end": 26.58,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10903101168349732260.wav",
+   "gender": "MALE",
+   "text": "The pyramid sound and light show is one of the most interesting things in the area for kids."
+  },
+  {
+   "start": 27.18,
+   "end": 50.58,
+   "lang": "fr",
+   "fleurs": "fr_fr",
+   "file": "10097171356371990207.wav",
+   "gender": "MALE",
+   "text": "Nous sommes d'accord avec la déclaration de l'USOC (Comité olympique des États-Unis) selon laquelle les intérêts de nos athlètes et de nos clubs, ainsi que de leur sport, pourraient être mieux servis. Cela peut être fait en allant de l'avant et en procédant plutôt à des changements significatifs au sein de notre organisation, qu'à la révocation d'accréditation."
+  },
+  {
+   "start": 51.18,
+   "end": 62.1,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10933070083389897676.wav",
+   "gender": "FEMALE",
+   "text": "Due to the underwater topology the return flow is concentrated at a few deeper sections, and a fast current to deep water may form there."
+  },
+  {
+   "start": 62.7,
+   "end": 70.98,
+   "lang": "fr",
+   "fleurs": "fr_fr",
+   "file": "10138021779681596478.wav",
+   "gender": "MALE",
+   "text": "Il a ajouté qu’« on ne devrait cependant pas leur demander d’assumer des obligations qui dépassent leur stade de développement, leur responsabilité et leurs capacités. »"
+  },
+  {
+   "start": 71.58,
+   "end": 81.4,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10937407360976471523.wav",
+   "gender": "MALE",
+   "text": "The crash occurred high up in mountainous terrain, and is believed to have been the result of hostile fire."
+  },
+  {
+   "start": 82.0,
+   "end": 92.2,
+   "lang": "fr",
+   "fleurs": "fr_fr",
+   "file": "10143749263702132703.wav",
+   "gender": "FEMALE",
+   "text": "Le rugissement du tigre ne ressemble pas au rugissement ample du lion, mais plutôt à une phrase dont les mots seraient des cris et des grondements."
+  },
+  {
+   "start": 92.8,
+   "end": 101.56,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10938576782105608041.wav",
+   "gender": "FEMALE",
+   "text": "Blogs can also help improve student writing. While students often begin their blog experience with sloppy grammar and spelling, the presence of an audience generally changes that."
+  },
+  {
+   "start": 102.16,
+   "end": 110.5,
+   "lang": "fr",
+   "fleurs": "fr_fr",
+   "file": "10166091086920486572.wav",
+   "gender": "FEMALE",
+   "text": "Le même mois, un autre avion de ligne a fait une sortie de piste à Mashhad et a heurté un mur, tuant ainsi dix-sept personnes."
+  }
+ ]
+}

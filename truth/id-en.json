@@ -1,0 +1,79 @@
+{
+ "id": "id-en",
+ "duration_sec": 83.5,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 8.58,
+   "lang": "id",
+   "fleurs": "id_id",
+   "file": "10000183170391984234.wav",
+   "gender": "MALE",
+   "text": "Tim-tim virtual memiliki standar keunggulan yang sama dengan tim konvensional, tetapi ada sedikit perbedaan."
+  },
+  {
+   "start": 9.18,
+   "end": 20.1,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10405958125670257178.wav",
+   "gender": "FEMALE",
+   "text": "Lion prides act much like packs of wolves or dogs, animals surprisingly similar to lions (but not other big cats) in behavior, and also very deadly to their prey."
+  },
+  {
+   "start": 20.7,
+   "end": 28.38,
+   "lang": "id",
+   "fleurs": "id_id",
+   "file": "10002490060307670158.wav",
+   "gender": "MALE",
+   "text": "Segera setelah permusuhan pecah, Britania memulai blokade laut Jerman."
+  },
+  {
+   "start": 28.98,
+   "end": 40.26,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10411016628242228511.wav",
+   "gender": "FEMALE",
+   "text": "The city is also the base to climb the Nyiragongo volcano along with some of the cheapest Mountain Gorilla tracking in Africa."
+  },
+  {
+   "start": 40.86,
+   "end": 50.34,
+   "lang": "id",
+   "fleurs": "id_id",
+   "file": "10030207972417551421.wav",
+   "gender": "MALE",
+   "text": "Semua nomina, di samping kata Sie untuk Anda, selalu dimulai dengan huruf kapital, bahkan di tengah kalimat."
+  },
+  {
+   "start": 50.94,
+   "end": 56.66,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1042003289011443756.wav",
+   "gender": "MALE",
+   "text": "The Internet combines elements of both mass and interpersonal communication."
+  },
+  {
+   "start": 57.26,
+   "end": 66.74,
+   "lang": "id",
+   "fleurs": "id_id",
+   "file": "10032905869247911591.wav",
+   "gender": "MALE",
+   "text": "Ini sepertinya masuk akal, karena Bumi tidak terasa seperti bergerak, bukan begitu?"
+  },
+  {
+   "start": 67.34,
+   "end": 82.9,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1043394666292127188.wav",
+   "gender": "MALE",
+   "text": "These theories look at what it is about certain people that make them want the things that they do and what things in their environment will make them do or not do certain things."
+  }
+ ]
+}

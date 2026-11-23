@@ -1,0 +1,79 @@
+{
+ "id": "th-en",
+ "duration_sec": 73.9,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 8.82,
+   "lang": "th",
+   "fleurs": "th_th",
+   "file": "10021525843523202225.wav",
+   "gender": "FEMALE",
+   "text": "Danielle Lantagne ผู้เชี่ยวชาญด้านโรคภัยประจำสหประชาชาติแถลงว่า เป็นไปได้ที่การระบาดของโรคในครั้งนี้เกิดจากเจ้าหน้าที่รักษาความสงบ"
+  },
+  {
+   "start": 9.42,
+   "end": 13.74,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10233995782544396174.wav",
+   "gender": "FEMALE",
+   "text": "Many people don't think about them as dinosaurs because they have feathers and can fly."
+  },
+  {
+   "start": 14.34,
+   "end": 21.54,
+   "lang": "th",
+   "fleurs": "th_th",
+   "file": "10026868752543983818.wav",
+   "gender": "FEMALE",
+   "text": "สิ่งนี้เรียกว่าค่า pH ของสารเคมี คุณสามารถสร้างตัวระบุได้โดยใช้น้ำกะหล่ำปลีแดง"
+  },
+  {
+   "start": 22.14,
+   "end": 33.56,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10235738076911595987.wav",
+   "gender": "MALE",
+   "text": "The hospital has followed protocol for infection control, including separating the patient from others to prevent possible infection of others."
+  },
+  {
+   "start": 34.16,
+   "end": 43.7,
+   "lang": "th",
+   "fleurs": "th_th",
+   "file": "10039458165040799931.wav",
+   "gender": "FEMALE",
+   "text": "เมื่อพิจารณาทุกสิ่งแล้วก็ไม่น่าแปลกใจเลย หากบรรพบุรุษของเราจะแก้ไข \"ปัญหาเรื่องโปรตีน\" ด้วยวิธีที่เหมือนกันอยู่บ้างกับที่ชิมแปนซีในทุ่งหญ้าสะวันนาทำในปัจจุบัน"
+  },
+  {
+   "start": 44.3,
+   "end": 55.1,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10323357556845456822.wav",
+   "gender": "FEMALE",
+   "text": "The Northern Marianas emergency management office said that there were no damages reported in the nation."
+  },
+  {
+   "start": 55.7,
+   "end": 65.72,
+   "lang": "th",
+   "fleurs": "th_th",
+   "file": "1007571455564489221.wav",
+   "gender": "FEMALE",
+   "text": "เฉพาะการกลายพันธุ์ในเซลล์ถ่ายทอดสารพันธุกรรมเท่านั้น ที่จะสามารถถ่ายทอดไปยังบุตรหลานได้ ในขณะที่การกลายพันธุ์ที่อื่นอาจทำให้เซลล์ตายหรือกลายเป็นเซลล์มะเร็ง"
+  },
+  {
+   "start": 66.32,
+   "end": 73.28,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10335587906469246566.wav",
+   "gender": "FEMALE",
+   "text": "Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed."
+  }
+ ]
+}

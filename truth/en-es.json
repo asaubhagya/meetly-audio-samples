@@ -1,0 +1,97 @@
+{
+ "id": "en-es",
+ "duration_sec": 115.4,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 6.3,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10751756685109361684.wav",
+   "gender": "FEMALE",
+   "text": "Danielle Lantagne, a UN expert on the disease, stated the outbreak was likely caused by the peacekeepers."
+  },
+  {
+   "start": 6.9,
+   "end": 19.74,
+   "lang": "es",
+   "fleurs": "es_419",
+   "file": "1001146817223348054.wav",
+   "gender": "MALE",
+   "text": "Se recomienda enfáticamente a los viajeros que se informen sobre cualquier riesgo de clima extremo en el área que visitan, dado que ello puede afectar sus planes de viaje."
+  },
+  {
+   "start": 20.34,
+   "end": 34.94,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10768814098664478369.wav",
+   "gender": "MALE",
+   "text": "The other nominations include Best Picture, Director, Cinematography, Costume Design, Film-editing, Original Score, Production Design, Sound Editing, Sound Mixing and Original Screenplay."
+  },
+  {
+   "start": 35.54,
+   "end": 56.9,
+   "lang": "es",
+   "fleurs": "es_419",
+   "file": "10050510856477907332.wav",
+   "gender": "MALE",
+   "text": "El uso adecuado de los blogs «puede empoderar a los alumnos para que sean más analíticos y críticos, a través de la respuesta activa a los contenidos de internet, pueden definir sus posturas en el contexto de los escritos de otros, además de establecer sus perspectivas sobre temas específicos» (Oravec, 2002)."
+  },
+  {
+   "start": 57.5,
+   "end": 63.14,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10849792007407044602.wav",
+   "gender": "FEMALE",
+   "text": "Virtual teams are held to the same standards of excellence as conventional teams, but there are subtle differences."
+  },
+  {
+   "start": 63.74,
+   "end": 73.46,
+   "lang": "es",
+   "fleurs": "es_419",
+   "file": "1008205615316519958.wav",
+   "gender": "MALE",
+   "text": "Fue tanta la cantidad de gente que se concentró, que no todos pudieron acceder al funeral en la Plaza de San Pedro."
+  },
+  {
+   "start": 74.06,
+   "end": 83.64,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10861831846737909528.wav",
+   "gender": "MALE",
+   "text": "In the north the region is bounded by the Sahel, and in the south and west by the Atlantic Ocean."
+  },
+  {
+   "start": 84.24,
+   "end": 92.82,
+   "lang": "es",
+   "fleurs": "es_419",
+   "file": "10084850086754329587.wav",
+   "gender": "MALE",
+   "text": "Esto parece tener sentido, ya que en la Tierra no se percibe su movimiento, ¿cierto?"
+  },
+  {
+   "start": 93.42,
+   "end": 103.62,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10894616243452123700.wav",
+   "gender": "FEMALE",
+   "text": "A well rounded athlete, the tiger can climb (though not well), swim, leap great distances and pull with five times the force of a strong human."
+  },
+  {
+   "start": 104.22,
+   "end": 114.84,
+   "lang": "es",
+   "fleurs": "es_419",
+   "file": "10107325335956726764.wav",
+   "gender": "MALE",
+   "text": "Carpanedo participó en dos carreras individuales del campeonato aparte de la competencia del miércoles."
+  }
+ ]
+}

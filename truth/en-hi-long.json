@@ -1,0 +1,367 @@
+{
+ "id": "en-hi-long",
+ "duration_sec": 465.7,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 11.04,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10344335557154974057.wav",
+   "gender": "MALE",
+   "text": "The aspect ratio of this format (dividing by twelve to obtain the simplest whole-number ratio) is therefore said to be 3:2."
+  },
+  {
+   "start": 11.64,
+   "end": 19.44,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10200643191519059428.wav",
+   "gender": "MALE",
+   "text": "सबसे नज़दीकी सिरे पर क्रस्ट की मोटाई करीब 70 किलोमीटर है और सबसे दूर के सिरे पर यह 100 किलोमीटर है."
+  },
+  {
+   "start": 20.04,
+   "end": 29.94,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1036771894648013441.wav",
+   "gender": "FEMALE",
+   "text": "As light pollution in their heyday was not the kind of problem it is today, they are usually located in cities or at campuses, easier to reach than those built in modern times."
+  },
+  {
+   "start": 30.54,
+   "end": 44.22,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10245365873747218908.wav",
+   "gender": "MALE",
+   "text": "यह संबंधित है, लेकिन आम तौर पर इसमें अल्पाइन शैली की स्की टूरिंग या माउंटेनीयरिंग शामिल नहीं होती है, जिसे खड़े इलाकों में किया जाता है और जिसके लिए बहुत कड़ी स्की और बूट की ज़रूरत होती है."
+  },
+  {
+   "start": 44.82,
+   "end": 49.62,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1038214857203833067.wav",
+   "gender": "FEMALE",
+   "text": "Through the night between 150 and 200 copies were made, now known as \"Dunlap broadsides\"."
+  },
+  {
+   "start": 50.22,
+   "end": 64.5,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10286778291956788434.wav",
+   "gender": "MALE",
+   "text": "पुरुषों के स्टैंडिंग सुपर-जी में ऑस्ट्रेलिया के मिशेल गौरले ग्यारहवें स्थान पर रहे. चेक प्रतियोगी ओल्डरिच जेलिनेक पुरुषों के सिटिंग सुपर-जी में सोलहवें स्थान पर रहे."
+  },
+  {
+   "start": 65.1,
+   "end": 76.38,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10383288285905292158.wav",
+   "gender": "FEMALE",
+   "text": "For example, each year students from Bennet School in North Carolina design a website about their trip to the State Capital, each year the website gets remodeled, but old versions are kept online to serve as a scrapbook."
+  },
+  {
+   "start": 76.98,
+   "end": 89.88,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10291152526359423424.wav",
+   "gender": "FEMALE",
+   "text": "केवल दो हफ़्तों में अमेरिकियों और फ़्री फ़्रेंच बलों ने दक्षिणी फ़्रांस को मुक्त कर दिया था और जर्मनी की ओर बढ़ रहे थे."
+  },
+  {
+   "start": 90.48,
+   "end": 101.4,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10405958125670257178.wav",
+   "gender": "FEMALE",
+   "text": "Lion prides act much like packs of wolves or dogs, animals surprisingly similar to lions (but not other big cats) in behavior, and also very deadly to their prey."
+  },
+  {
+   "start": 102.0,
+   "end": 111.0,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10359991159058879218.wav",
+   "gender": "MALE",
+   "text": "MS, बीमारी केंद्रीय तंत्रिका तंत्र पर असर करती है, जिसमें दिमाग, स्पाइनल कॉर्ड और ऑप्टिक नर्व शामिल हैं."
+  },
+  {
+   "start": 111.6,
+   "end": 122.88,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10411016628242228511.wav",
+   "gender": "FEMALE",
+   "text": "The city is also the base to climb the Nyiragongo volcano along with some of the cheapest Mountain Gorilla tracking in Africa."
+  },
+  {
+   "start": 123.48,
+   "end": 133.74,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10550791631951016124.wav",
+   "gender": "MALE",
+   "text": "हर कोई समाज से जुड़ा होता है और ट्रांसपोर्ट सिस्टम का उपयोग करता है. लगभग सभी लोग ट्रांसपोर्ट सिस्टम के बारे में शिकायत करते हैं."
+  },
+  {
+   "start": 134.34,
+   "end": 140.06,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1042003289011443756.wav",
+   "gender": "MALE",
+   "text": "The Internet combines elements of both mass and interpersonal communication."
+  },
+  {
+   "start": 140.66,
+   "end": 161.54,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10582204498174558997.wav",
+   "gender": "MALE",
+   "text": "एक पूरी तरह से विकसित एथलीट की तरह, बाघ चढ़ाई कर सकता है (हालाँकि अच्छी तरह से नहीं), तैर सकता है, बड़ी दूरी तक छलांग लगा सकता है और एक शक्तिशाली मनुष्य के पाँच गुना बल के साथ खींच सकता है."
+  },
+  {
+   "start": 162.14,
+   "end": 177.7,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1043394666292127188.wav",
+   "gender": "MALE",
+   "text": "These theories look at what it is about certain people that make them want the things that they do and what things in their environment will make them do or not do certain things."
+  },
+  {
+   "start": 178.3,
+   "end": 187.18,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10587318592827006604.wav",
+   "gender": "MALE",
+   "text": "विशेष रूप से सवाना पर बेहतरीन अफ़्रीकी वन्य जीवन को संपूर्ण रूप से देखने के लिए आमतौर पर सफ़ारी शब्द का उपयोग किया जाता है."
+  },
+  {
+   "start": 187.78,
+   "end": 201.7,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1045619486290403122.wav",
+   "gender": "FEMALE",
+   "text": "For example, the most common still image photography format in the world is 35mm, which was the dominant film size at the close of the analog film era."
+  },
+  {
+   "start": 202.3,
+   "end": 212.8,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10590937942465254187.wav",
+   "gender": "MALE",
+   "text": "गंभीर मौसम किसी भी खतरनाक मौसमी घटना के लिए वर्गीय शब्द है जिसमें नुकसान, गंभीर सामाजिक व्यवधान, या मानव जीवन की हानि की संभावना है।"
+  },
+  {
+   "start": 213.4,
+   "end": 222.04,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1046653381869710616.wav",
+   "gender": "FEMALE",
+   "text": "The term safari in popular use refers to overland travel to view the stunning African wildlife, particularly on savanna."
+  },
+  {
+   "start": 222.64,
+   "end": 240.58,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10622951485514869484.wav",
+   "gender": "MALE",
+   "text": "हालाँकि यह अकेला नहीं है, प्रयोग करना, और प्रयोग एक ऐसा परीक्षण होता है जिसका इस्तेमाल करके एक या इससे ज़्यादा संभावित परिकल्पनाओं को ख़त्म करने, सवाल करने, और अवलोकन करने से भी वैज्ञानिक शोध को मार्गदर्शन मिलता है."
+  },
+  {
+   "start": 241.18,
+   "end": 246.54,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10471564175308895403.wav",
+   "gender": "MALE",
+   "text": "But there are a lot of things about birds that still look like a dinosaur."
+  },
+  {
+   "start": 247.14,
+   "end": 253.08,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10761312360331088376.wav",
+   "gender": "FEMALE",
+   "text": "कैल्शियम और पोटैशियम जैसे तत्वों को धातु माना जाता है। बेशक, चांदी और सोने जैसी धातुएं भी हैं।"
+  },
+  {
+   "start": 253.68,
+   "end": 263.82,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10481451226514948764.wav",
+   "gender": "MALE",
+   "text": "Women: It is recommended that any women travellers say that they are married, regardless of actual marital status."
+  },
+  {
+   "start": 264.42,
+   "end": 274.86,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "1078154098564425938.wav",
+   "gender": "FEMALE",
+   "text": "हॉट चॉकलेट बेल्जियम के मानकों पर बनी है. फलों का जूस महंगा है लेकिन बहुत अच्छा है."
+  },
+  {
+   "start": 275.46,
+   "end": 281.1,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10492135991603561867.wav",
+   "gender": "FEMALE",
+   "text": "In some areas boiling water for a minute is enough, in others several minutes are needed."
+  },
+  {
+   "start": 281.7,
+   "end": 299.46,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10798430940133763019.wav",
+   "gender": "MALE",
+   "text": "जिस समय घटनाएँ हुई उसके युग को सामान्य रूप से यूरोप के इतिहास में 11वीं, 12वीं और 13वीं सदी (AD 1000-1300) में यूरोपियन इतिहास के उच्च मध्य युग की अवधि के रूप में बताया जाता है."
+  },
+  {
+   "start": 300.06,
+   "end": 308.64,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10492761258488775721.wav",
+   "gender": "FEMALE",
+   "text": "Anyone who's going to drive at high latitudes or over mountain passes should consider the possibility of snow, ice, or freezing temperatures."
+  },
+  {
+   "start": 309.24,
+   "end": 328.98,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10847487616323903195.wav",
+   "gender": "MALE",
+   "text": "कुछ लोगों ये सोचते थे की कि वह सही था लेकिन बहुत से लोग इसके विपरीत मानते थे; की सौर मंडल सूर्य (और यहां तक कि अन्य सितारों) सहित पृथ्वी के चारों और चक्कर लगता था ।"
+  },
+  {
+   "start": 329.58,
+   "end": 341.02,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10536763405165824117.wav",
+   "gender": "MALE",
+   "text": "As a result, two fish species have become extinct, and two others have become endangered, including the humpback chub."
+  },
+  {
+   "start": 341.62,
+   "end": 354.4,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10907654079731428081.wav",
+   "gender": "FEMALE",
+   "text": "यदि आप केवल शिपबोर्ड भ्रमण का उपयोग करके किनारे तक जाते हैं तो आपको एक अलग वीज़ा की आवश्यकता नहीं होगी (2009 तक)."
+  },
+  {
+   "start": 355.0,
+   "end": 364.6,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1054805305879816018.wav",
+   "gender": "FEMALE",
+   "text": "It was ruled by the \"Vichy\" French. These were French people who had made peace with the Germans in 1940 and worked with the invaders instead of fighting them."
+  },
+  {
+   "start": 365.2,
+   "end": 380.14,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10921902647446458507.wav",
+   "gender": "FEMALE",
+   "text": "यहूदी और गैर-यहूदी की तरह, अभी भी ऐसे कई पुरुष और महिलाएं जीवित हैं जो उस समय बचने में सफल रहे और कई जिनके प्रियजनों को मार दिया गया या उनके मरने तक उनसे काम करवाया गया."
+  },
+  {
+   "start": 380.74,
+   "end": 390.86,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10550734868852131138.wav",
+   "gender": "MALE",
+   "text": "On 15 August 1940, the Allies invaded southern France, the invasion was called \"Operation Dragoon\"."
+  },
+  {
+   "start": 391.46,
+   "end": 409.82,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10924000697500767031.wav",
+   "gender": "MALE",
+   "text": "इटैलियन भी रोज़ाना इस्तेमाल होने वाली भाषा है जिसे राज्य में काम करने वाले अधिकांश लोग उपयोग में लाते हैं, जबकि लेटिन का धार्मिक रस्मों में इस्तेमाल किया जाता है."
+  },
+  {
+   "start": 410.42,
+   "end": 418.8,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10614481583312370701.wav",
+   "gender": "MALE",
+   "text": "Alloys are basically a mixture of two or more metals. Don't forget that there are many elements on the periodic table."
+  },
+  {
+   "start": 419.4,
+   "end": 427.14,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10972260827293009900.wav",
+   "gender": "MALE",
+   "text": "लोग यह अनुमान नहीं लगा सकते हैं कि घर लौटने वाले यात्रियों के लिए धैर्य और समझ भी आवश्यक है."
+  },
+  {
+   "start": 427.74,
+   "end": 439.14,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10622204403793540766.wav",
+   "gender": "FEMALE",
+   "text": "For example, each year students from Bennet School in North Carolina design a website about their trip to the State Capital, each year the website gets remodeled, but old versions are kept online to serve as a scrapbook."
+  },
+  {
+   "start": 439.74,
+   "end": 443.82,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10980788482676060439.wav",
+   "gender": "FEMALE",
+   "text": "उन्होंने अफवाहों को “राजनीतिक बकवास और मूर्खतापूर्ण” कहा."
+  },
+  {
+   "start": 444.42,
+   "end": 459.08,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10731896540541531669.wav",
+   "gender": "MALE",
+   "text": "His work is of such recognized quality and detail that he is one of the very few \"household names\" among philatelists. Some specialize in collecting his work alone."
+  },
+  {
+   "start": 459.68,
+   "end": 465.14,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "11014623647783711221.wav",
+   "gender": "MALE",
+   "text": "इंटरनेट, लोगों और अंतर-परस्पर संचार, दोनों के तत्वों को मिलाता है."
+  }
+ ]
+}

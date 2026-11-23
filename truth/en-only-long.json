@@ -1,0 +1,277 @@
+{
+ "id": "en-only-long",
+ "duration_sec": 297.6,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 6.3,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10751756685109361684.wav",
+   "gender": "FEMALE",
+   "text": "Danielle Lantagne, a UN expert on the disease, stated the outbreak was likely caused by the peacekeepers."
+  },
+  {
+   "start": 6.9,
+   "end": 21.5,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10768814098664478369.wav",
+   "gender": "MALE",
+   "text": "The other nominations include Best Picture, Director, Cinematography, Costume Design, Film-editing, Original Score, Production Design, Sound Editing, Sound Mixing and Original Screenplay."
+  },
+  {
+   "start": 22.1,
+   "end": 27.74,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10849792007407044602.wav",
+   "gender": "FEMALE",
+   "text": "Virtual teams are held to the same standards of excellence as conventional teams, but there are subtle differences."
+  },
+  {
+   "start": 28.34,
+   "end": 37.92,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10861831846737909528.wav",
+   "gender": "MALE",
+   "text": "In the north the region is bounded by the Sahel, and in the south and west by the Atlantic Ocean."
+  },
+  {
+   "start": 38.52,
+   "end": 48.72,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10894616243452123700.wav",
+   "gender": "FEMALE",
+   "text": "A well rounded athlete, the tiger can climb (though not well), swim, leap great distances and pull with five times the force of a strong human."
+  },
+  {
+   "start": 49.32,
+   "end": 56.16,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10899527843662463911.wav",
+   "gender": "FEMALE",
+   "text": "He was subsequently relocated to Addenbrooke's Hospital in Cambridge."
+  },
+  {
+   "start": 56.76,
+   "end": 65.1,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10903101168349732260.wav",
+   "gender": "MALE",
+   "text": "The pyramid sound and light show is one of the most interesting things in the area for kids."
+  },
+  {
+   "start": 65.7,
+   "end": 76.62,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10933070083389897676.wav",
+   "gender": "FEMALE",
+   "text": "Due to the underwater topology the return flow is concentrated at a few deeper sections, and a fast current to deep water may form there."
+  },
+  {
+   "start": 77.22,
+   "end": 87.04,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10937407360976471523.wav",
+   "gender": "MALE",
+   "text": "The crash occurred high up in mountainous terrain, and is believed to have been the result of hostile fire."
+  },
+  {
+   "start": 87.64,
+   "end": 96.4,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10938576782105608041.wav",
+   "gender": "FEMALE",
+   "text": "Blogs can also help improve student writing. While students often begin their blog experience with sloppy grammar and spelling, the presence of an audience generally changes that."
+  },
+  {
+   "start": 97.0,
+   "end": 101.5,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10969774925516121312.wav",
+   "gender": "FEMALE",
+   "text": "This is an important way to distinguish between some verbs and objects."
+  },
+  {
+   "start": 102.1,
+   "end": 109.66,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11060294228176938598.wav",
+   "gender": "FEMALE",
+   "text": "As a result, two fish species have become extinct, and two others have become endangered, including the humpback chub."
+  },
+  {
+   "start": 110.26,
+   "end": 116.04,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1107772981946748169.wav",
+   "gender": "MALE",
+   "text": "But there are a lot of things about birds that still look like a dinosaur."
+  },
+  {
+   "start": 116.64,
+   "end": 129.42,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1111475259790805601.wav",
+   "gender": "FEMALE",
+   "text": "Oliver Sacks, in his paper The President's Speech, indicated how people who are unable to understand speech because of brain damage are nevertheless able to assess sincerity accurately."
+  },
+  {
+   "start": 130.02,
+   "end": 140.64,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11147918080606585533.wav",
+   "gender": "MALE",
+   "text": "Goats seem to have been first domesticated roughly 10,000 years ago in the Zagros Mountains of Iran."
+  },
+  {
+   "start": 141.24,
+   "end": 148.56,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1116140877447157610.wav",
+   "gender": "FEMALE",
+   "text": "Travellers are strongly advised to be aware of any risk of severe weather affecting their area as they may affect any travel plans."
+  },
+  {
+   "start": 149.16,
+   "end": 160.56,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1116401173651214130.wav",
+   "gender": "MALE",
+   "text": "During this period of European history, the Catholic Church, which had become rich and powerful, came under scrutiny."
+  },
+  {
+   "start": 161.16,
+   "end": 171.34,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11200231708585274851.wav",
+   "gender": "MALE",
+   "text": "As knowledge of Greek declined, the West found itself cut off from its Greek philosophical and scientific roots."
+  },
+  {
+   "start": 171.94,
+   "end": 181.06,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11260391063812418810.wav",
+   "gender": "FEMALE",
+   "text": "Last week, METI announced that Apple had informed it of 34 additional overheating incidents, which the company called \"non-serious.\""
+  },
+  {
+   "start": 181.66,
+   "end": 192.4,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11265842188315045636.wav",
+   "gender": "FEMALE",
+   "text": "Vatican City's population is around 800. It is the smallest independent country in the world and the country with the lowest population."
+  },
+  {
+   "start": 193.0,
+   "end": 212.12,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11318597463051480163.wav",
+   "gender": "MALE",
+   "text": "Mrs. Kirchner announced her intention to run for president at the Argentine Theatre, the same location she used to start her 2005 campaign for the Senate as member of the Buenos Aires province delegation."
+  },
+  {
+   "start": 212.72,
+   "end": 219.14,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11374239868879585530.wav",
+   "gender": "FEMALE",
+   "text": "The hot chocolate is up to Belgian standards. Fruit juices are pricey but excellent."
+  },
+  {
+   "start": 219.74,
+   "end": 232.52,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11426556553252626005.wav",
+   "gender": "MALE",
+   "text": "The harbor was the site of an infamous naval standoff in 1889 when seven ships from Germany, the US, and Britain refused to leave the harbor."
+  },
+  {
+   "start": 233.12,
+   "end": 242.06,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11459777646810052940.wav",
+   "gender": "FEMALE",
+   "text": "Built by the Egyptians in the third century BCE, the Great Pyramid is one of many large pyramid structures built to honor dead Pharaoh."
+  },
+  {
+   "start": 242.66,
+   "end": 251.54,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1146643745158029931.wav",
+   "gender": "FEMALE",
+   "text": "A civilization is a singular culture shared by a significant large group of people who live and work co-operatively, a society."
+  },
+  {
+   "start": 252.14,
+   "end": 264.62,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11483786862560523973.wav",
+   "gender": "FEMALE",
+   "text": "To the north and within easy reach is the romantic and fascinating town of Sintra and which was made famous to foreigners after a glowing account of its splendours recorded by Lord Byron."
+  },
+  {
+   "start": 265.22,
+   "end": 275.42,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11497310594035767755.wav",
+   "gender": "FEMALE",
+   "text": "Lion prides act much like packs of wolves or dogs, animals surprisingly similar to lions (but not other big cats) in behavior, and also very deadly to their prey."
+  },
+  {
+   "start": 276.02,
+   "end": 282.2,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11504385604540375365.wav",
+   "gender": "FEMALE",
+   "text": "Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago."
+  },
+  {
+   "start": 282.8,
+   "end": 289.64,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11525263464519603482.wav",
+   "gender": "FEMALE",
+   "text": "Most modern research telescopes are enormous facilities in remote areas with favorable atmospheric conditions."
+  },
+  {
+   "start": 290.24,
+   "end": 297.02,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1153104690713813269.wav",
+   "gender": "FEMALE",
+   "text": "If you have watched the movie National Treasure, you may think a treasure map was written on the back of the Declaration of Independence."
+  }
+ ]
+}

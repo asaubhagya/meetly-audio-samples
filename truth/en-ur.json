@@ -1,0 +1,97 @@
+{
+ "id": "en-ur",
+ "duration_sec": 95.8,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 5.36,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10471564175308895403.wav",
+   "gender": "MALE",
+   "text": "But there are a lot of things about birds that still look like a dinosaur."
+  },
+  {
+   "start": 5.96,
+   "end": 18.2,
+   "lang": "ur",
+   "fleurs": "ur_pk",
+   "file": "10032188829272002643.wav",
+   "gender": "FEMALE",
+   "text": "ان کے دور میں خفیف تلوُّث ایزا مسئلہ نہیں تھا جیسا کہ وہ آج ہے۔ ان کی سکونت ایسے شہروں یا حوزات میں ہے جہا ں تک بآسانی پہنچا جا سکتا ہے بہ نسبت ان مقامات کے جو ماڈرن زمانے میں تعمیر کئے گئے۔"
+  },
+  {
+   "start": 18.8,
+   "end": 28.94,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10481451226514948764.wav",
+   "gender": "MALE",
+   "text": "Women: It is recommended that any women travellers say that they are married, regardless of actual marital status."
+  },
+  {
+   "start": 29.54,
+   "end": 35.78,
+   "lang": "ur",
+   "fleurs": "ur_pk",
+   "file": "10095499047464363355.wav",
+   "gender": "FEMALE",
+   "text": "فلپائنی فوٹوگرافروں کے ساتھ چھےاغوا شدگان کو جلد رہا کر دیا گیا تھا، جِن میں بچّے اور بُوڑھے شامل تھے۔"
+  },
+  {
+   "start": 36.38,
+   "end": 42.02,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10492135991603561867.wav",
+   "gender": "FEMALE",
+   "text": "In some areas boiling water for a minute is enough, in others several minutes are needed."
+  },
+  {
+   "start": 42.62,
+   "end": 54.74,
+   "lang": "ur",
+   "fleurs": "ur_pk",
+   "file": "10125021012985362908.wav",
+   "gender": "FEMALE",
+   "text": "اس کے لانبے جبڑوں میں 70 سے زیادہ استرے سے تیز دانت جڑے تھے اور اسی کے ساتھ اس کے منہ کے تالو میں دانتوں کی ایک مزید لڑی تھی۔ اس کے معنی یہ ہیں کہ اس کے راستہ میں آنے والی کوئی شے اس سے بھاگ نہیں سکتی۔"
+  },
+  {
+   "start": 55.34,
+   "end": 63.92,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10492761258488775721.wav",
+   "gender": "FEMALE",
+   "text": "Anyone who's going to drive at high latitudes or over mountain passes should consider the possibility of snow, ice, or freezing temperatures."
+  },
+  {
+   "start": 64.52,
+   "end": 72.08,
+   "lang": "ur",
+   "fleurs": "ur_pk",
+   "file": "10333437275452354975.wav",
+   "gender": "FEMALE",
+   "text": "اکتوبر میں شروع ہونے والے حکومت مخالف مظاہروں پر مارٹیلی کا ردعمل کمیشن تھا۔"
+  },
+  {
+   "start": 72.68,
+   "end": 84.12,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10536763405165824117.wav",
+   "gender": "MALE",
+   "text": "As a result, two fish species have become extinct, and two others have become endangered, including the humpback chub."
+  },
+  {
+   "start": 84.72,
+   "end": 95.16,
+   "lang": "ur",
+   "fleurs": "ur_pk",
+   "file": "10396706355132117002.wav",
+   "gender": "FEMALE",
+   "text": "ہسپتال نے انفیکشن پر قابو پانے کے لیے پروٹوکول کی تقلید کی ہے، جس میں مریض کو دیگر سے علیحدہ کرنا شامل ہے تاکہ دیگر افراد کے ممکنہ انفیکشن سے بچا جا سکے۔"
+  }
+ ]
+}

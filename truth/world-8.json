@@ -1,0 +1,151 @@
+{
+ "id": "world-8",
+ "duration_sec": 182.3,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 10.14,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10481451226514948764.wav",
+   "gender": "MALE",
+   "text": "Women: It is recommended that any women travellers say that they are married, regardless of actual marital status."
+  },
+  {
+   "start": 10.74,
+   "end": 21.0,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10550791631951016124.wav",
+   "gender": "MALE",
+   "text": "हर कोई समाज से जुड़ा होता है और ट्रांसपोर्ट सिस्टम का उपयोग करता है. लगभग सभी लोग ट्रांसपोर्ट सिस्टम के बारे में शिकायत करते हैं."
+  },
+  {
+   "start": 21.6,
+   "end": 28.74,
+   "lang": "de",
+   "fleurs": "de_de",
+   "file": "10229344228128634115.wav",
+   "gender": "MALE",
+   "text": "Jeder nimmt an der Gesellschaft teil und benutzt Transportsysteme. Fast jeder beklagt sich über die Transportsysteme.x"
+  },
+  {
+   "start": 29.34,
+   "end": 39.12,
+   "lang": "es",
+   "fleurs": "es_419",
+   "file": "1013662909103347734.wav",
+   "gender": "MALE",
+   "text": "Hoy en día, las personas escriben mensajes en las pantallas de sus computadoras. No tienen la necesidad de, siquiera, aproximarse a un sacapuntas."
+  },
+  {
+   "start": 39.72,
+   "end": 52.62,
+   "lang": "zh",
+   "fleurs": "cmn_hans_cn",
+   "file": "10056338555786085046.wav",
+   "gender": "MALE",
+   "text": "科学家们可以得出结论，暗物质对其他暗物质的影响方式与普通物质相同。"
+  },
+  {
+   "start": 53.22,
+   "end": 65.28,
+   "lang": "ja",
+   "fleurs": "ja_jp",
+   "file": "10193386983118883224.wav",
+   "gender": "MALE",
+   "text": "ロスビー数が小さいほど磁気反転に関して星の活性が低下するわけです。"
+  },
+  {
+   "start": 65.88,
+   "end": 74.22,
+   "lang": "ar",
+   "fleurs": "ar_eg",
+   "file": "10219273669592698682.wav",
+   "gender": "FEMALE",
+   "text": "إن عرض الصوت والضوء الهرمي واحد من أمتع الأشياء الموجودة بالمنطقة للأطفال."
+  },
+  {
+   "start": 74.82,
+   "end": 85.26,
+   "lang": "ru",
+   "fleurs": "ru_ru",
+   "file": "10021068571959461962.wav",
+   "gender": "MALE",
+   "text": "В 1990 году он был добавлен в список всемирного наследия, находящегося под угрозой из-за опасности со стороны песков пустыни."
+  },
+  {
+   "start": 85.86,
+   "end": 91.5,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10492135991603561867.wav",
+   "gender": "FEMALE",
+   "text": "In some areas boiling water for a minute is enough, in others several minutes are needed."
+  },
+  {
+   "start": 92.1,
+   "end": 112.98,
+   "lang": "hi",
+   "fleurs": "hi_in",
+   "file": "10582204498174558997.wav",
+   "gender": "MALE",
+   "text": "एक पूरी तरह से विकसित एथलीट की तरह, बाघ चढ़ाई कर सकता है (हालाँकि अच्छी तरह से नहीं), तैर सकता है, बड़ी दूरी तक छलांग लगा सकता है और एक शक्तिशाली मनुष्य के पाँच गुना बल के साथ खींच सकता है."
+  },
+  {
+   "start": 113.58,
+   "end": 130.44,
+   "lang": "de",
+   "fleurs": "de_de",
+   "file": "10240730312646485406.wav",
+   "gender": "MALE",
+   "text": "NextGen ist ein System, von dem die FAA behauptet, dass es Flugzeugen erlauben würde, kürzere Strecken zu fliegen und jedes Jahr Millionen Gallonen an Treibstoff zu sparen und die Kohlenstoffemissionen zu reduzieren."
+  },
+  {
+   "start": 131.04,
+   "end": 136.68,
+   "lang": "es",
+   "fleurs": "es_419",
+   "file": "10149016836336603986.wav",
+   "gender": "FEMALE",
+   "text": "Los luchadores compañeros de Luna también le rindieron homenaje."
+  },
+  {
+   "start": 137.28,
+   "end": 151.02,
+   "lang": "zh",
+   "fleurs": "cmn_hans_cn",
+   "file": "10073099671796350432.wav",
+   "gender": "MALE",
+   "text": "大多数现代科研望远镜都是巨型设施，位于大气条件优良的偏远地区。"
+  },
+  {
+   "start": 151.62,
+   "end": 158.58,
+   "lang": "ja",
+   "fleurs": "ja_jp",
+   "file": "10203675650837159328.wav",
+   "gender": "FEMALE",
+   "text": "群島や湖では、必ずしもヨットは必要ありません。"
+  },
+  {
+   "start": 159.18,
+   "end": 173.94,
+   "lang": "ar",
+   "fleurs": "ar_eg",
+   "file": "10223562251993082117.wav",
+   "gender": "FEMALE",
+   "text": "تذكر أنه على الرغم من أن الموسيقى في المنصات الرئيسية قد تكون انتهت، إلا أن هناك أقسام من المهرجان قد تستمر في تشغيل الموسيقى حتى وقت متأخر من الليل."
+  },
+  {
+   "start": 174.54,
+   "end": 181.74,
+   "lang": "ru",
+   "fleurs": "ru_ru",
+   "file": "10024935581249406669.wav",
+   "gender": "FEMALE",
+   "text": "Согласно ядерному управлению Японии, на заводе были обнаружены радиоактивный цезий и йод."
+  }
+ ]
+}

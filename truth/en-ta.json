@@ -1,0 +1,97 @@
+{
+ "id": "en-ta",
+ "duration_sec": 134.9,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 10.2,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11536232800365538941.wav",
+   "gender": "FEMALE",
+   "text": "The Sundarbans are the largest littoral mangrove belt in the world, stretching 80 km (50 mi) into the Bangladeshi and Indian hinterland from the coast."
+  },
+  {
+   "start": 10.8,
+   "end": 31.62,
+   "lang": "ta",
+   "fleurs": "ta_in",
+   "file": "10222238337252024030.wav",
+   "gender": "FEMALE",
+   "text": "பேருந்துகள் நாள் முழுவதும் மாவட்டங்களுக்கு இடையேயான பேருந்து நிலையத்திலிருந்து (ஆற்றின் குறுக்கே) புறப்படுகின்றன, இருப்பினும் பெரும்பாலானவை, குறிப்பாகக் கிழக்கு நோக்கிச் செல்லும் பேருந்துகள், மற்றும் ஜகார் / பும்தாங் 06:30 முதல் 07:30 மணிக்கு இடையே புறப்பட்டுச் செல்கின்றன."
+  },
+  {
+   "start": 32.22,
+   "end": 46.44,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11554335886429174193.wav",
+   "gender": "FEMALE",
+   "text": "Generally speaking, two behaviors can emerge as managers begin to lead their former peers. One end of the spectrum is trying to remain “one of the guys” (or gals)."
+  },
+  {
+   "start": 47.04,
+   "end": 61.74,
+   "lang": "ta",
+   "fleurs": "ta_in",
+   "file": "10265284731185110799.wav",
+   "gender": "FEMALE",
+   "text": "துணி மிகவும் வெப்பமடைதலை அனுமதிக்காதபடி கவனமாக இருக்கவும் (அதனால் துணி சுருங்கலாம் அல்லது தீவிர நிகழ்வுகளில் துணி தீயில் வாட்டப்படலாம்)."
+  },
+  {
+   "start": 62.34,
+   "end": 72.9,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1003119935936341070.wav",
+   "gender": "MALE",
+   "text": "However, due to the slow communication channels, styles in the west could lag behind by 25 to 30 year."
+  },
+  {
+   "start": 73.5,
+   "end": 82.32,
+   "lang": "ta",
+   "fleurs": "ta_in",
+   "file": "10278812186982315493.wav",
+   "gender": "FEMALE",
+   "text": "இதன் விளைவாக, இரண்டு(2) மீன் வகைகள் அழிந்துவிட்டன, மேலும் ஹம்ப்பேக்  சப் உட்பட மற்ற இரண்டு (2) அழியும் நிலையில் உள்ளன."
+  },
+  {
+   "start": 82.92,
+   "end": 91.68,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10052240106321793346.wav",
+   "gender": "MALE",
+   "text": "All nouns, alongside the word Sie for you, always begin with a capital letter, even in the middle of a sentence."
+  },
+  {
+   "start": 92.28,
+   "end": 99.3,
+   "lang": "ta",
+   "fleurs": "ta_in",
+   "file": "10296046279567274586.wav",
+   "gender": "MALE",
+   "text": "ரோம் நகரில் பல இடங்களில் ஏராளமான பெரிய தொலைக்காட்சித் திரைகள் அமைக்கப்பட்டு, மக்கள் இந்த விழாவைக் காண முடிந்தது."
+  },
+  {
+   "start": 99.9,
+   "end": 111.36,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10167324587744183095.wav",
+   "gender": "FEMALE",
+   "text": "To the north and within easy reach is the romantic and fascinating town of Sintra and which was made famous to foreigners after a glowing account of its splendours recorded by Lord Byron."
+  },
+  {
+   "start": 111.96,
+   "end": 134.34,
+   "lang": "ta",
+   "fleurs": "ta_in",
+   "file": "10367238297771483490.wav",
+   "gender": "MALE",
+   "text": "\"வலைப்பதிவுகளின் சரியான பயன்பாடு \"\"மாணவர்களை மேலும் விமர்சகர்களாகவும், பகுத்தாய்பவர்களாகவும் ஆக்கும்; இணைய கேள்விகளுக்கு பதிலளிக்கும் போது அவர்கள் அடுதவர்களுடைய கருத்துக்கு தங்கள் பதிலைச் சொல்வதுடன், தங்களுக்கே உரிய ஒரு நிலையை எடுக்கவும் உதவுகிறது\"\" (ஓராவேக் 2002). \""
+  }
+ ]
+}

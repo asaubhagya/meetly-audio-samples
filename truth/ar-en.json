@@ -1,0 +1,79 @@
+{
+ "id": "ar-en",
+ "duration_sec": 90.4,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 8.16,
+   "lang": "ar",
+   "fleurs": "ar_eg",
+   "file": "10019390257075855641.wav",
+   "gender": "FEMALE",
+   "text": "تشكلت في المحيط الأطلسي اليوم عاشر عاصفة مُسماة لموسم الأعاصير الأطلسية، العاصفة شبه الاستوائية جيري."
+  },
+  {
+   "start": 8.76,
+   "end": 19.32,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1003119935936341070.wav",
+   "gender": "MALE",
+   "text": "However, due to the slow communication channels, styles in the west could lag behind by 25 to 30 year."
+  },
+  {
+   "start": 19.92,
+   "end": 34.08,
+   "lang": "ar",
+   "fleurs": "ar_eg",
+   "file": "10035416633083120372.wav",
+   "gender": "FEMALE",
+   "text": "تغادر الحافلات المحطة الداخلية بين المناطق (عبر النهر) في خلال اليوم على الرغم من أن معظمها وخاصة المتجهة منها إلى الشرق وجاكار/بومثانج تغادر بين 06:30 و 07:30."
+  },
+  {
+   "start": 34.68,
+   "end": 43.44,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10052240106321793346.wav",
+   "gender": "MALE",
+   "text": "All nouns, alongside the word Sie for you, always begin with a capital letter, even in the middle of a sentence."
+  },
+  {
+   "start": 44.04,
+   "end": 60.06,
+   "lang": "ar",
+   "fleurs": "ar_eg",
+   "file": "10080665469720750912.wav",
+   "gender": "FEMALE",
+   "text": "يتمُّ دعْم التعلُّم التفاعليّ في البرنامج داخليًا ويهدف إلى طرح الأسئلة والتحفيز وشرح الإجراءاتِ التي قد يكون من الصعب على الطالب التعامل معها بمفرده."
+  },
+  {
+   "start": 60.66,
+   "end": 72.12,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10167324587744183095.wav",
+   "gender": "FEMALE",
+   "text": "To the north and within easy reach is the romantic and fascinating town of Sintra and which was made famous to foreigners after a glowing account of its splendours recorded by Lord Byron."
+  },
+  {
+   "start": 72.72,
+   "end": 83.42,
+   "lang": "ar",
+   "fleurs": "ar_eg",
+   "file": "1021284281927612037.wav",
+   "gender": "FEMALE",
+   "text": "نصنع بيوتنا وملابسنا من النباتات . معظم الطعام الذي نتناوله من النباتات كذلك. بدون النباتات، لا يمكن للحيوانات البقاء."
+  },
+  {
+   "start": 84.02,
+   "end": 89.78,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10197164397713068203.wav",
+   "gender": "FEMALE",
+   "text": "The cabbage juice changes color depending on how acidic or basic (alkaline) the chemical is."
+  }
+ ]
+}

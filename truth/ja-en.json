@@ -1,0 +1,79 @@
+{
+ "id": "ja-en",
+ "duration_sec": 92.6,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 10.44,
+   "lang": "ja",
+   "fleurs": "ja_jp",
+   "file": "10020345318418093976.wav",
+   "gender": "MALE",
+   "text": "インターネットで「敵対的環境コース」について検索すると、おそらく現地企業の住所が出てくるでしょう。"
+  },
+  {
+   "start": 11.04,
+   "end": 19.92,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1146643745158029931.wav",
+   "gender": "FEMALE",
+   "text": "A civilization is a singular culture shared by a significant large group of people who live and work co-operatively, a society."
+  },
+  {
+   "start": 20.52,
+   "end": 34.74,
+   "lang": "ja",
+   "fleurs": "ja_jp",
+   "file": "10086073819084529371.wav",
+   "gender": "MALE",
+   "text": "また、北側に行くなら世界的に有名なマリア像の聖地であるファティマの聖母の聖域（神社）を訪れましょう。"
+  },
+  {
+   "start": 35.34,
+   "end": 47.82,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11483786862560523973.wav",
+   "gender": "FEMALE",
+   "text": "To the north and within easy reach is the romantic and fascinating town of Sintra and which was made famous to foreigners after a glowing account of its splendours recorded by Lord Byron."
+  },
+  {
+   "start": 48.42,
+   "end": 61.26,
+   "lang": "ja",
+   "fleurs": "ja_jp",
+   "file": "10112379500600537933.wav",
+   "gender": "MALE",
+   "text": "バルセロナの公用語はカタルーニャ語とスペイン語です。約半数がカタルーニャ語を好み、大多数がカタルーニャ語を理解し、ほぼ全員がスペイン語を知っています。"
+  },
+  {
+   "start": 61.86,
+   "end": 72.06,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11497310594035767755.wav",
+   "gender": "FEMALE",
+   "text": "Lion prides act much like packs of wolves or dogs, animals surprisingly similar to lions (but not other big cats) in behavior, and also very deadly to their prey."
+  },
+  {
+   "start": 72.66,
+   "end": 85.2,
+   "lang": "ja",
+   "fleurs": "ja_jp",
+   "file": "10174984673310355687.wav",
+   "gender": "MALE",
+   "text": "その長い顎には70本以上の鋭い歯が並び、口蓋には別の歯列があり、つまりここを通ったら逃げ道はないということになります。"
+  },
+  {
+   "start": 85.8,
+   "end": 91.98,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11504385604540375365.wav",
+   "gender": "FEMALE",
+   "text": "Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago."
+  }
+ ]
+}

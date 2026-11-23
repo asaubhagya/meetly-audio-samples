@@ -1,0 +1,97 @@
+{
+ "id": "en-pt",
+ "duration_sec": 117.9,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 7.32,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1116140877447157610.wav",
+   "gender": "FEMALE",
+   "text": "Travellers are strongly advised to be aware of any risk of severe weather affecting their area as they may affect any travel plans."
+  },
+  {
+   "start": 7.92,
+   "end": 25.68,
+   "lang": "pt",
+   "fleurs": "pt_br",
+   "file": "10008174856218516817.wav",
+   "gender": "MALE",
+   "text": "Segundo informações, ele estava na casa dos 20 anos. Em uma declaração, Bieber disse que, \"embora eu não estivesse presente nem diretamente envolvido neste trágico incidente, meus pensamentos e orações estão com a família da vítima\"."
+  },
+  {
+   "start": 26.28,
+   "end": 37.68,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1116401173651214130.wav",
+   "gender": "MALE",
+   "text": "During this period of European history, the Catholic Church, which had become rich and powerful, came under scrutiny."
+  },
+  {
+   "start": 38.28,
+   "end": 51.9,
+   "lang": "pt",
+   "fleurs": "pt_br",
+   "file": "10047022047800689031.wav",
+   "gender": "MALE",
+   "text": "Construída pelos egípcios no século 3 A.C., a Grande Pirâmide é uma das muitas grandes estruturas de pirâmide construídas para honrar faraós mortos."
+  },
+  {
+   "start": 52.5,
+   "end": 62.68,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11200231708585274851.wav",
+   "gender": "MALE",
+   "text": "As knowledge of Greek declined, the West found itself cut off from its Greek philosophical and scientific roots."
+  },
+  {
+   "start": 63.28,
+   "end": 71.68,
+   "lang": "pt",
+   "fleurs": "pt_br",
+   "file": "10083615766068544069.wav",
+   "gender": "MALE",
+   "text": "Giancarlo Fisichella perdeu o controle do carro e acabou a corrida logo após a largada."
+  },
+  {
+   "start": 72.28,
+   "end": 81.4,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11260391063812418810.wav",
+   "gender": "FEMALE",
+   "text": "Last week, METI announced that Apple had informed it of 34 additional overheating incidents, which the company called \"non-serious.\""
+  },
+  {
+   "start": 82.0,
+   "end": 92.68,
+   "lang": "pt",
+   "fleurs": "pt_br",
+   "file": "10103427908302527934.wav",
+   "gender": "MALE",
+   "text": "O romantismo tinha um grande elemento de determinismo cultural, extraído de escritores como Goethe, Fichte e Schlegel."
+  },
+  {
+   "start": 93.28,
+   "end": 104.02,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "11265842188315045636.wav",
+   "gender": "FEMALE",
+   "text": "Vatican City's population is around 800. It is the smallest independent country in the world and the country with the lowest population."
+  },
+  {
+   "start": 104.62,
+   "end": 117.34,
+   "lang": "pt",
+   "fleurs": "pt_br",
+   "file": "10116774789336634117.wav",
+   "gender": "MALE",
+   "text": "O scaffolding não é um método de aprendizado, mas sim uma ajuda para alunos que estão passando por uma nova experiência de aprendizado, como usar um novo computador ou começar um novo projeto."
+  }
+ ]
+}

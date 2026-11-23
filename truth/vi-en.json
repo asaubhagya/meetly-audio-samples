@@ -1,0 +1,79 @@
+{
+ "id": "vi-en",
+ "duration_sec": 81.6,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 11.34,
+   "lang": "vi",
+   "fleurs": "vi_vn",
+   "file": "10057024225045006889.wav",
+   "gender": "MALE",
+   "text": "Văn hóa và bộ lạc cổ xưa đã bắt đầu giữ những con vật này để dễ lấy sữa, tóc, thịt, và da."
+  },
+  {
+   "start": 11.94,
+   "end": 22.98,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10344335557154974057.wav",
+   "gender": "MALE",
+   "text": "The aspect ratio of this format (dividing by twelve to obtain the simplest whole-number ratio) is therefore said to be 3:2."
+  },
+  {
+   "start": 23.58,
+   "end": 30.84,
+   "lang": "vi",
+   "fleurs": "vi_vn",
+   "file": "10072308967409148015.wav",
+   "gender": "MALE",
+   "text": "Đối với Springboks, trận này đã giúp đội tuyển kết thúc chuỗi thua 5 trận liền."
+  },
+  {
+   "start": 31.44,
+   "end": 41.34,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1036771894648013441.wav",
+   "gender": "FEMALE",
+   "text": "As light pollution in their heyday was not the kind of problem it is today, they are usually located in cities or at campuses, easier to reach than those built in modern times."
+  },
+  {
+   "start": 41.94,
+   "end": 51.96,
+   "lang": "vi",
+   "fleurs": "vi_vn",
+   "file": "10078277432407694754.wav",
+   "gender": "MALE",
+   "text": "Nó cũng tấn công mọi thứ trong nước; ngay cả khủng long khổng lồ như T. rex cũng không phải là đối thủ với nó."
+  },
+  {
+   "start": 52.56,
+   "end": 57.36,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "1038214857203833067.wav",
+   "gender": "FEMALE",
+   "text": "Through the night between 150 and 200 copies were made, now known as \"Dunlap broadsides\"."
+  },
+  {
+   "start": 57.96,
+   "end": 69.12,
+   "lang": "vi",
+   "fleurs": "vi_vn",
+   "file": "10093159547857080890.wav",
+   "gender": "MALE",
+   "text": "Số người có mặt quá lớn nên việc mọi người tới được nơi tổ chức lễ tang tại Quảng trường Thánh Peter là không thể."
+  },
+  {
+   "start": 69.72,
+   "end": 81.0,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10383288285905292158.wav",
+   "gender": "FEMALE",
+   "text": "For example, each year students from Bennet School in North Carolina design a website about their trip to the State Capital, each year the website gets remodeled, but old versions are kept online to serve as a scrapbook."
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "id": "en-pa",
+ "duration_sec": 89.1,
+ "source": "FLEURS test split (Google, CC-BY 4.0)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 5.76,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10197164397713068203.wav",
+   "gender": "FEMALE",
+   "text": "The cabbage juice changes color depending on how acidic or basic (alkaline) the chemical is."
+  },
+  {
+   "start": 6.36,
+   "end": 13.5,
+   "lang": "pa",
+   "fleurs": "pa_in",
+   "file": "10005878200211190857.wav",
+   "gender": "FEMALE",
+   "text": "ਪਿਰਾਮਿਡ ਦਾ ਸਾਊਂਡ ਅਤੇ ਲਾਈਟ ਸ਼ੋਅ ਇਸ ਖੇਤਰ ਅੰਦਰ ਬੱਚਿਆਂ ਲਈ ਕਰਨ ਵਾਲੀਆਂ ਸਭ ਤੋਂ ਮਜ਼ੇਦਾਰ ਚੀਜ਼ਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ।"
+  },
+  {
+   "start": 14.1,
+   "end": 18.42,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10233995782544396174.wav",
+   "gender": "FEMALE",
+   "text": "Many people don't think about them as dinosaurs because they have feathers and can fly."
+  },
+  {
+   "start": 19.02,
+   "end": 29.34,
+   "lang": "pa",
+   "fleurs": "pa_in",
+   "file": "10019901230699518471.wav",
+   "gender": "FEMALE",
+   "text": "ਅਲਹਿਦਾ ਕਰਨਾ ਅਤੇ ਮੁੜ-ਸੁਮੇਲ ਕਰਨਾ ਹਰੇਕ ਪੀੜ੍ਹੀ ਦੇ ਦੋ ਪੂਲਾਂ ਵਿਚਕਾਰ ਪਰਿਵਰਤਿਤ ਰੂਪ ਨੂੰ ਅੱਗੇ-ਪਿੱਛੇ ਪੂਰੀ ਤਰ੍ਹਾਂ ਬੇਤਰਤੀਬ ਕਰ ਦਿੰਦਾ ਹੈ।"
+  },
+  {
+   "start": 29.94,
+   "end": 41.36,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10235738076911595987.wav",
+   "gender": "MALE",
+   "text": "The hospital has followed protocol for infection control, including separating the patient from others to prevent possible infection of others."
+  },
+  {
+   "start": 41.96,
+   "end": 48.44,
+   "lang": "pa",
+   "fleurs": "pa_in",
+   "file": "10033020277327712096.wav",
+   "gender": "FEMALE",
+   "text": "ਇੰਟਰਨੈੱਟ ਬਹੁ-ਗਿਣਤੀ ਅਤੇ ਅੰਤਰਵਿਅਕਤੀ ਸੰਚਾਰ, ਦੋਵਾਂ ਤੱਤਾਂ ਦਾ ਸੁਮੇਲ ਕਰਦਾ ਹੈ।"
+  },
+  {
+   "start": 49.04,
+   "end": 59.84,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10323357556845456822.wav",
+   "gender": "FEMALE",
+   "text": "The Northern Marianas emergency management office said that there were no damages reported in the nation."
+  },
+  {
+   "start": 60.44,
+   "end": 73.4,
+   "lang": "pa",
+   "fleurs": "pa_in",
+   "file": "10036619286088483.wav",
+   "gender": "FEMALE",
+   "text": "ਰੱਦਕਰਨ ਸੰਬੰਧੀ ਨੀਤੀਆਂ ਵੱਖ-ਵੱਖ ਹੁੰਦੀਆਂ ਹਨ, ਪਰ ਮਾਰਚ ਦੇ ਅੰਤ ਤੱਕ ਜਿਆਦਾਤਰ ਕੋਰੋਨਾ-ਵਾਇਰਸ ਸੰਬੰਧੀ ਰੱਦਕਰਨ ਨੀਤੀਆਂ ਦਾ ਵਿਸਥਾਰ 2020 ਤੱਕ ਨਹੀਂ ਹੋਇਆ, ਜਦੋਂ ਉਲੰਪਿਕ ਦੀ ਸਮਾਂ-ਸੂਚੀ ਤਿਆਰ ਕੀਤੀ ਗਈ ਸੀ।"
+  },
+  {
+   "start": 74.0,
+   "end": 80.96,
+   "lang": "en",
+   "fleurs": "en_us",
+   "file": "10335587906469246566.wav",
+   "gender": "FEMALE",
+   "text": "Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed."
+  },
+  {
+   "start": 81.56,
+   "end": 88.52,
+   "lang": "pa",
+   "fleurs": "pa_in",
+   "file": "10045745942478893252.wav",
+   "gender": "FEMALE",
+   "text": "ਬਿੱਲੀਆਂ ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਸਮਾਜਿਕ ਸ਼ੇਰ ਹਨ, ਜਿਹੜੇ ਵੱਡੇ ਸਮੂਹਾਂ ਵਿੱਚ ਰਹਿੰਦੇ ਹਨ ਜਿਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰਾਈਡ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।"
+  }
+ ]
+}
