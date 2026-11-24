@@ -1,6 +1,6 @@
 {
  "version": 1,
- "about": "Mixed-language test conversations for Meetly. Built by tools/bench/samples.py (MEE-1330).",
+ "about": "Mixed-language test conversations for Meetly. Built by tools/bench/samples.py (MEE-1330). Set \"enabled\": false to hide a sample from the app.",
  "license": "Audio and transcripts: FLEURS test split, Google, CC-BY 4.0 (https://huggingface.co/datasets/google/fleurs). Each turn is a different FLEURS speaker.",
  "samples": [
   {
@@ -16,7 +16,8 @@
    "audio": "audio/en-hi-short.wav",
    "truth": "truth/en-hi-short.json",
    "bytes": 1428524,
-   "sha256": "5beeb00c9687b9e0a0daff944c5154f8bd93827596ffe4111ebbbf1fcc516fa5"
+   "sha256": "5beeb00c9687b9e0a0daff944c5154f8bd93827596ffe4111ebbbf1fcc516fa5",
+   "enabled": true
   },
   {
    "id": "en-hi",
@@ -31,7 +32,8 @@
    "audio": "audio/en-hi.wav",
    "truth": "truth/en-hi.json",
    "bytes": 4069164,
-   "sha256": "a7090fa80589d402c7d7bc768f111e376539cdcecdce47b06c54a1342d1089a8"
+   "sha256": "a7090fa80589d402c7d7bc768f111e376539cdcecdce47b06c54a1342d1089a8",
+   "enabled": true
   },
   {
    "id": "en-hi-long",
@@ -46,7 +48,8 @@
    "audio": "audio/en-hi-long.wav",
    "truth": "truth/en-hi-long.json",
    "bytes": 14903724,
-   "sha256": "ebf934f11cf3a8f93aa4bc31ed8c96290bbb897be2e90ca793fda92a142d42c4"
+   "sha256": "ebf934f11cf3a8f93aa4bc31ed8c96290bbb897be2e90ca793fda92a142d42c4",
+   "enabled": true
   },
   {
    "id": "en-only-long",
@@ -60,7 +63,8 @@
    "audio": "audio/en-only-long.wav",
    "truth": "truth/en-only-long.json",
    "bytes": 9523884,
-   "sha256": "6871b0fb421b2509d33339d9c602bbbed12ebe05321d4e7bacdb60e012033218"
+   "sha256": "6871b0fb421b2509d33339d9c602bbbed12ebe05321d4e7bacdb60e012033218",
+   "enabled": true
   },
   {
    "id": "hi-only",
@@ -74,7 +78,8 @@
    "audio": "audio/hi-only.wav",
    "truth": "truth/hi-only.json",
    "bytes": 4890284,
-   "sha256": "75eb720a0cd280e813673a4f885758c8fc08d41cb90bc1119e1e634626a39a4b"
+   "sha256": "75eb720a0cd280e813673a4f885758c8fc08d41cb90bc1119e1e634626a39a4b",
+   "enabled": true
   },
   {
    "id": "hi-ta",
@@ -89,7 +94,8 @@
    "audio": "audio/hi-ta.wav",
    "truth": "truth/hi-ta.json",
    "bytes": 4081324,
-   "sha256": "6780ed36aeb320833fbc30355724f495cc6011d43544bf42559cb0257a33d664"
+   "sha256": "6780ed36aeb320833fbc30355724f495cc6011d43544bf42559cb0257a33d664",
+   "enabled": true
   },
   {
    "id": "hi-bn",
@@ -104,7 +110,8 @@
    "audio": "audio/hi-bn.wav",
    "truth": "truth/hi-bn.json",
    "bytes": 4016684,
-   "sha256": "7d3ff6fa0f0beec212be0c67be736ca351bd6c5c737929edc24a2a4f3391e77d"
+   "sha256": "7d3ff6fa0f0beec212be0c67be736ca351bd6c5c737929edc24a2a4f3391e77d",
+   "enabled": true
   },
   {
    "id": "en-ta",
@@ -119,7 +126,8 @@
    "audio": "audio/en-ta.wav",
    "truth": "truth/en-ta.json",
    "bytes": 4318124,
-   "sha256": "e2def6fddaa88d21c48d688d5aca77c99a64f24b0e085dd0ce39a2fefa27958b"
+   "sha256": "e2def6fddaa88d21c48d688d5aca77c99a64f24b0e085dd0ce39a2fefa27958b",
+   "enabled": true
   },
   {
    "id": "en-pa",
@@ -134,7 +142,8 @@
    "audio": "audio/en-pa.wav",
    "truth": "truth/en-pa.json",
    "bytes": 2851884,
-   "sha256": "8f7f8f76758470019bd02c3e4ff83c33d0fd5cd882c1690a5bbc85e9f301219b"
+   "sha256": "8f7f8f76758470019bd02c3e4ff83c33d0fd5cd882c1690a5bbc85e9f301219b",
+   "enabled": true
   },
   {
    "id": "en-ml",
@@ -149,7 +158,8 @@
    "audio": "audio/en-ml.wav",
    "truth": "truth/en-ml.json",
    "bytes": 4260524,
-   "sha256": "6d47b3518532f1c6508d27e4ca5e42d872da0c93ef4d92d5e2b49aece52ff52a"
+   "sha256": "6d47b3518532f1c6508d27e4ca5e42d872da0c93ef4d92d5e2b49aece52ff52a",
+   "enabled": true
   },
   {
    "id": "en-mr",
@@ -164,7 +174,8 @@
    "audio": "audio/en-mr.wav",
    "truth": "truth/en-mr.json",
    "bytes": 3553324,
-   "sha256": "03d0382e8e6bda98fca77d51b6b57e95ab3a7bbc9ba553508a95f660868ea2f1"
+   "sha256": "03d0382e8e6bda98fca77d51b6b57e95ab3a7bbc9ba553508a95f660868ea2f1",
+   "enabled": true
   },
   {
    "id": "en-ur",
@@ -179,7 +190,8 @@
    "audio": "audio/en-ur.wav",
    "truth": "truth/en-ur.json",
    "bytes": 3064364,
-   "sha256": "e0827ca372b0919c5d183a5e1362f7275666e50c396e4018c9ef42eb7eff35e9"
+   "sha256": "e0827ca372b0919c5d183a5e1362f7275666e50c396e4018c9ef42eb7eff35e9",
+   "enabled": true
   },
   {
    "id": "en-de",
@@ -194,7 +206,8 @@
    "audio": "audio/en-de.wav",
    "truth": "truth/en-de.json",
    "bytes": 3912364,
-   "sha256": "fcb2071f3d0449a8f1ab0b3292e21ba66ea51d5a8ab93486108ccb3ed43690a9"
+   "sha256": "fcb2071f3d0449a8f1ab0b3292e21ba66ea51d5a8ab93486108ccb3ed43690a9",
+   "enabled": true
   },
   {
    "id": "en-es",
@@ -209,7 +222,8 @@
    "audio": "audio/en-es.wav",
    "truth": "truth/en-es.json",
    "bytes": 3694124,
-   "sha256": "5ce904f358f6fe4f11fc5def222ebd5b49ec8e083e7be4d478c0228a4609c21e"
+   "sha256": "5ce904f358f6fe4f11fc5def222ebd5b49ec8e083e7be4d478c0228a4609c21e",
+   "enabled": true
   },
   {
    "id": "en-fr",
@@ -224,7 +238,8 @@
    "audio": "audio/en-fr.wav",
    "truth": "truth/en-fr.json",
    "bytes": 3555244,
-   "sha256": "5bd096f1b7c5ef244939fd5f29fa7f5a5806df2e52d409d466e0f2d2cf4e1f14"
+   "sha256": "5bd096f1b7c5ef244939fd5f29fa7f5a5806df2e52d409d466e0f2d2cf4e1f14",
+   "enabled": true
   },
   {
    "id": "de-fr",
@@ -239,7 +254,8 @@
    "audio": "audio/de-fr.wav",
    "truth": "truth/de-fr.json",
    "bytes": 4838444,
-   "sha256": "01defc989b12f124ea85ee87dfa7e96a2ffc43f4b22b59ff77331fcd03c64b26"
+   "sha256": "01defc989b12f124ea85ee87dfa7e96a2ffc43f4b22b59ff77331fcd03c64b26",
+   "enabled": true
   },
   {
    "id": "en-ru",
@@ -254,7 +270,8 @@
    "audio": "audio/en-ru.wav",
    "truth": "truth/en-ru.json",
    "bytes": 3573804,
-   "sha256": "f7485d6de50f58ffcc959129994f18ae1c8c2607bd62738e2e89d7d646ab71da"
+   "sha256": "f7485d6de50f58ffcc959129994f18ae1c8c2607bd62738e2e89d7d646ab71da",
+   "enabled": true
   },
   {
    "id": "en-pt",
@@ -269,7 +286,8 @@
    "audio": "audio/en-pt.wav",
    "truth": "truth/en-pt.json",
    "bytes": 3774124,
-   "sha256": "30e2403b31479a49c00522b0bc394d69b5fcdb7979e4ad385d56260c3c604e28"
+   "sha256": "30e2403b31479a49c00522b0bc394d69b5fcdb7979e4ad385d56260c3c604e28",
+   "enabled": true
   },
   {
    "id": "zh-en",
@@ -284,7 +302,8 @@
    "audio": "audio/zh-en.wav",
    "truth": "truth/zh-en.json",
    "bytes": 3200044,
-   "sha256": "3f9bfba08c9ee20a93e80d0bdb4ea634386232ffe04d5d7dd7b2dfabca359ba1"
+   "sha256": "3f9bfba08c9ee20a93e80d0bdb4ea634386232ffe04d5d7dd7b2dfabca359ba1",
+   "enabled": true
   },
   {
    "id": "ja-en",
@@ -299,7 +318,8 @@
    "audio": "audio/ja-en.wav",
    "truth": "truth/ja-en.json",
    "bytes": 2962604,
-   "sha256": "a992686bf8f58390ada57fff1f8d86ca633dd4f39563a94b259d02d809cafb9e"
+   "sha256": "a992686bf8f58390ada57fff1f8d86ca633dd4f39563a94b259d02d809cafb9e",
+   "enabled": true
   },
   {
    "id": "ko-en",
@@ -314,7 +334,8 @@
    "audio": "audio/ko-en.wav",
    "truth": "truth/ko-en.json",
    "bytes": 2803244,
-   "sha256": "537c1e83a85dec750511b52227fefbb504b2c8d682c01dc4bfff76bc5cc08143"
+   "sha256": "537c1e83a85dec750511b52227fefbb504b2c8d682c01dc4bfff76bc5cc08143",
+   "enabled": true
   },
   {
    "id": "ar-en",
@@ -329,7 +350,8 @@
    "audio": "audio/ar-en.wav",
    "truth": "truth/ar-en.json",
    "bytes": 2892204,
-   "sha256": "1f9795f1339b99b290973cd31a596886a13481487b345c71a0e67e9ebfc4f3c9"
+   "sha256": "1f9795f1339b99b290973cd31a596886a13481487b345c71a0e67e9ebfc4f3c9",
+   "enabled": true
   },
   {
    "id": "th-en",
@@ -344,7 +366,8 @@
    "audio": "audio/th-en.wav",
    "truth": "truth/th-en.json",
    "bytes": 2364204,
-   "sha256": "2254f2bb407b7b941fd768664d25ea718c53888c7860080afc049d1f13835d2c"
+   "sha256": "2254f2bb407b7b941fd768664d25ea718c53888c7860080afc049d1f13835d2c",
+   "enabled": true
   },
   {
    "id": "vi-en",
@@ -359,7 +382,8 @@
    "audio": "audio/vi-en.wav",
    "truth": "truth/vi-en.json",
    "bytes": 2611244,
-   "sha256": "f831f6c8daa3418a4c1dd1af513d58dffe79fa046c5865c9a1c2e18bda039325"
+   "sha256": "f831f6c8daa3418a4c1dd1af513d58dffe79fa046c5865c9a1c2e18bda039325",
+   "enabled": true
   },
   {
    "id": "id-en",
@@ -374,7 +398,8 @@
    "audio": "audio/id-en.wav",
    "truth": "truth/id-en.json",
    "bytes": 2672044,
-   "sha256": "8254fcc1e6d652fa8a007ed39fe34019dcd32952ecb6de2323f67325e7ed96eb"
+   "sha256": "8254fcc1e6d652fa8a007ed39fe34019dcd32952ecb6de2323f67325e7ed96eb",
+   "enabled": true
   },
   {
    "id": "india-5",
@@ -392,7 +417,8 @@
    "audio": "audio/india-5.wav",
    "truth": "truth/india-5.json",
    "bytes": 6173484,
-   "sha256": "ce274d4379b789a4433469a6ca08ee47b23cf76335fd86d563650528fbcefd26"
+   "sha256": "ce274d4379b789a4433469a6ca08ee47b23cf76335fd86d563650528fbcefd26",
+   "enabled": true
   },
   {
    "id": "world-8",
@@ -413,7 +439,8 @@
    "audio": "audio/world-8.wav",
    "truth": "truth/world-8.json",
    "bytes": 5834924,
-   "sha256": "73bb14b313b885b4bc880fd192740a43adf33a8f58b2c62cf2063e19036b8990"
+   "sha256": "73bb14b313b885b4bc880fd192740a43adf33a8f58b2c62cf2063e19036b8990",
+   "enabled": true
   }
  ]
 }
