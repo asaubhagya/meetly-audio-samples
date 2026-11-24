@@ -1,0 +1,360 @@
+{
+ "id": "vp-de-plenary-6min",
+ "duration_sec": 345.99,
+ "source": "VoxPopuli transcribed test split (Meta), European Parliament plenary session 20170612-0900-PLENARY-13-de; consecutive segments in original order, joined with 0.5 s silence (inter-segment gaps removed)",
+ "license": "CC0 1.0 (VoxPopuli transcribed data; https://github.com/facebookresearch/voxpopuli#license)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 4.24,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Herr Präsident, Frau Kommissarin, liebe Kolleginnen und Kollegen!",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_0"
+  },
+  {
+   "start": 4.74,
+   "end": 15.82,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Lassen Sie mich von einem Mann aus Franken berichten Franz Josef, 50 Jahre alt, körperbehindert und seit mehr als 20 Jahren arbeitslos.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_1"
+  },
+  {
+   "start": 16.32,
+   "end": 22.0,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Seit letztem Jahr arbeitet er als kaufmännischer Mitarbeiter in einer Firma in der Nähe von Nürnberg.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_2"
+  },
+  {
+   "start": 22.5,
+   "end": 30.52,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "20 Langzeitarbeitslose in der Region haben über den ESF einen neuen Job gefunden. Warum erzähle ich Ihnen das?",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_4"
+  },
+  {
+   "start": 31.02,
+   "end": 34.4,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Die europäischen Strukturfonds ermöglichen vieles.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_5"
+  },
+  {
+   "start": 34.9,
+   "end": 40.22,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Sie sind nah bei den Menschen und können Leben tatsächlich wieder lebenswert machen.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_6"
+  },
+  {
+   "start": 40.72,
+   "end": 52.46,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Sie schaffen Jobs, sie helfen bei der Bewältigung des Klimawandels, bei den Investitionen in Forschung, beim Bau von Infrastrukturen, bei grenzüberschreitenden Projekten.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_7"
+  },
+  {
+   "start": 52.96,
+   "end": 57.8,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Die Strukturfonds sind ein Motor für Jobs und nachhaltiges Wachstum.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_8"
+  },
+  {
+   "start": 58.3,
+   "end": 63.8,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Diesen Motor müssen wir tatsächlich auch am Laufen halten! Die Diskussion darüber hat begonnen.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_9"
+  },
+  {
+   "start": 64.3,
+   "end": 66.34,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Und ich gestehe Ich mache mir Sorgen.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_10"
+  },
+  {
+   "start": 66.84,
+   "end": 71.96,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Es gibt Stimmen, die die Kohäsionspolitik reduzieren wollen, ja sogar abschaffen wollen.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_11"
+  },
+  {
+   "start": 72.46,
+   "end": 76.3,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Die Strukturpolitik ist nicht nur Wachstumsmotor.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_13"
+  },
+  {
+   "start": 76.8,
+   "end": 79.74,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Sie ist auch Ausdruck gelebter Solidarität.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_14"
+  },
+  {
+   "start": 80.24,
+   "end": 89.5,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Europa, dieses abstrakte Wesen in Brüssel, in Straßburg, wird durch die Strukturfonds vor Ort auch tatsächlich erlebbar und erfahrbar.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_15"
+  },
+  {
+   "start": 90.0,
+   "end": 94.78,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Gemeinsam mit den Schattenberichterstattern habe ich daher diesen Bericht verfasst.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_17"
+  },
+  {
+   "start": 95.28,
+   "end": 108.26,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Ich glaube, es ist in der Tat ein guter Bericht, der die Wirklichkeit darstellt und welchen Wert vor allem auch die Kohäsionspolitik hat, der aber auch gleichzeitig den Finger in die Wunde legt.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_18"
+  },
+  {
+   "start": 108.76,
+   "end": 111.72,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Denn natürlich besteht Verbesserungsbedarf.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_19"
+  },
+  {
+   "start": 112.22,
+   "end": 114.1,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Das fängt bei der Bürokratie an.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_20"
+  },
+  {
+   "start": 114.6,
+   "end": 126.92,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Es kann doch nicht sein, dass potenzielle Antragsteller von Formularen und Vordrucken regelrecht erschlagen werden und dann entnervt aufgeben und beschließen, vielleicht gar keinen Antrag zu stellen.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_21"
+  },
+  {
+   "start": 127.42,
+   "end": 137.28,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Es kann auch nicht sein, dass die Verwaltungsbehörden unter ständiger Angst leiden, irgendeinen Fehler zu machen und dann an den Pranger gestellt zu werden.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_22"
+  },
+  {
+   "start": 137.78,
+   "end": 140.28,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Wir brauchen eine Vereinfachung der Regeln.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_23"
+  },
+  {
+   "start": 140.78,
+   "end": 143.3,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Und wir brauchen flexiblere Regeln.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_24"
+  },
+  {
+   "start": 143.8,
+   "end": 149.84,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Wir und die Regionen müssen in der Lage sein, auf neue Herausforderungen zu reagieren.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_25"
+  },
+  {
+   "start": 150.34,
+   "end": 159.16,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Vielleicht stehen im Jahr 2024 ja ganz neue Herausforderungen an, die wir mit europäischen Strukturfonds auch leisten und bewältigen müssen.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_26"
+  },
+  {
+   "start": 159.66,
+   "end": 164.22,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Deshalb fordern wir in dem Bericht eine einfache Umprogrammierung.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_27"
+  },
+  {
+   "start": 164.72,
+   "end": 170.22,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Ich habe es ja bereits erwähnt Die Zukunft der Strukturfonds steht tatsächlich auf dem Spiel.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_29"
+  },
+  {
+   "start": 170.72,
+   "end": 180.38,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Mein Wunsch ist es, dass das Parlament hier ein klares, starkes Signal setzt für die Beibehaltung der Kohäsionspolitik.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_30"
+  },
+  {
+   "start": 180.88,
+   "end": 192.2,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Gleichzeitig wissen vor allem die Kolleginnen und Kollegen aus dem REGI Im Ausschuss gibt es zwei Streitpunkte, wo unsere Fraktionen sehr, sehr unterschiedliche Auffassungen haben.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_31"
+  },
+  {
+   "start": 192.7,
+   "end": 198.68,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Das eine betrifft die Makro Konditionalität und das andere die sogenannte golden rule",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_32"
+  },
+  {
+   "start": 199.18,
+   "end": 202.06,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Zu beiden Themen gibt es morgen Änderungsanträge.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_33"
+  },
+  {
+   "start": 202.56,
+   "end": 214.9,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Ich verstehe den Wunsch der Grünen genauso wie den von Teilen meiner eigenen Fraktion, die eben gegen die Makro Konditionalität sind, aber es nicht in dem Bericht erwähnen wollen.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_34"
+  },
+  {
+   "start": 215.4,
+   "end": 233.0,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Liebe Kolleginnen und Kollegen, ich bitte Sie daher ganz, ganz herzlich Lassen Sie uns diesen Kampf später führen! Lassen Sie uns morgen ein starkes Signal senden, an die Mitgliedstaaten, an die Kommission Wir, das Europäische Parlament, wir wollen eine moderne, finanzstarke, entbürokratisierte Kohäsionspolitik.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_36"
+  },
+  {
+   "start": 233.5,
+   "end": 245.28,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Wir wollen eine Kohäsionspolitik für alle Regionen, und wir wollen eine Kohäsionspolitik, die für die Menschen gemacht wird, mit einfacheren Verfahren, mit besseren Ergebnissen.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_37"
+  },
+  {
+   "start": 245.78,
+   "end": 248.76,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Mit einem starken Signal werden wir Gehör finden.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-18:56:49_38"
+  },
+  {
+   "start": 249.26,
+   "end": 257.7,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Heute haben hier im Parlament tatsächlich ja nur Kohäsionspolitiker und —politikerinnen geredet ein Ja zur Kohäsionspolitik.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-20:17:07_2"
+  },
+  {
+   "start": 258.2,
+   "end": 262.48,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Aber die Wahrheit ist auch Es gibt auch andere, auch innerhalb der Kommission.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-20:17:07_3"
+  },
+  {
+   "start": 262.98,
+   "end": 267.06,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Das wissen Sie genauso gut wie ich, das wissen alle Kollegen und Kolleginnen.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-20:17:07_4"
+  },
+  {
+   "start": 267.56,
+   "end": 281.76,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Es gibt Stimmen, die klar und ganz deutlich und ganz laut sagen Wir brauchen in Zukunft diese Art von Politik nicht mehr, und dass es die große Solidarität innerhalb der Europäischen Union, in Zukunft nicht mehr geben soll.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-20:17:07_5"
+  },
+  {
+   "start": 282.26,
+   "end": 289.04,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Ich darf bei der Gelegenheit vielleicht auch daran erinnern, dass es eben auch das Weißbuch der Kommission über die fünf Szenarien gibt.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-20:17:07_6"
+  },
+  {
+   "start": 289.54,
+   "end": 308.17,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Und meine Bitte oder das, was ich mir vorstelle ist, dass morgen wirklich in der Tat eine große, eine breite Mehrheit für diese Kohäsionspolitik, für unsere Politik, stimmt für die Menschen vor Ort, damit wir uns auf das Wesentliche beschränken können.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-20:17:07_8"
+  },
+  {
+   "start": 308.67,
+   "end": 314.19,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Denn das wollen wir, das haben auch die ganzen Redner und Rednerinnen immer wieder gesagt Wir brauchen das Wesentliche im Blick.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-20:17:07_9"
+  },
+  {
+   "start": 314.69,
+   "end": 324.49,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Ich wünsche mir so sehr, dass im nächsten Jahr die Kommission einen Legislativvorschlag macht, denn den brauchen wir, weil hier schnell gearbeitet werden muss.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-20:17:07_10"
+  },
+  {
+   "start": 324.99,
+   "end": 334.97,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Und dann, liebe Kollegen und Kolleginnen, haben wir genau dieses Ziel erreicht, das wir brauchen Wir brauchen eine starke Mehrheit, damit wir auch verhandlungsfähig sind.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-20:17:07_11"
+  },
+  {
+   "start": 335.47,
+   "end": 345.99,
+   "lang": "de",
+   "speaker": "96839",
+   "text": "Jetzt brauchen wir Mehrheiten, starke Mehrheiten, eine große Mehrheit, damit das Europäische Parlament und wir sind diejenigen, die direkt gewählt worden sind auch tatsächlich gehört wird.",
+   "segment": "20170612-0900-PLENARY-13-de_20170612-20:17:07_13"
+  }
+ ]
+}

@@ -9,3 +9,7 @@ Rebuild: `python3 -I build_samples.py <fleurs-dir> .`
 ## Licence
 
 Audio and transcripts: FLEURS test split, Google, CC-BY 4.0 (https://huggingface.co/datasets/google/fleurs). Clips are joined with 0.6 s of silence; no other changes.
+
+## Real recordings
+
+Seven real-speech samples: two AMI meetings (CC BY 4.0, 10 and 30 min, 4-5 speakers), two MUCS 2021 Hindi-English lectures (CC BY-SA 4.0, one speaker, natural code-switching), an ASCEND Mandarin-English chat (CC BY-SA 4.0, 2 speakers; utterances joined per speaker), and VoxPopuli German and French plenary segments (CC0). Each manifest entry names its source and licence; `scripts/real/` rebuilds them. Turns tagged `hi+en` / `zh+en` mix both languages.

@@ -1,7 +1,7 @@
 {
  "version": 1,
  "about": "Mixed-language test conversations for Meetly. Built by tools/bench/samples.py (MEE-1330). Set \"enabled\": false to hide a sample from the app.",
- "license": "Audio and transcripts: FLEURS test split, Google, CC-BY 4.0 (https://huggingface.co/datasets/google/fleurs). Each turn is a different FLEURS speaker.",
+ "license": "Audio and transcripts: FLEURS test split, Google, CC-BY 4.0 (https://huggingface.co/datasets/google/fleurs). Each turn is a different FLEURS speaker. Real recordings (ids ami-*, mucs-*, ascend-*, vp-*) carry their own source and license fields: AMI (CC BY 4.0), MUCS 2021 (CC BY-SA 4.0), ASCEND (CC BY-SA 4.0), VoxPopuli (CC0).",
  "samples": [
   {
    "id": "en-hi-short",
@@ -441,6 +441,135 @@
    "bytes": 5834924,
    "sha256": "73bb14b313b885b4bc880fd192740a43adf33a8f58b2c62cf2063e19036b8990",
    "enabled": true
+  },
+  {
+   "id": "ami-en2001a-30min",
+   "title": "Real · AMI meeting · 5 speakers · 30 min",
+   "languages": [
+    "en"
+   ],
+   "duration_sec": 1800.0,
+   "turns": 294,
+   "length": "long",
+   "audio": "audio/ami-en2001a-30min.wav",
+   "truth": "truth/ami-en2001a-30min.json",
+   "bytes": 57600078,
+   "sha256": "a9c0333df1d020f092959c01c4c7362c1483d33b7449495d392fd1b905fe1447",
+   "enabled": true,
+   "source": "AMI Meeting Corpus, meeting EN2001a, Mix-Headset, window 0s-1800s (University of Edinburgh / AMI Consortium)",
+   "license": "CC BY 4.0 (https://groups.inf.ed.ac.uk/ami/corpus/license.shtml)",
+   "speakers": 5
+  },
+  {
+   "id": "ami-es2002a-10min",
+   "title": "Real · AMI meeting · 4 speakers · 10 min",
+   "languages": [
+    "en"
+   ],
+   "duration_sec": 600.0,
+   "turns": 116,
+   "length": "long",
+   "audio": "audio/ami-es2002a-10min.wav",
+   "truth": "truth/ami-es2002a-10min.json",
+   "bytes": 19200078,
+   "sha256": "dd2ba6896fb39f16e7cdb4cf368e95078e3607dac6e8deb259647de4fedd7e95",
+   "enabled": true,
+   "source": "AMI Meeting Corpus, meeting ES2002a, Mix-Headset, window 60s-660s (University of Edinburgh / AMI Consortium)",
+   "license": "CC BY 4.0 (https://groups.inf.ed.ac.uk/ami/corpus/license.shtml)",
+   "speakers": 4
+  },
+  {
+   "id": "ascend-zh-en-sports-4min",
+   "title": "Real · Chinese + English chat · 4.6 min",
+   "languages": [
+    "en",
+    "zh"
+   ],
+   "duration_sec": 276.9,
+   "turns": 117,
+   "length": "medium",
+   "audio": "audio/ascend-zh-en-sports-4min.wav",
+   "truth": "truth/ascend-zh-en-sports-4min.json",
+   "bytes": 8859344,
+   "sha256": "a857d2dafa0eb326f515686520bdd9dca9c0eaf2455e67e003c5f4d50331fd87",
+   "enabled": true,
+   "source": "ASCEND (HKUST CAiRE) test split, session 2 (sports), spontaneous Mandarin-English code-switched conversation; utterances in dataset order (grouped by speaker, not original interleaving), joined with 0.3 s silence",
+   "license": "CC BY-SA 4.0 (https://huggingface.co/datasets/CAiRE/ASCEND)",
+   "speakers": 2
+  },
+  {
+   "id": "mucs-hi-en-tutorial-10min",
+   "title": "Real · Hinglish tutorial · 10 min",
+   "languages": [
+    "hi",
+    "en"
+   ],
+   "duration_sec": 630.0,
+   "turns": 128,
+   "length": "long",
+   "audio": "audio/mucs-hi-en-tutorial-10min.wav",
+   "truth": "truth/mucs-hi-en-tutorial-10min.json",
+   "bytes": 20160718,
+   "sha256": "6248974efc0688bb7672f4e20616827b238d705ec083e36ab7a16994ec5c5351",
+   "enabled": true,
+   "source": "MUCS 2021 sub-task 2, Hindi-English test set (OpenSLR SLR104; IIT Madras Spoken Tutorial lecture), recording kGQKLyQ1HtnUNL1d, continuous unedited audio with original segment timestamps",
+   "license": "CC BY-SA 4.0 (https://www.openslr.org/104/)",
+   "speakers": 1
+  },
+  {
+   "id": "mucs-hi-en-tutorial-8min",
+   "title": "Real · Hinglish tutorial · 8 min",
+   "languages": [
+    "hi",
+    "en"
+   ],
+   "duration_sec": 478.0,
+   "turns": 91,
+   "length": "long",
+   "audio": "audio/mucs-hi-en-tutorial-8min.wav",
+   "truth": "truth/mucs-hi-en-tutorial-8min.json",
+   "bytes": 15296078,
+   "sha256": "8f463364f2e3f2765c53ee653a4d5e60ce26a619a0b763c1baf223fb521f46d1",
+   "enabled": true,
+   "source": "MUCS 2021 sub-task 2, Hindi-English test set (OpenSLR SLR104; IIT Madras Spoken Tutorial lecture), recording lHGLSlYIb1clRBRF, continuous unedited audio with original segment timestamps",
+   "license": "CC BY-SA 4.0 (https://www.openslr.org/104/)",
+   "speakers": 1
+  },
+  {
+   "id": "vp-de-plenary-6min",
+   "title": "Real · German parliament speech · 6 min",
+   "languages": [
+    "de"
+   ],
+   "duration_sec": 346.0,
+   "turns": 44,
+   "length": "long",
+   "audio": "audio/vp-de-plenary-6min.wav",
+   "truth": "truth/vp-de-plenary-6min.json",
+   "bytes": 11071760,
+   "sha256": "78bba812cd6b12a6cb84b151a7b742e7771ccf3e7096887fec3be6bb1f9cc8ba",
+   "enabled": true,
+   "source": "VoxPopuli transcribed test split (Meta), European Parliament plenary session 20170612-0900-PLENARY-13-de; consecutive segments in original order, joined with 0.5 s silence (inter-segment gaps removed)",
+   "license": "CC0 1.0 (VoxPopuli transcribed data; https://github.com/facebookresearch/voxpopuli#license)",
+   "speakers": 1
+  },
+  {
+   "id": "vp-fr-plenary-6min",
+   "title": "Real · French parliament · 6 min",
+   "languages": [
+    "fr"
+   ],
+   "duration_sec": 336.6,
+   "turns": 38,
+   "length": "long",
+   "audio": "audio/vp-fr-plenary-6min.wav",
+   "truth": "truth/vp-fr-plenary-6min.json",
+   "bytes": 10771808,
+   "sha256": "0baac2089abfabae52795c98deeafb6da2112202e2852a550a2d5c02bc9f85ea",
+   "enabled": true,
+   "source": "VoxPopuli transcribed test split (Meta), European Parliament plenary session 20130205-0900-PLENARY-4-fr; consecutive segments in original order, joined with 0.5 s silence (inter-segment gaps removed)",
+   "license": "CC0 1.0 (VoxPopuli transcribed data; https://github.com/facebookresearch/voxpopuli#license)",
+   "speakers": 2
   }
  ]
 }

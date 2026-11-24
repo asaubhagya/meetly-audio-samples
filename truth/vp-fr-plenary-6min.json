@@ -1,0 +1,312 @@
+{
+ "id": "vp-fr-plenary-6min",
+ "duration_sec": 336.62,
+ "source": "VoxPopuli transcribed test split (Meta), European Parliament plenary session 20130205-0900-PLENARY-4-fr; consecutive segments in original order, joined with 0.5 s silence (inter-segment gaps removed)",
+ "license": "CC0 1.0 (VoxPopuli transcribed data; https://github.com/facebookresearch/voxpopuli#license)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 16.68,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Vous pouvez compter sur notre soutien dans cette lutte contre les terroristes, mais nous avons besoin d'une nouvelle alliance entre l'Europe et l'Afrique pour combattre le terrorisme ensemble, le trafic de drogues, mais aussi la pauvreté et la corruption.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_2"
+  },
+  {
+   "start": 17.18,
+   "end": 25.66,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Vous avez été élu, Monsieur le Président, à un moment où l'Europe traverse une triple crise une crise économique, sociale et politique.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_3"
+  },
+  {
+   "start": 26.16,
+   "end": 33.18,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Au cours de ces huit mois, vous avez déclenché des changements en Europe, et c'est une bonne nouvelle pour l'Europe et ses citoyens.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_4"
+  },
+  {
+   "start": 33.68,
+   "end": 37.14,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "L'Europe sociale n'est plus aux abonnés absents.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_10"
+  },
+  {
+   "start": 37.64,
+   "end": 45.16,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "L'engagement a été pris de renforcer la dimension sociale de la zone euro, mais nous demandons des mesures concrètes.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_11"
+  },
+  {
+   "start": 45.66,
+   "end": 48.08,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Ce n'est pas notre vision de l'Europe.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_13"
+  },
+  {
+   "start": 48.58,
+   "end": 54.44,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Aujourd'hui, Monsieur le Président, la zone euro entre dans une deuxième année de récession",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_17"
+  },
+  {
+   "start": 54.94,
+   "end": 59.88,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "À la fin de cette année, l'Europe comptera dix millions de chômeurs en plus par rapport à",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_19"
+  },
+  {
+   "start": 60.38,
+   "end": 64.24,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Il faut donner de l'oxygène à l'économie européenne.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_21"
+  },
+  {
+   "start": 64.74,
+   "end": 70.42,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Pour reprendre une formule du Président Mitterrand, il faut donner du temps au temps.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_24"
+  },
+  {
+   "start": 70.92,
+   "end": 75.1,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "L'Europe, Monsieur le Président, doit investir pour retrouver le chemin de la croissance.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_25"
+  },
+  {
+   "start": 75.6,
+   "end": 81.58,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Monsieur le Président, dans deux jours, vous participerez à une réunion cruciale pour l'avenir de l'Europe.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_27"
+  },
+  {
+   "start": 82.08,
+   "end": 85.6,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Elle porte sur le budget de l'Union européenne pour les sept prochaines années.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_28"
+  },
+  {
+   "start": 86.1,
+   "end": 94.72,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Mais un autre anniversaire ne peut nous laisser indifférents les soixante ans du premier traité européen, de la Communauté européenne du charbon et de l'acier.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_39"
+  },
+  {
+   "start": 95.22,
+   "end": 99.3,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Aujourd'hui, l'acier européen est menacé de mort.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_40"
+  },
+  {
+   "start": 99.8,
+   "end": 101.6,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Ils se trompent lourdement.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_43"
+  },
+  {
+   "start": 102.1,
+   "end": 106.88,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Pour nous, sociaux démocrates, l'Europe à la carte n'est pas une option.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_47"
+  },
+  {
+   "start": 107.38,
+   "end": 115.6,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Ce n'est pas notre vision de l'Europe. L'Europe n'est pas qu'un simple grand marché dépourvu d'ambition politique.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_48"
+  },
+  {
+   "start": 116.1,
+   "end": 122.3,
+   "lang": "fr",
+   "speaker": "2295",
+   "text": "Vous avez, Monsieur le Président, lancé votre campagne en France en promettant de réinventer le rêve français.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:24:58_62"
+  },
+  {
+   "start": 122.8,
+   "end": 142.22,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Monsieur le Président, Monsieur le Président de la République, mes chers collègues, je vous demande de bien vouloir, par prudence, laisser s'exprimer la minorité dans cette enceinte",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_0"
+  },
+  {
+   "start": 142.72,
+   "end": 152.1,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Monsieur le Président, vous avez reçu les félicitations chaleureuses de M. Barroso, de la Commission de Bruxelles.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_2"
+  },
+  {
+   "start": 152.6,
+   "end": 154.18,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Cela vous a satisfait",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_3"
+  },
+  {
+   "start": 154.68,
+   "end": 162.36,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Vous avez eu un mot, dans votre propos, qui est juste vous craignez la défiance des peuples européens.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_5"
+  },
+  {
+   "start": 162.86,
+   "end": 181.32,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Peut être ce mot vous est il inspiré par votre voisin, qui a voté non en 2005, lors de la dernière consultation référendaire. Pour le reste, le conte de fées, pour reprendre une expression utilisée il y a un instant, continue.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_6"
+  },
+  {
+   "start": 181.82,
+   "end": 201.66,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Monsieur le Président, je voudrais vous dire solennellement, et de façon respectueuse et cordiale, que votre rêve de la fusion des nations européennes par l'intégration, le rêve",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_7"
+  },
+  {
+   "start": 202.16,
+   "end": 211.58,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "des élites post nationales, est un rêve qui s'est évanoui dans le cœur des peuples.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_8"
+  },
+  {
+   "start": 212.08,
+   "end": 236.2,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Il s'est désintégré parce qu'il était tramé dans un tissu de mensonges le mensonge de Schengen, qui devait nous apporter la sécurité en abattant les frontières internes le mensonge d'une Europe sans protection douanière, qui devait nous apporter",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_9"
+  },
+  {
+   "start": 236.7,
+   "end": 246.4,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "la prospérité, le courant des échanges la fin de notre industrie est là, vous le savez, et M.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_10"
+  },
+  {
+   "start": 246.9,
+   "end": 248.24,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Montebourg le déplore tous les jours",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_11"
+  },
+  {
+   "start": 248.74,
+   "end": 254.24,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "puis aussi l'euro, qui devait nous apporter la croissance",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_12"
+  },
+  {
+   "start": 254.74,
+   "end": 275.22,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "et puis, le pouvoir d'une oligarchie à Bruxelles, qui devait finalement rencontrer la confiance des peuples. Aujourd'hui, les peuples s'éloignent, parce que, partout c'est l'austérité,",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_13"
+  },
+  {
+   "start": 275.72,
+   "end": 280.9,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "l'appauvrissement, le marasme et le sentiment d'un pouvoir de plus en plus lointain.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_14"
+  },
+  {
+   "start": 281.4,
+   "end": 286.28,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Alors on ne résout pas un problème, Monsieur le Président, avec les modes de pensée qui l'ont engendré.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_15"
+  },
+  {
+   "start": 286.78,
+   "end": 304.98,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Aujourd'hui, ce que nous attendons de vous, c'est que vous prononciez un mot tabou dans cette enceinte, un mot tabou dans le milieu confiné où se rencontrent les banquiers et les marchés, les milieux d'affaires et les grands profiteurs de la mondialisation sauvage il s'agit du mot référendum.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_16"
+  },
+  {
+   "start": 305.48,
+   "end": 324.46,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Pour que les peuples puissent exprimer leurs aspirations profondes, on a besoin de racines, on a besoin de frontières, on a besoin de protection, on a besoin d'un univers juridique stable, on a besoin de ne pas perturber le droit de la filiation, on a besoin que vous protégiez nos attachements vitaux.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_17"
+  },
+  {
+   "start": 324.96,
+   "end": 327.36,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Monsieur le Président, vous avez évoqué François Mitterrand.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_18"
+  },
+  {
+   "start": 327.86,
+   "end": 334.6,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Nous appartenons tous les deux à la génération qui a vu avec bonheur tomber le Mur de Berlin.",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_19"
+  },
+  {
+   "start": 335.1,
+   "end": 336.62,
+   "lang": "fr",
+   "speaker": "2212",
+   "text": "Prenez garde, Monsieur le Président!",
+   "segment": "20130205-0900-PLENARY-4-fr_20130205-11:53:47_20"
+  }
+ ]
+}

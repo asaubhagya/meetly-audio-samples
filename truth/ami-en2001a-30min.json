@@ -1,0 +1,2066 @@
+{
+ "id": "ami-en2001a-30min",
+ "duration_sec": 1800.0,
+ "source": "AMI Meeting Corpus, meeting EN2001a, Mix-Headset, window 0s-1800s (University of Edinburgh / AMI Consortium)",
+ "license": "CC BY 4.0 (https://groups.inf.ed.ac.uk/ami/corpus/license.shtml)",
+ "turns": [
+  {
+   "start": 3.17,
+   "end": 3.97,
+   "lang": "en",
+   "speaker": "E",
+   "text": "'Kay."
+  },
+  {
+   "start": 5.46,
+   "end": 6.1,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Gosh."
+  },
+  {
+   "start": 5.5,
+   "end": 6.07,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay."
+  },
+  {
+   "start": 10.45,
+   "end": 10.95,
+   "lang": "en",
+   "speaker": "E",
+   "text": "'Kay."
+  },
+  {
+   "start": 11.04,
+   "end": 15.63,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Does anyone want to see uh Steve's feedback from the specification?"
+  },
+  {
+   "start": 16.74,
+   "end": 18.15,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Is there much more in it than he d"
+  },
+  {
+   "start": 16.98,
+   "end": 19.76,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I I dry-read it the last time.."
+  },
+  {
+   "start": 18.88,
+   "end": 19.37,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Right."
+  },
+  {
+   "start": 18.98,
+   "end": 20.82,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Is there much more in it than he said yesterday?"
+  },
+  {
+   "start": 21.39,
+   "end": 25.86,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Not really, um just what he's talking about, like duplication of effort and"
+  },
+  {
+   "start": 22.93,
+   "end": 23.31,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Mm."
+  },
+  {
+   "start": 25.0,
+   "end": 27.47,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Hmm. Hmm?"
+  },
+  {
+   "start": 28.03,
+   "end": 40.15,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Like duplication of effort and stuff, and um yeah, he was saying that we should maybe uh think about having a prototype for week six, which is next week. Yeah."
+  },
+  {
+   "start": 38.66,
+   "end": 39.47,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Next week."
+  },
+  {
+   "start": 42.22,
+   "end": 47.62,
+   "lang": "en",
+   "speaker": "A",
+   "text": "So we should probably prioritize our packages."
+  },
+  {
+   "start": 46.35,
+   "end": 85.23,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, now I'd say if for the prototype if we just like wherever possible p chunk in the stuff that we have um pre-annotated and stuff, and for the stuff that we don't have pre-annotated write like a stupid baseline, then we should probably be able to basically that means we focus on on the interface first sort of, so that we we take the the ready-made parts and just see how we get them work together in the interface the way we want and and then we have a working prototype. And then we can go back and replace pieces either by our own components or by more sophisticated compo po components of our own. So it's probably feasible. The thing is I'm away this weekend. So that's for me"
+  },
+  {
+   "start": 56.53,
+   "end": 57.03,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm."
+  },
+  {
+   "start": 78.7,
+   "end": 79.17,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah."
+  },
+  {
+   "start": 79.97,
+   "end": 80.54,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 84.21,
+   "end": 94.83,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah, I mean if we just want to have um some data for the user face, could even be random data. Uh mm mm"
+  },
+  {
+   "start": 92.89,
+   "end": 112.98,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Oh yeah, um yeah. No. But also I might like the the similarity thing, like my just my matrix itself for my stuff, I c I I think I can do that fairly quickly because I have the algorithms. Yeah, I think today's meeting is really the one where we where we sort of settle down the data structure and as soon as we have that, uh probably like after today's meeting, we then actually need to"
+  },
+  {
+   "start": 93.7,
+   "end": 94.33,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 103.98,
+   "end": 104.69,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah, I'm"
+  },
+  {
+   "start": 109.71,
+   "end": 110.27,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 114.58,
+   "end": 126.78,
+   "lang": "en",
+   "speaker": "E",
+   "text": "well go back first of all and look at NITE X_M_L_ to see in how far that that which we want is compatible with that which NITE X_M_L_ offers us. And then just sort of everyone make sure everyone understand the interface."
+  },
+  {
+   "start": 121.85,
+   "end": 122.23,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 128.99,
+   "end": 157.42,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So I think if today we decide on what data we wanna have now, and and later, maybe even today, we go and look at NITE X_M_L_ or some of us look at NITE X_M_L_ in a bit more detail, just trying to make some sense of that code and see how does the representation work in their system. And then sort of with that knowledge we should be able to then say okay, that type of NITE X_M_L_ data we wanna load into it, and this is how everyone can access it, and then we should be able to go from there."
+  },
+  {
+   "start": 155.46,
+   "end": 161.8,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Hmm. Has has anyone actually looked at the Java code for the, huh? Hmm."
+  },
+  {
+   "start": 159.72,
+   "end": 160.35,
+   "lang": "en",
+   "speaker": "E",
+   "text": "No."
+  },
+  {
+   "start": 160.25,
+   "end": 160.78,
+   "lang": "en",
+   "speaker": "D",
+   "text": "No."
+  },
+  {
+   "start": 161.55,
+   "end": 198.05,
+   "lang": "en",
+   "speaker": "E",
+   "text": "I've looked looked at the documentation and n like seen enough to make me think that we want to use the NITE X_M_L_ framework because um they have a good a event model that synchronizes sort of the data and and every display element. So that takes a lot of work away from us. Sort of that would be a reason for staying within their framework and using their general classes. But beyond that I haven't looked at it at all, which is something we should really do. Who actually like for this whole discussion I mean, who of us is doing stuff that is happening on-line and who of us is doing stuff that's happening off-line? Like my data is coming c"
+  },
+  {
+   "start": 186.78,
+   "end": 187.69,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, I think so."
+  },
+  {
+   "start": 210.56,
+   "end": 210.88,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Hmm?"
+  },
+  {
+   "start": 211.31,
+   "end": 220.9,
+   "lang": "en",
+   "speaker": "C",
+   "text": "The basic word importance is off-line as well. The combined measure might not be if we want to wait what the user has typed in into the search."
+  },
+  {
+   "start": 213.14,
+   "end": 213.69,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah."
+  },
+  {
+   "start": 218.33,
+   "end": 218.95,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Okay."
+  },
+  {
+   "start": 220.95,
+   "end": 221.61,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Okay."
+  },
+  {
+   "start": 222.02,
+   "end": 232.25,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Uh mine's gonna be mostly using the off-line. But the actual stuff it's doing will be on-line. But it won't be very um processor intensive or memory intensive, I don't think."
+  },
+  {
+   "start": 228.9,
+   "end": 229.35,
+   "lang": "en",
+   "speaker": "E",
+   "text": "'Kay."
+  },
+  {
+   "start": 231.61,
+   "end": 250.62,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So basically apart from the display module, the i the display itself, we don't have an extremely high degree of interaction between sort of our modules that create the stuff and and the interface, so the interface is mainly while it's running just working on data that's just loaded from a file, I guess."
+  },
+  {
+   "start": 252.22,
+   "end": 252.9,
+   "lang": "en",
+   "speaker": "E",
+   "text": "There isn't"
+  },
+  {
+   "start": 252.23,
+   "end": 257.62,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, I I don't know about the search functionality, that might be online. Depends how it's gonna work."
+  },
+  {
+   "start": 252.96,
+   "end": 253.65,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Hmm."
+  },
+  {
+   "start": 257.62,
+   "end": 293.18,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, I know. Th Yeah, the search is I guess the search is sort of a strange beast anyway because for the search we're leaving the NITE X_M_L_ framework. Um but that's still sort of that's good. That means that at least like we don't have the type of situation where somebody has to do like a billion calculations on on data on-line. 'Cause that would make it a lot more like that would mean that our interface for the data would have to be a lot more careful about how it performs and and everything. And nobody is modifying that data at at on-line time at all it seems. Nobody's making any changes to the actual data on-line."
+  },
+  {
+   "start": 265.75,
+   "end": 266.31,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 294.84,
+   "end": 295.66,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Don't think so."
+  },
+  {
+   "start": 295.63,
+   "end": 306.24,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So that's actually making it a lot easier. That basically means our browser really is a viewer mostly, which isn't doing much with the data except for sort of selecting a piece piece of it and and displaying it."
+  },
+  {
+   "start": 297.28,
+   "end": 297.69,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 310.9,
+   "end": 315.74,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Are we still gonna go for dumping it into a database? Are we still gonna dump it into a database?"
+  },
+  {
+   "start": 313.38,
+   "end": 313.69,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Hmm?"
+  },
+  {
+   "start": 316.1,
+   "end": 319.87,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Well some parts relevant for the search, yes. I'd say so."
+  },
+  {
+   "start": 320.15,
+   "end": 325.38,
+   "lang": "en",
+   "speaker": "D",
+   "text": "'Cause if we are, I reckon we should all read our classes out of the database. It'll be so much easier."
+  },
+  {
+   "start": 325.81,
+   "end": 326.15,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Hmm?"
+  },
+  {
+   "start": 326.67,
+   "end": 342.1,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well if we're gonna dump the part of it into a database anyway, we might as well dump all the fields we want into the database, calculate everything from there. Then we don't even have to worry that much about the underlying X_M_L_ representation. We can just query it."
+  },
+  {
+   "start": 343.29,
+   "end": 347.2,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, but nobody of us is doing much of searching from the data in the on-line stage."
+  },
+  {
+   "start": 348.8,
+   "end": 392.89,
+   "lang": "en",
+   "speaker": "E",
+   "text": "And for all together, like the display itself, I think we are easier if we if it's sitting on the X_M_L_ than if it's sitting on the S_Q_L_ stuff, because if it's sitting on the X_M_L_, we have the the NITE X_M_L_ framework with all its functionality for synchronizing through all the different levels whenever there's a change, whenever something's moving forward and stuff. And we can just more or less look at their code, like how their player moves forward, and how that moving forward is represented in different windows and stuff. So I think in the actual browser itself I don't wanna sit on the S_Q_L_ if we can sit on the X_M_L_ because sitting on the X_M_L_ we have all we have so much help. And for y for like the p the calculations that we're doing apart from the search, it seems that everyone needs some special representations anyway."
+  },
+  {
+   "start": 393.62,
+   "end": 398.97,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well if we're gonna do that, we should try and store everything in in an X_M_L_ format as well."
+  },
+  {
+   "start": 400.1,
+   "end": 408.33,
+   "lang": "en",
+   "speaker": "E",
+   "text": "You mean our results? Yeah, in in the NITE X_M_L_ X_M_L_ format, so with their time stamps and stuff, so that it's easy to to tie together st things."
+  },
+  {
+   "start": 401.17,
+   "end": 401.59,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 406.3,
+   "end": 406.95,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yes."
+  },
+  {
+   "start": 408.15,
+   "end": 408.64,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 411.66,
+   "end": 442.48,
+   "lang": "en",
+   "speaker": "E",
+   "text": "What I'm like what we have to think about is if we go with this multi-level idea, like this idea that sort of if you start with a whole meeting series as one entity, as one thing that you display, as one whole sort of, that then the individual chunks of the individual meetings, whereas and then you can click on a meeting, and then sort of the meeting is the whole thing and the chunks are the individual segments, that means sort of we have multiple levels of of representation, which we probably"
+  },
+  {
+   "start": 443.83,
+   "end": 484.79,
+   "lang": "en",
+   "speaker": "E",
+   "text": "If we if we do it this way like we f we have to discuss that if we do it this way, then we should probably find some abstraction model, so that the interface in the sense like deals with it as if it's same so that the interface doesn't really have to worry whether it's a meeting in the whole meeting series or a segment within a meeting, you know what I mean? And that's probably stuff that we have to sort of like process twice then. Like for example that like the summary of a meeting within the whole meeting corpus or meeting series y is meeting series a good word for that? I don't really know what how to call it. You know what I mean, like not not the whole corpus, but every meeting that has to do with one topic. Um so in in the meeting se series so that a summary for a meeting within the meeting series, are sort of"
+  },
+  {
+   "start": 460.93,
+   "end": 461.35,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 461.25,
+   "end": 461.72,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Hmm yes."
+  },
+  {
+   "start": 474.74,
+   "end": 475.22,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Hmm."
+  },
+  {
+   "start": 479.6,
+   "end": 480.44,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, that makes sense."
+  },
+  {
+   "start": 486.5,
+   "end": 494.79,
+   "lang": "en",
+   "speaker": "E",
+   "text": "compiled off-line by a summary module. And that is separate from a summary of a segment within a meeting. 'Cause I don't think we can"
+  },
+  {
+   "start": 494.3,
+   "end": 496.64,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I'm not so sure."
+  },
+  {
+   "start": 494.46,
+   "end": 510.89,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well we don't even need to do that, 'cause if we got our information density calculated off-line, so all we do is treat the whole lot as one massive document. I mean they'll it's not gonna be so big that we can't load in a information density for every utterance. And we can just summarise based on that."
+  },
+  {
+   "start": 511.5,
+   "end": 528.61,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I I thought we would just have like um one big summary um with all the uh different importance levels um displayed on it. And depending on what our um zoom level is, we just display a part of it."
+  },
+  {
+   "start": 528.86,
+   "end": 531.58,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So are we doing that at all levels? Are we um"
+  },
+  {
+   "start": 531.76,
+   "end": 538.76,
+   "lang": "en",
+   "speaker": "B",
+   "text": "And we would have one very big thing off-line. And from that we would just select what we are displaying."
+  },
+  {
+   "start": 538.66,
+   "end": 542.24,
+   "lang": "en",
+   "speaker": "E",
+   "text": "And just have different like fine-grainedness levels sort of."
+  },
+  {
+   "start": 542.02,
+   "end": 554.21,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yes. So for example you would um give a high value to those um sequences you want to display in the meeting series summary. And you just cut off."
+  },
+  {
+   "start": 548.26,
+   "end": 548.82,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Mm."
+  },
+  {
+   "start": 551.78,
+   "end": 565.7,
+   "lang": "en",
+   "speaker": "E",
+   "text": "'Kay. So the only thing that yeah, so the only thing that would happen basically if I double-click let's say from the whole meeting series on a single meeting, is that the zoom level changes. Like the th the start and the end position changes and the zoom level changes."
+  },
+  {
+   "start": 566.05,
+   "end": 569.1,
+   "lang": "en",
+   "speaker": "B",
+   "text": "That was what I sh I thought, yeah. I thought."
+  },
+  {
+   "start": 567.8,
+   "end": 569.34,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I think you can do it on-line."
+  },
+  {
+   "start": 568.04,
+   "end": 574.18,
+   "lang": "en",
+   "speaker": "E",
+   "text": "I I thought we couldn't do that. Like I was under the impression that we couldn't do that because we couldn't load the data for all that."
+  },
+  {
+   "start": 576.03,
+   "end": 577.26,
+   "lang": "en",
+   "speaker": "E",
+   "text": "But I don't know, I mean that"
+  },
+  {
+   "start": 578.27,
+   "end": 578.76,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Hmm."
+  },
+  {
+   "start": 578.9,
+   "end": 594.65,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I don't think there's really much point in doing like that when it's just gonna feed off in the end the information density measure basically. And that's all calculated off-line. So what you're really doing is sorting a list, is the p computationally hard part of it."
+  },
+  {
+   "start": 596.45,
+   "end": 599.11,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So I'm s not sure if I got it. I was"
+  },
+  {
+   "start": 598.81,
+   "end": 627.53,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well like the ideas we're calculating are information density all off-line first for every utterance in the whole corpus, right? So what you do is you say if you're looking at a series of meetings, you just say well our whole document comprises of all these stuck together. And then all you have to do is sort them by j information density. Like maybe weighted with the search terms, and then extract them. I don't think it's too slow to do on-line, to be honest."
+  },
+  {
+   "start": 605.09,
+   "end": 606.92,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Mm-hmm. Mm-hmm."
+  },
+  {
+   "start": 613.82,
+   "end": 614.27,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 617.86,
+   "end": 618.26,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 620.75,
+   "end": 621.18,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Okay."
+  },
+  {
+   "start": 622.62,
+   "end": 623.46,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So"
+  },
+  {
+   "start": 626.62,
+   "end": 640.36,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Okay. I wa I was just worried about the total memory complexity of it. But I I completely admit, I mean, I just sort of like th took that from some thing that Jonathan once said about not loading everything. But maybe I was just wrong about it. How many utterances w"
+  },
+  {
+   "start": 639.01,
+   "end": 639.78,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Is that"
+  },
+  {
+   "start": 639.57,
+   "end": 657.25,
+   "lang": "en",
+   "speaker": "B",
+   "text": "But I think the m difference might be that we want just want to have um the words. And that's not so much what he meant with not possibly loading everything was that you m um load all the uh annotation stuff, all the sound files, all"
+  },
+  {
+   "start": 651.73,
+   "end": 660.65,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, and I w yeah. Yeah. Yeah. Yeah. So what we have is we would have a word."
+  },
+  {
+   "start": 654.37,
+   "end": 654.85,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 655.37,
+   "end": 655.85,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Hmm."
+  },
+  {
+   "start": 662.3,
+   "end": 686.55,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Like we would have words with some priority levels. And they would basically be because even the selection would would the summaries automatically feed from just how prioritized an individual word or how indiv uh prioritized an individual utterance is? Or i are the summaries sort of refined from it and made by a machine to make sentences and stuff? Or are they just sort of taking out the words with the highest priority and then the words of the second highest priority?"
+  },
+  {
+   "start": 685.66,
+   "end": 692.68,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well, on the utterance level I was thinking. So the utterances with the highest like mean information density."
+  },
+  {
+   "start": 688.29,
+   "end": 689.99,
+   "lang": "en",
+   "speaker": "E",
+   "text": "And the u okay."
+  },
+  {
+   "start": 692.0,
+   "end": 696.78,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Are we doing it on th the whole thing on the utterance level? Or are we doing it on word level, like the information density calculation?"
+  },
+  {
+   "start": 692.17,
+   "end": 693.86,
+   "lang": "en",
+   "speaker": "B",
+   "text": "In"
+  },
+  {
+   "start": 695.67,
+   "end": 703.34,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well the trouble with doing it on the word level is if you want the audio to synch up, you've got no way of getting in and extracting just that word. I mean it's impossible."
+  },
+  {
+   "start": 703.87,
+   "end": 718.3,
+   "lang": "en",
+   "speaker": "E",
+   "text": "We I think we have start and end times for words actually, but it's yeah, but it m it might s but it might sound crazy in the player. We should really maybe we can do that together at some point today that we check out how the player works. But there's maybe some merit in altogether doing it on an utterance level in the end."
+  },
+  {
+   "start": 705.87,
+   "end": 708.45,
+   "lang": "en",
+   "speaker": "D",
+   "text": "For every single word? Oh, okay."
+  },
+  {
+   "start": 707.02,
+   "end": 707.66,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 710.22,
+   "end": 710.67,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 713.91,
+   "end": 716.51,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I don't think that will do it. We'll have to buffer it."
+  },
+  {
+   "start": 715.53,
+   "end": 733.58,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Um I r I I'm getting quite lost um at the moment because um w what's um our difference between the um se um uh the importance measure and the skimming? I mean, do we do both or is it the same thing?"
+  },
+  {
+   "start": 720.26,
+   "end": 720.68,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So"
+  },
+  {
+   "start": 734.06,
+   "end": 736.3,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well the skimming's gonna use the importance."
+  },
+  {
+   "start": 736.63,
+   "end": 737.11,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah."
+  },
+  {
+   "start": 737.22,
+   "end": 737.7,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 738.43,
+   "end": 740.97,
+   "lang": "en",
+   "speaker": "D",
+   "text": "But like at first it's just gonna be I_D_F_."
+  },
+  {
+   "start": 738.98,
+   "end": 745.38,
+   "lang": "en",
+   "speaker": "B",
+   "text": "So but when when we talk about summaries you talk about this uh abo about skimming and not about"
+  },
+  {
+   "start": 744.93,
+   "end": 746.34,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well mostly skimming, yeah."
+  },
+  {
+   "start": 746.68,
+   "end": 764.71,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Well but also about the displays, I mean the displays in the in the text body, in the in the latest draft that we had sort of we came up with the idea that it isn't displaying utterance for utterance, but it's also displaying uh a summarised version in you know, like below the below the graph, the part. Maybe"
+  },
+  {
+   "start": 762.42,
+   "end": 762.9,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah."
+  },
+  {
+   "start": 766.46,
+   "end": 767.01,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, r"
+  },
+  {
+   "start": 766.71,
+   "end": 770.35,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah right, isn't that the skimming? Isn't that the skimming?"
+  },
+  {
+   "start": 768.54,
+   "end": 768.86,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Hmm?"
+  },
+  {
+   "start": 769.91,
+   "end": 774.51,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Oh yeah, f it's just like there there's like audio skimming and there's displayed skimming."
+  },
+  {
+   "start": 774.2,
+   "end": 776.0,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah, but it use the same data."
+  },
+  {
+   "start": 777.04,
+   "end": 792.8,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah. Ma maybe there's some merit of going altogether for utterance level and not even bother to calculate I mean if you have to do it internally, then you can do it. But maybe like not even store the importance levels for individual words and just sort of rank utterances as a whole."
+  },
+  {
+   "start": 777.41,
+   "end": 777.8,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 792.1,
+   "end": 800.56,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well the nice thing about that is it will automatically be in sentences. Well more or less. So it will make more sense, and if you get just extract words."
+  },
+  {
+   "start": 795.61,
+   "end": 795.96,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Hmm?"
+  },
+  {
+   "start": 797.22,
+   "end": 797.86,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah."
+  },
+  {
+   "start": 799.21,
+   "end": 811.18,
+   "lang": "en",
+   "speaker": "E",
+   "text": "'Cause it it might be better skimming and less memory required at the same time. And I mean if you if you know how to do it for individual words, then you can just in the worst case, if you can't find anything else, just sort of make the mean of the words over the utterance. You know what I mean?"
+  },
+  {
+   "start": 811.5,
+   "end": 816.5,
+   "lang": "en",
+   "speaker": "C",
+   "text": "I'm not quite so what it did you want to do it, i you just wanted to assign"
+  },
+  {
+   "start": 812.72,
+   "end": 814.73,
+   "lang": "en",
+   "speaker": "E",
+   "text": "W it's it's"
+  },
+  {
+   "start": 816.77,
+   "end": 822.54,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Well what's the smallest chunk at the moment you're thinking of of assigning an importance measure to, is it a word or is it an utterance?"
+  },
+  {
+   "start": 822.88,
+   "end": 824.39,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Uh I thought about words."
+  },
+  {
+   "start": 824.59,
+   "end": 830.02,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So we're thinking of like maybe just storing it on a per utterance level."
+  },
+  {
+   "start": 832.18,
+   "end": 856.05,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Because it's it's less stuff to store probably for Dave in the in the audio playing. And for in the display it's probably better if you have whole utterances than I don't know, like what it's like if you just take single words out of utterances. That probably doesn't make any sense at all, whereas if you just uh show important utterances but the utterance as a whole it makes more sense. So it doesn't actually make a difference for your algorithm, 'cause it just means that if you're working on a word level, then we just mean it over the utterance."
+  },
+  {
+   "start": 833.83,
+   "end": 834.62,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Mm."
+  },
+  {
+   "start": 842.08,
+   "end": 842.89,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah."
+  },
+  {
+   "start": 844.0,
+   "end": 844.95,
+   "lang": "en",
+   "speaker": "B",
+   "text": "A"
+  },
+  {
+   "start": 846.37,
+   "end": 846.96,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 855.14,
+   "end": 870.83,
+   "lang": "en",
+   "speaker": "B",
+   "text": "And, yeah, I think we also thought about combining that measure with um the measures I get from um s uh hot-spots and so on. So that would also be on utterance level, I think. I think."
+  },
+  {
+   "start": 855.4,
+   "end": 856.33,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Mm okay."
+  },
+  {
+   "start": 865.1,
+   "end": 865.97,
+   "lang": "en",
+   "speaker": "E",
+   "text": "They are on"
+  },
+  {
+   "start": 869.33,
+   "end": 873.27,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Oh so that's good anyway then, yeah. Because that makes it a lot easier than to t put it on utterance level."
+  },
+  {
+   "start": 870.2,
+   "end": 870.93,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I see it."
+  },
+  {
+   "start": 872.48,
+   "end": 880.51,
+   "lang": "en",
+   "speaker": "D",
+   "text": "But it'll need to be calculated at word level though because otherwise there won't be enough occurrences of the terms to make any meaningful sense."
+  },
+  {
+   "start": 879.42,
+   "end": 891.24,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Oh yeah. No but I mean like how how Jasmine does it internally I don't know, but it's probably, yeah, you probably have to work on word levels for importance. But there should be ways of easily going from a word level to an utterance level. Okay."
+  },
+  {
+   "start": 884.06,
+   "end": 884.56,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 889.64,
+   "end": 892.32,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah, I reckon you can just mean it over the sentence."
+  },
+  {
+   "start": 890.97,
+   "end": 898.82,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah, but how about those words which don't carry any meaning at all, the um and uhs and something like that."
+  },
+  {
+   "start": 900.89,
+   "end": 901.69,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, prob"
+  },
+  {
+   "start": 901.28,
+   "end": 917.21,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Because if we if we average average over over a whole utterance all the words, and there are quite unimportant words in there, but quite important words as well, I think we should just disregard the the"
+  },
+  {
+   "start": 901.86,
+   "end": 903.48,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I think we should filter them."
+  },
+  {
+   "start": 906.56,
+   "end": 906.98,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Hmm."
+  },
+  {
+   "start": 917.1,
+   "end": 930.65,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Maybe we should have like um a cut-off. So it a w word only gets a value if it's above a certain threshold. So anything that has less than say nought point five importance gets assigned to zero."
+  },
+  {
+   "start": 925.29,
+   "end": 926.09,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Okay."
+  },
+  {
+   "start": 930.97,
+   "end": 931.38,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Alright."
+  },
+  {
+   "start": 931.25,
+   "end": 944.54,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Well we do a pre-filtering of sort of the whole thing, sort of like but that, like the problem with that is it's easy to do in the text level. But that would mean it would still play the uh in your audio, unless we sort of also store what pieces we cut out for the audio."
+  },
+  {
+   "start": 933.31,
+   "end": 934.47,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah, that's the other th"
+  },
+  {
+   "start": 939.38,
+   "end": 939.91,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 948.73,
+   "end": 958.12,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah. I think before we can like answer that specific question how we c deal with that, it's probably good for us to look at what the audio player is capable of doing."
+  },
+  {
+   "start": 958.19,
+   "end": 963.53,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I think we'll have to buffer the audio. But I don't think it will be very hard. I think it would be like an hour or two's work."
+  },
+  {
+   "start": 960.3,
+   "end": 960.87,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yes."
+  },
+  {
+   "start": 964.45,
+   "end": 967.38,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So what do you mean by buffering? Like you think directly feeding"
+  },
+  {
+   "start": 966.25,
+   "end": 970.56,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Like just build an another f wave file essentially."
+  },
+  {
+   "start": 970.58,
+   "end": 972.49,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, you just concatenate them together."
+  },
+  {
+   "start": 971.17,
+   "end": 976.88,
+   "lang": "en",
+   "speaker": "E",
+   "text": "But yeah, but not but not stored on the hard disk and then loaded in, but loaded in directly from memory."
+  },
+  {
+   "start": 971.74,
+   "end": 974.28,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah, I mean I bet there would be packages"
+  },
+  {
+   "start": 976.29,
+   "end": 984.04,
+   "lang": "en",
+   "speaker": "D",
+   "text": "In memory, yeah. So just like unp there's bound to be like a media wave object or something like that. And just build one in memory."
+  },
+  {
+   "start": 982.58,
+   "end": 989.97,
+   "lang": "en",
+   "speaker": "E",
+   "text": "But it's probably a stream if it exists in Java, it would be probably some binary stream going in of some type. Okay, yeah."
+  },
+  {
+   "start": 987.26,
+   "end": 997.5,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I don't know. I have no idea. But it must have like classes for dealing with files. And if it has classes for concatenating files, you can do it in memory. So"
+  },
+  {
+   "start": 995.72,
+   "end": 1016.56,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Okay. Okay, so I mean so that means that there's probably, even if you go on an per utterance level, there's still some merit on within utterances cutting out stuff which clearly isn't relevant at all, and that maybe also for the audio we'd have to do. So let's say we play the whole au phrase, but then in addition to that, we have some information that says minus that part of something. That's okay, that we can do."
+  },
+  {
+   "start": 1016.58,
+   "end": 1032.7,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well what I think I might try and build is basically a class that you just feed it a linked list of um different wave-forms, and it will just string them all together with maybe, I don't know, tenth of a second silence in between each one or something like that."
+  },
+  {
+   "start": 1032.07,
+   "end": 1071.81,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, maybe even I mean that's sort of that depends on how how advanced we get. If maybe if we realise that there's massive differences in in gain or in something, you can probably just make some simple simple normalization, but that really depends on how much time we have and and how much is necessary. Yeah, if like I d I don't know anything about audio and I have never seen the player. So if you find that the player accepts some n input from memory, and if it's easy to do, then I guess that's that's fairly doable. So but that means in the general structure we're actually quite lucky, so we we have we load into memory for the whole series of meetings just the utterances and rankings for the utterances and some information probably that says, well, the I guess that goes with the utterance, who's speaking."
+  },
+  {
+   "start": 1041.05,
+   "end": 1042.34,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Normalise it, yeah."
+  },
+  {
+   "start": 1072.76,
+   "end": 1074.24,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Oh yeah, yeah, we'll need that."
+  },
+  {
+   "start": 1073.3,
+   "end": 1074.1,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yes, sure."
+  },
+  {
+   "start": 1073.51,
+   "end": 1075.89,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Because then we can also do the display about who's speaking."
+  },
+  {
+   "start": 1076.17,
+   "end": 1079.18,
+   "lang": "en",
+   "speaker": "D",
+   "text": "We also really wanna be able to search by who's speaking as well."
+  },
+  {
+   "start": 1080.18,
+   "end": 1080.77,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah."
+  },
+  {
+   "start": 1083.39,
+   "end": 1093.31,
+   "lang": "en",
+   "speaker": "E",
+   "text": "But I'm I'm still confused 'cause I thought like that's just what Jonathan said we do c that we can't do, like load a massive document of that size. On the other hand"
+  },
+  {
+   "start": 1092.37,
+   "end": 1095.44,
+   "lang": "en",
+   "speaker": "D",
+   "text": "It doesn't matter, 'cause all the calculation's done off-line."
+  },
+  {
+   "start": 1100.12,
+   "end": 1107.71,
+   "lang": "en",
+   "speaker": "E",
+   "text": "The other hand, I mean it shouldn't be like should be like fifty mega-byte in RAM or something, it shouldn't be massive, should it? Actually fifty hundred megabyte is quite big in RAM."
+  },
+  {
+   "start": 1105.93,
+   "end": 1106.4,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Hmm."
+  },
+  {
+   "start": 1115.97,
+   "end": 1118.44,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Just thinking, what's the simp so"
+  },
+  {
+   "start": 1120.1,
+   "end": 1134.94,
+   "lang": "en",
+   "speaker": "E",
+   "text": "We do get an error message with the project if we load everything into the project with all the data they load. So we know that doesn't work. So our hope is essentially that we load less into it. What's this lazy loading thing, somebody explain lazy loading to me."
+  },
+  {
+   "start": 1131.06,
+   "end": 1131.52,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yes."
+  },
+  {
+   "start": 1131.44,
+   "end": 1131.82,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 1134.41,
+   "end": 1142.26,
+   "lang": "en",
+   "speaker": "A",
+   "text": "It just means it loads on demand. It only loads when it needs a particular type of file. Like when it's being accessed."
+  },
+  {
+   "start": 1141.98,
+   "end": 1160.25,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Ah, okay. So that is that only by type of file. Like if if if the same thing is in different files, would it then maybe like, you know, if if utterances are split over three or ten or w hundred different files, is then a chance maybe that it doesn't try to load them all into memory at the same time, but just"
+  },
+  {
+   "start": 1160.74,
+   "end": 1164.42,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, I think that's the idea, it just loads the particular ones it needs."
+  },
+  {
+   "start": 1163.35,
+   "end": 1167.37,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So why does it fail then in the first place? Then it shouldn't ever fail, because then it should never"
+  },
+  {
+   "start": 1167.46,
+   "end": 1170.31,
+   "lang": "en",
+   "speaker": "A",
+   "text": "But if you were doing a search over the whole corpus you'd have to load them all."
+  },
+  {
+   "start": 1169.39,
+   "end": 1177.18,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, but yeah, but um it uh it it failed right when you load it, right, the NITE X_M_L_ kit, so that's interesting."
+  },
+  {
+   "start": 1175.36,
+   "end": 1176.43,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yes, right."
+  },
+  {
+   "start": 1179.17,
+   "end": 1179.63,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Hmm."
+  },
+  {
+   "start": 1180.77,
+   "end": 1201.79,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Oops, it does. So I define baseline and what it loads? For example it loads all the utterances and so on, but it doesn't load um the discourse acts and for example not the and what's what else there? Not the summaries. It only loads those on demand."
+  },
+  {
+   "start": 1192.45,
+   "end": 1193.0,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Hmm."
+  },
+  {
+   "start": 1203.94,
+   "end": 1219.95,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Let's check that out. Um I'll p I'll probably ask Jonathan about it. So alternatively, if we realise we can't do the whole thing in one go, we can probably just process some sort of meta-data, you know what I mean, like sort of sort of for the whole series"
+  },
+  {
+   "start": 1221.51,
+   "end": 1225.82,
+   "lang": "en",
+   "speaker": "E",
+   "text": "chunks representing the individual meetings or some"
+  },
+  {
+   "start": 1227.59,
+   "end": 1251.57,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Like something that represents the whole series in in a v in a structure very similar to the structure in which we represent individual um meetings, but with data sort of always combined from the whole series. so instead of having an single utterance that we display, it would probably be like that would be representing a whole um topic, a segment in a meeting."
+  },
+  {
+   "start": 1253.28,
+   "end": 1255.44,
+   "lang": "en",
+   "speaker": "E",
+   "text": "And sort of so that wi using the same data st"
+  },
+  {
+   "start": 1254.72,
+   "end": 1273.14,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Y you mean that you um basically split up th the big thing into um different summaries. For example that you have a very um top-level um summary and a separate file for for each level."
+  },
+  {
+   "start": 1262.37,
+   "end": 1263.46,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Well, in a sense"
+  },
+  {
+   "start": 1272.12,
+   "end": 1278.07,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Uh I'm I'm thinking of in a sense of like creating a virtual a virtual meeting out of the whole meeting series, sort of."
+  },
+  {
+   "start": 1278.29,
+   "end": 1282.55,
+   "lang": "en",
+   "speaker": "D",
+   "text": "That's easy. You just like create a new X_M_L_ document in memory."
+  },
+  {
+   "start": 1281.7,
+   "end": 1322.27,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, sort of like off-line create a virtual meeting, which which basically treats the meeting series as if it was a meeting, and treats the individual meetings within the series as if they were segments, and treats the individual segments within meetings as if they were um utterances. You know, so we just sort of we shift it one level up. And in that way we could probably use the same algorithm and just like make vir like one or two ifs that say okay, if you are on a whole document uh a whole series level and that was a double-click, then don't just go into that um segment, but load a new file or something like it, but in general use the same algorithm. That would be an alternative if we can't actually load the whole thing and"
+  },
+  {
+   "start": 1302.53,
+   "end": 1302.97,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1322.72,
+   "end": 1323.03,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm."
+  },
+  {
+   "start": 1324.56,
+   "end": 1336.27,
+   "lang": "en",
+   "speaker": "E",
+   "text": "'Cause also like even if we maybe this whole like maybe I'm worrying too much about the whole series in one thing display, because actually I mean probably users wouldn't view that one too often."
+  },
+  {
+   "start": 1336.11,
+   "end": 1363.14,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I don't think it's really that much of a problem because if it's too big, what we can do is just well all the off-line stuff doesn't really matter. And all we can do is just process a bit at a time. Like for summarisation, say we wanted a hundred utterances in the summary, just look at the meeting, take the top one hundred utterances in each other meeting. If it scores higher than the ones already in the summary so far, just replace them. And then you only have to process one meeting at a time."
+  },
+  {
+   "start": 1363.78,
+   "end": 1384.18,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, but I'm I'm still worried. Like for example for the display, if you actually if you want a display uh like for the whole series, the information density levels based on and and the f and the only granularity you have is individual utterances, that means you have to through every single utterance in a series of seventy hours of meetings."
+  },
+  {
+   "start": 1383.38,
+   "end": 1390.76,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Okay, so maybe we should build a b store a mean measure for the segments and meetings as well?"
+  },
+  {
+   "start": 1389.33,
+   "end": 1402.12,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah. Yeah, and if you make that structurally very similar to the the le like one level down, like the way how we uh store individual utterances and stuff, then maybe we can more or less use the same code and just make a few ifs and stuff."
+  },
+  {
+   "start": 1405.42,
+   "end": 1410.0,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, so so but still so in in general we're having we're having utterances"
+  },
+  {
+   "start": 1411.65,
+   "end": 1413.17,
+   "lang": "en",
+   "speaker": "E",
+   "text": "and they have a score."
+  },
+  {
+   "start": 1415.39,
+   "end": 1426.9,
+   "lang": "en",
+   "speaker": "E",
+   "text": "And that's as much as we really need. And of cou and they also have a time a time information of course. Hmm? And a and a s and a speaker information, yeah."
+  },
+  {
+   "start": 1422.81,
+   "end": 1430.75,
+   "lang": "en",
+   "speaker": "D",
+   "text": "And speaker. Speaker and um topic segmenting we'll need as well."
+  },
+  {
+   "start": 1430.77,
+   "end": 1436.5,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, so an information which topic they're in, yeah. And and probably separate to that an information about the different topics like that"
+  },
+  {
+   "start": 1432.82,
+   "end": 1433.26,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 1438.32,
+   "end": 1438.73,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah."
+  },
+  {
+   "start": 1440.16,
+   "end": 1441.13,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So"
+  },
+  {
+   "start": 1442.37,
+   "end": 1449.1,
+   "lang": "en",
+   "speaker": "E",
+   "text": "so the skimming can work on that because the skimming just sort of sorts the utterances and puts as many in as it needs"
+  },
+  {
+   "start": 1448.36,
+   "end": 1453.37,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well yeah, and then it'll f preserve the order when it's displayed the"
+  },
+  {
+   "start": 1454.21,
+   "end": 1462.06,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah. Yeah, it'll it'll play them in some order in which they were set because otherwise it's gonna be more entertaining. Um"
+  },
+  {
+   "start": 1454.72,
+   "end": 1455.03,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 1456.98,
+   "end": 1457.82,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 1463.46,
+   "end": 1491.42,
+   "lang": "en",
+   "speaker": "E",
+   "text": "but that that's enough data for the skimming and the the searching, so what the searching does is the searching leaves the whole framework, goes to the S_Q_L_ database and gets like basically in the end gets just a time marker for where that is, like that utterance that we are concerned with. And then we have to find I'm sure there's some way in in NITE X_M_L_ to just say set position to that time mark. And then it shifts the whole frame and it alerts every single element of the display and the display updates."
+  },
+  {
+   "start": 1466.22,
+   "end": 1467.22,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah, I think so."
+  },
+  {
+   "start": 1490.18,
+   "end": 1490.55,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Hmm."
+  },
+  {
+   "start": 1491.6,
+   "end": 1495.24,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, we do not want it in to develop a little tree display as well for multiple results."
+  },
+  {
+   "start": 1495.81,
+   "end": 1502.66,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, yeah. That we can ju yeah, but so so if if somethi so yeah. So if in that tree display somebody clicks on something"
+  },
+  {
+   "start": 1497.02,
+   "end": 1498.81,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, but that'd be quite easy to do."
+  },
+  {
+   "start": 1503.5,
+   "end": 1504.94,
+   "lang": "en",
+   "speaker": "A",
+   "text": "You just need to find the time stamp."
+  },
+  {
+   "start": 1505.17,
+   "end": 1537.95,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, and then you sort of feed the time stamp to and the NITE X_M_L_ central manager, and that central manager alerts everything that's there, like alerts the skim like the the audio display, alerts the text display, alerts the visual display and says we have a new time frame and then they all sort of do their update routines with respect to the current level of zoom. So how much do they display, and starting position at where the or maybe the mid-position of it, I don't know, like w if start where the thing was found or if that thing wa was found it's in the middle of the part that we display, that I don't know. But that we can decide about, but a general sort of"
+  },
+  {
+   "start": 1510.21,
+   "end": 1510.72,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 1540.08,
+   "end": 1556.65,
+   "lang": "en",
+   "speaker": "E",
+   "text": "It's the same thing if like whether you play and it moves forward or whether you jump to a position through search, it's essentially for all the window handling, it's the same event. It's only that the event gets triggered by the search routine which sort of push that into NITE X_M_L_ and says please go there now."
+  },
+  {
+   "start": 1549.1,
+   "end": 1549.55,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 1557.54,
+   "end": 1561.93,
+   "lang": "en",
+   "speaker": "D",
+   "text": "So we should basically make our own X_M_L_ document in memory"
+  },
+  {
+   "start": 1563.89,
+   "end": 1565.89,
+   "lang": "en",
+   "speaker": "D",
+   "text": "that everyone's um"
+  },
+  {
+   "start": 1567.22,
+   "end": 1576.54,
+   "lang": "en",
+   "speaker": "D",
+   "text": "module changes that, rather than the underlying data. And then have that X_M_L_ uh NITE X_M_L_ document tied to the interface."
+  },
+  {
+   "start": 1576.99,
+   "end": 1580.23,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Why do we have to do it in memory? But that stuff's so"
+  },
+  {
+   "start": 1579.8,
+   "end": 1581.81,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well, you can make it in a file if you want."
+  },
+  {
+   "start": 1582.67,
+   "end": 1585.12,
+   "lang": "en",
+   "speaker": "E",
+   "text": "I mean like the information is coming from off-line."
+  },
+  {
+   "start": 1588.29,
+   "end": 1619.53,
+   "lang": "en",
+   "speaker": "E",
+   "text": "So we probably we don't even have to change the utterance document, right, because the whole way, like the whole beauty of the NITE X_M_L_ is that it ties together lots of different files. So we can just create an additional X_M_L_ file which for every utterance like the utterances have I_D_s I presume, some references. So we just we tie uh p just a very short X_M_L_ file, which it's the only information it has that has whatever a number for for the um weight, for the information density, and we just tie that to the existing utterances and tie them to the existing speaker changes."
+  },
+  {
+   "start": 1603.38,
+   "end": 1603.78,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1603.92,
+   "end": 1605.82,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1604.16,
+   "end": 1604.83,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yes."
+  },
+  {
+   "start": 1620.27,
+   "end": 1630.96,
+   "lang": "en",
+   "speaker": "C",
+   "text": "But there is no I_D_ for an utterance I think. It's just for individual words. So how do we do that then? We for utterances as well."
+  },
+  {
+   "start": 1627.44,
+   "end": 1629.34,
+   "lang": "en",
+   "speaker": "B",
+   "text": "N Uh no no, it's f for"
+  },
+  {
+   "start": 1632.54,
+   "end": 1634.94,
+   "lang": "en",
+   "speaker": "B",
+   "text": "No, you're right. Yeah. It's for"
+  },
+  {
+   "start": 1633.82,
+   "end": 1636.29,
+   "lang": "en",
+   "speaker": "C",
+   "text": "I think it's just for one"
+  },
+  {
+   "start": 1638.74,
+   "end": 1640.4,
+   "lang": "en",
+   "speaker": "C",
+   "text": "word. So we have to"
+  },
+  {
+   "start": 1638.81,
+   "end": 1643.01,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, I think I think those segments for each utterance are split up."
+  },
+  {
+   "start": 1643.25,
+   "end": 1643.69,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1644.14,
+   "end": 1644.74,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Think so."
+  },
+  {
+   "start": 1646.71,
+   "end": 1665.36,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Well otherwise we probably have to go over it and like add some integer that we just increment from top to bottom sort of to every utterance as an as an I_D_ some type. Or un or try to understand how NITE X_M_L_ I_D_s work and maybe there's some special route we have to follow when we use these I_D_s. It's alm hmm?"
+  },
+  {
+   "start": 1663.44,
+   "end": 1668.99,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, I'm pretty sure it's already there. Pretty sure that's already there. The the utterances are numbered."
+  },
+  {
+   "start": 1670.46,
+   "end": 1673.54,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Yeah, the the girl said the utterances themselves are not numbered at the moment."
+  },
+  {
+   "start": 1674.48,
+   "end": 1675.15,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Um"
+  },
+  {
+   "start": 1674.67,
+   "end": 1680.46,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Uh I'm not quite sure, I have only seen that the uh the individual words have got an I_D_."
+  },
+  {
+   "start": 1675.81,
+   "end": 1682.93,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Okay. Okay. Okay. Yeah. So I guess that would be solvable if not."
+  },
+  {
+   "start": 1683.3,
+   "end": 1692.44,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah. You always could have a look at the time stamps and then take the ones that uh belong together to form an utterance."
+  },
+  {
+   "start": 1687.01,
+   "end": 1687.44,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1693.78,
+   "end": 1704.6,
+   "lang": "en",
+   "speaker": "B",
+   "text": "No, I I think we would just take the segments that are already that were Yeah, there's um this segments file. Um you know, the X_M_L_ segments."
+  },
+  {
+   "start": 1693.81,
+   "end": 1694.21,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Sorry?"
+  },
+  {
+   "start": 1698.19,
+   "end": 1701.95,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah, if they are already, there's it's easy but it would be possible."
+  },
+  {
+   "start": 1700.54,
+   "end": 1701.2,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Okay."
+  },
+  {
+   "start": 1702.69,
+   "end": 1703.43,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Okay."
+  },
+  {
+   "start": 1703.32,
+   "end": 1705.26,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Uh yeah. Okay."
+  },
+  {
+   "start": 1704.77,
+   "end": 1705.16,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Hmm."
+  },
+  {
+   "start": 1706.7,
+   "end": 1708.37,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Is that a board marker pen actually?"
+  },
+  {
+   "start": 1707.44,
+   "end": 1707.77,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Oh."
+  },
+  {
+   "start": 1711.22,
+   "end": 1712.22,
+   "lang": "en",
+   "speaker": "B",
+   "text": "That I don't know."
+  },
+  {
+   "start": 1711.27,
+   "end": 1717.69,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Oh. That's just so like to make a list of all this stuff, or we probably can somebody can do it on paper."
+  },
+  {
+   "start": 1711.53,
+   "end": 1712.28,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, I think so."
+  },
+  {
+   "start": 1719.39,
+   "end": 1744.57,
+   "lang": "en",
+   "speaker": "E",
+   "text": "All these fancy pens. So what so the stuff we have we have utterances and speakers and weights for utterances. So for for every utterance sort of like the utterance has a speaker and a weight which is coming from outside. Or we just tie it to it. And there is segments, which hmm?"
+  },
+  {
+   "start": 1742.66,
+   "end": 1747.84,
+   "lang": "en",
+   "speaker": "D",
+   "text": "They are utterances, aren't they? The segments are utterances, aren't they? Yeah."
+  },
+  {
+   "start": 1745.59,
+   "end": 1747.7,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Ye that's the impression I get, yeah."
+  },
+  {
+   "start": 1747.33,
+   "end": 1755.33,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Oh, so sorry um. Uh topic s topic segments I meant. Like they are they are a super-unit. So so the utterances are tied to topic segments."
+  },
+  {
+   "start": 1748.1,
+   "end": 1749.3,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah, that's um"
+  },
+  {
+   "start": 1750.43,
+   "end": 1751.39,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Alright, okay."
+  },
+  {
+   "start": 1751.26,
+   "end": 1751.73,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1752.19,
+   "end": 1752.57,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Oh."
+  },
+  {
+   "start": 1761.67,
+   "end": 1768.97,
+   "lang": "en",
+   "speaker": "E",
+   "text": "And if the time stamps are on a word level, then we b somehow have to extract time stamps for utterances where they start."
+  },
+  {
+   "start": 1768.11,
+   "end": 1781.31,
+   "lang": "en",
+   "speaker": "B",
+   "text": "There there are time stamps um for, well, segments um and for th um segments is for example when when you look at the data, what is displayed in one line."
+  },
+  {
+   "start": 1768.83,
+   "end": 1770.0,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well, that's easy."
+  },
+  {
+   "start": 1774.35,
+   "end": 1775.85,
+   "lang": "en",
+   "speaker": "E",
+   "text": "W what segments now?"
+  },
+  {
+   "start": 1781.95,
+   "end": 1788.98,
+   "lang": "en",
+   "speaker": "E",
+   "text": "Okay. Is the uh is that the same as utterances that is that the same as utterances that"
+  },
+  {
+   "start": 1783.62,
+   "end": 1783.98,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Hmm."
+  },
+  {
+   "start": 1783.78,
+   "end": 1787.04,
+   "lang": "en",
+   "speaker": "B",
+   "text": "What when when you look at it in the hmm?"
+  },
+  {
+   "start": 1786.08,
+   "end": 1786.37,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Ye"
+  },
+  {
+   "start": 1787.13,
+   "end": 1787.51,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm."
+  },
+  {
+   "start": 1789.49,
+   "end": 1795.32,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well it's close enough, isn't it? It may not be exact every time, but it's a so sort of size we're looking for."
+  },
+  {
+   "start": 1789.61,
+   "end": 1791.38,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I think so. Isn't"
+  },
+  {
+   "start": 1790.93,
+   "end": 1791.75,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah, uh"
+  }
+ ]
+}

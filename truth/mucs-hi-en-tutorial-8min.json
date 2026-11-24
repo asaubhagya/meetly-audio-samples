@@ -1,0 +1,736 @@
+{
+ "id": "mucs-hi-en-tutorial-8min",
+ "duration_sec": 478.0,
+ "source": "MUCS 2021 sub-task 2, Hindi-English test set (OpenSLR SLR104; IIT Madras Spoken Tutorial lecture), recording lHGLSlYIb1clRBRF, continuous unedited audio with original segment timestamps",
+ "license": "CC BY-SA 4.0 (https://www.openslr.org/104/)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 6.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "लिबर ऑफिस impress में presentation notes पर spoken tutorial में आपका स्वागत है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0000"
+  },
+  {
+   "start": 6.0,
+   "end": 12.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "इस tutorial में हम notes के बारे में और उनको print कैसे करना सीखेंगे",
+   "segment": "834022_lHGLSlYIb1clRBRF_0001"
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "notes दो उद्देश्यों के लिए प्रयुक्त होता है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0002"
+  },
+  {
+   "start": 14.0,
+   "end": 20.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "दर्शकों के लिए प्रत्येक slide पर अतिरिक्त सामग्री या रेफ्रेन्सेस के लिए",
+   "segment": "834022_lHGLSlYIb1clRBRF_0003"
+  },
+  {
+   "start": 20.0,
+   "end": 27.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "उद्घोषक को reference notes के ज़रिये मदद करने के लिए जब वह दर्शक के सामने slides प्रस्तुत करे",
+   "segment": "834022_lHGLSlYIb1clRBRF_0004"
+  },
+  {
+   "start": 27.0,
+   "end": 33.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "प्रस्तुति sampleimpress odp खोलें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0005"
+  },
+  {
+   "start": 33.0,
+   "end": 38.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "बायीं तरफ पर slides pane से overview शीर्षक slides चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0006"
+  },
+  {
+   "start": 38.0,
+   "end": 40.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "text को बदलें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0007"
+  },
+  {
+   "start": 40.0,
+   "end": 46.0,
+   "lang": "en",
+   "speaker": "834022",
+   "text": "to achieve 30% shift to opensource software within 1 year",
+   "segment": "834022_lHGLSlYIb1clRBRF_0008"
+  },
+  {
+   "start": 46.0,
+   "end": 53.0,
+   "lang": "en",
+   "speaker": "834022",
+   "text": "to achieve 95% shift to opensource software within 5 years",
+   "segment": "834022_lHGLSlYIb1clRBRF_0009"
+  },
+  {
+   "start": 53.0,
+   "end": 61.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "पेज में कुछ notes जोड़ें जिससे कि जब यह printed हो पाठक के पास कुछ reference सामग्री हो",
+   "segment": "834022_lHGLSlYIb1clRBRF_0010"
+  },
+  {
+   "start": 61.0,
+   "end": 64.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "notes के संपादन के लिए notes टैब पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0011"
+  },
+  {
+   "start": 64.0,
+   "end": 72.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "slide के नीचे एक notes text box प्रदर्शित होता है यहाँ हम notes type कर सकते हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0012"
+  },
+  {
+   "start": 72.0,
+   "end": 75.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "click to add notes पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0013"
+  },
+  {
+   "start": 75.0,
+   "end": 79.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "ध्यान दें कि आप इस box का सम्पादन कर सकते हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0014"
+  },
+  {
+   "start": 79.0,
+   "end": 82.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "text box में type करें;",
+   "segment": "834022_lHGLSlYIb1clRBRF_0015"
+  },
+  {
+   "start": 82.0,
+   "end": 88.0,
+   "lang": "en",
+   "speaker": "834022",
+   "text": "management would like to explore cost saving from shifting to open source software",
+   "segment": "834022_lHGLSlYIb1clRBRF_0016"
+  },
+  {
+   "start": 88.0,
+   "end": 95.0,
+   "lang": "en",
+   "speaker": "834022",
+   "text": "open source software has now become a viable option to proprietary software",
+   "segment": "834022_lHGLSlYIb1clRBRF_0017"
+  },
+  {
+   "start": 95.0,
+   "end": 106.0,
+   "lang": "en",
+   "speaker": "834022",
+   "text": "open source software will free the company from arbitrary software updates of proprietary software",
+   "segment": "834022_lHGLSlYIb1clRBRF_0018"
+  },
+  {
+   "start": 106.0,
+   "end": 109.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "हमने अपना पहला note बना लिया",
+   "segment": "834022_lHGLSlYIb1clRBRF_0019"
+  },
+  {
+   "start": 109.0,
+   "end": 114.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "सीखते हैं कि notes में कैसे text को format करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0020"
+  },
+  {
+   "start": 114.0,
+   "end": 116.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "text चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0021"
+  },
+  {
+   "start": 116.0,
+   "end": 125.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "impress window के ऊपरी बाएँ कोने पर font type dropdown पर click करें और tlwgmono चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0022"
+  },
+  {
+   "start": 125.0,
+   "end": 130.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "अब font size dropdown में 18 चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0023"
+  },
+  {
+   "start": 130.0,
+   "end": 138.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "उसी task bar में bullet icon पर click करें अब text में bullet points हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0024"
+  },
+  {
+   "start": 138.0,
+   "end": 145.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "सभी notes को standard format में बदलने के लिए एक notes master बनाना सीखते हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0025"
+  },
+  {
+   "start": 145.0,
+   "end": 153.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "मुख्य menu में view पर click करें और फिर master पर click करें notes master पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0026"
+  },
+  {
+   "start": 153.0,
+   "end": 156.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "notes master view दिखता है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0027"
+  },
+  {
+   "start": 156.0,
+   "end": 160.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "ध्यान दें दो slides प्रदर्शित होती हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0028"
+  },
+  {
+   "start": 160.0,
+   "end": 167.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "इसका मतलब है कि प्रस्तुति में इस्तेमाल प्रत्येक master slide के लिए एक notes master होता है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0029"
+  },
+  {
+   "start": 167.0,
+   "end": 171.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "notes master slide template की तरह होती है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0030"
+  },
+  {
+   "start": 171.0,
+   "end": 178.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "आप यहाँ formatting प्राथमिकता निर्धारित कर सकते हैं जोकि बाद में प्रस्तुति में सभी notes पर लागू होगी",
+   "segment": "834022_lHGLSlYIb1clRBRF_0031"
+  },
+  {
+   "start": 178.0,
+   "end": 181.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "slides pane से पहली slides चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0032"
+  },
+  {
+   "start": 181.0,
+   "end": 188.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "notes place holder पर click करें और उस पर प्रदर्शित text को चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0033"
+  },
+  {
+   "start": 188.0,
+   "end": 196.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "impress window के सबसे ऊपरी बाएँ कोने पर font size dropdown पर click करें और 32 चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0034"
+  },
+  {
+   "start": 196.0,
+   "end": 201.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "मुख्य menu में format और character पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0035"
+  },
+  {
+   "start": 201.0,
+   "end": 204.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "character dialog box प्रदर्शित होता है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0036"
+  },
+  {
+   "start": 204.0,
+   "end": 208.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "font effects टैब पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0037"
+  },
+  {
+   "start": 208.0,
+   "end": 215.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "font color dropdown पर click करें और red चुनें ok पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0038"
+  },
+  {
+   "start": 215.0,
+   "end": 218.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "notes पर logo logo जोड़ते हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0039"
+  },
+  {
+   "start": 218.0,
+   "end": 220.0,
+   "lang": "hi",
+   "speaker": "834022",
+   "text": "चलिए त्रिकोण जोड़ते हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0040"
+  },
+  {
+   "start": 220.0,
+   "end": 228.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "drawing toolbar से basic shapes पर click करें और isosceles triangle चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0041"
+  },
+  {
+   "start": 228.0,
+   "end": 233.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "notes text box के ऊपरीबाएँ कोने पर त्रिकोण प्रविष्ट करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0042"
+  },
+  {
+   "start": 233.0,
+   "end": 239.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "त्रिकोण चुनें और context menu के लिए दायाँclick करें area पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0043"
+  },
+  {
+   "start": 239.0,
+   "end": 242.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "area dialog box प्रदर्शित होता है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0044"
+  },
+  {
+   "start": 242.0,
+   "end": 245.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "area टैब पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0045"
+  },
+  {
+   "start": 245.0,
+   "end": 252.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "fill dropdown पर click करें और color पर click करें अब blue 7 चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0046"
+  },
+  {
+   "start": 252.0,
+   "end": 258.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "यह formatting और logo default रूप से सभी बनाये गये notes के लिए होंगे",
+   "segment": "834022_lHGLSlYIb1clRBRF_0047"
+  },
+  {
+   "start": 258.0,
+   "end": 260.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "ok पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0048"
+  },
+  {
+   "start": 260.0,
+   "end": 265.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "master view toolbar में close master view पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0049"
+  },
+  {
+   "start": 265.0,
+   "end": 269.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "मुख्य main में notes टैब पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0050"
+  },
+  {
+   "start": 269.0,
+   "end": 275.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "बायीं ओर पर slides pane में शीर्षक overview slides चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0051"
+  },
+  {
+   "start": 275.0,
+   "end": 282.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "ध्यान दें कि notes वैसे ही फ़ॉर्मेट हो गये हैं जैसा कि master notes में निर्धारित है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0052"
+  },
+  {
+   "start": 282.0,
+   "end": 288.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "अब सीखते हैं कि कैसे notes place holder और slide place holder का आकार बदलें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0053"
+  },
+  {
+   "start": 288.0,
+   "end": 296.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "slide placeholder चुनें बायाँ mouse button दबाएँ और इसे screen पर सबसे ऊपर ले जाएँ",
+   "segment": "834022_lHGLSlYIb1clRBRF_0054"
+  },
+  {
+   "start": 296.0,
+   "end": 302.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "यह notes place holder का आकार बदलने के लिए अधिक स्थान बनाता है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0055"
+  },
+  {
+   "start": 302.0,
+   "end": 306.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "अब notes text place holder के किनारे पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0056"
+  },
+  {
+   "start": 306.0,
+   "end": 313.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "बायाँ mouse button दबाकर रखें और आकार बढ़ाने के लिए इसे upward drag करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0057"
+  },
+  {
+   "start": 313.0,
+   "end": 318.0,
+   "lang": "hi",
+   "speaker": "834022",
+   "text": "जैसा हमें चाहिए वैसा हमने प्लेसहोल्डर्स का आकार बदलना सीख लिया",
+   "segment": "834022_lHGLSlYIb1clRBRF_0058"
+  },
+  {
+   "start": 318.0,
+   "end": 322.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "अब देखते हैं कि कैसे notes को print करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0059"
+  },
+  {
+   "start": 322.0,
+   "end": 327.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "मुख्य menu में file पर click करें और print चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0060"
+  },
+  {
+   "start": 327.0,
+   "end": 330.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "print dialog box प्रदर्शित होता है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0061"
+  },
+  {
+   "start": 330.0,
+   "end": 335.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "printers की सूची से आपके system से जुड़ा printers चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0062"
+  },
+  {
+   "start": 335.0,
+   "end": 340.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "number of copies field में 2 प्रविष्ट करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0063"
+  },
+  {
+   "start": 340.0,
+   "end": 348.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "properties पर click करें और orientation के अंदर landscape चुनें ok पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0064"
+  },
+  {
+   "start": 348.0,
+   "end": 353.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "print documentके अंदर dropdown menu से notes चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0065"
+  },
+  {
+   "start": 353.0,
+   "end": 358.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "tab libreoffice impress टैब चुनें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0066"
+  },
+  {
+   "start": 358.0,
+   "end": 360.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "contents के अंदर:",
+   "segment": "834022_lHGLSlYIb1clRBRF_0067"
+  },
+  {
+   "start": 360.0,
+   "end": 362.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "slide name box को check करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0068"
+  },
+  {
+   "start": 362.0,
+   "end": 365.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "date and time box को check करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0069"
+  },
+  {
+   "start": 365.0,
+   "end": 368.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "original color box को check करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0070"
+  },
+  {
+   "start": 368.0,
+   "end": 371.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "print पर click करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0071"
+  },
+  {
+   "start": 371.0,
+   "end": 378.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "यदि आपके printer की settings सही से कन्फिगर है तो slides अब printer होना शुरू हो जाएँगी",
+   "segment": "834022_lHGLSlYIb1clRBRF_0072"
+  },
+  {
+   "start": 378.0,
+   "end": 381.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "इसी के साथ हम इस tutorial के समाप्ति की ओर आ गये हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0073"
+  },
+  {
+   "start": 381.0,
+   "end": 387.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "इस tutorial में हमने notes के बारे में सीखा और उन्हें print करना सीखा",
+   "segment": "834022_lHGLSlYIb1clRBRF_0074"
+  },
+  {
+   "start": 387.0,
+   "end": 390.0,
+   "lang": "hi",
+   "speaker": "834022",
+   "text": "यहाँ आपके लिए एक नियतकार्य है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0075"
+  },
+  {
+   "start": 390.0,
+   "end": 392.0,
+   "lang": "hi",
+   "speaker": "834022",
+   "text": "एक नई प्रस्तुति खोलें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0076"
+  },
+  {
+   "start": 392.0,
+   "end": 396.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "notes place holder में कंटेंट जोड़ें और",
+   "segment": "834022_lHGLSlYIb1clRBRF_0077"
+  },
+  {
+   "start": 396.0,
+   "end": 398.0,
+   "lang": "hi",
+   "speaker": "834022",
+   "text": "एक आयत जोड़ें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0078"
+  },
+  {
+   "start": 398.0,
+   "end": 404.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "कंटेंट का font 36 और color blue रखें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0079"
+  },
+  {
+   "start": 404.0,
+   "end": 408.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "आयत को green से रंगे",
+   "segment": "834022_lHGLSlYIb1clRBRF_0080"
+  },
+  {
+   "start": 408.0,
+   "end": 414.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "slide text holder की तुलना में notes place holder के आकार को व्यवस्थित करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0081"
+  },
+  {
+   "start": 414.0,
+   "end": 419.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "notes को black and white portrait format में print करें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0082"
+  },
+  {
+   "start": 419.0,
+   "end": 423.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "आपको notes की पाँच प्रतियाँ print करनी हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0083"
+  },
+  {
+   "start": 423.0,
+   "end": 429.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "निम्न link पर उपलब्ध video देखें यह spoken tutorial project को सारांशित करता है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0084"
+  },
+  {
+   "start": 429.0,
+   "end": 433.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "यदि आपके पास अच्छा bandwidth नहीं है तो आप इसे download करके देख सकते हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0085"
+  },
+  {
+   "start": 433.0,
+   "end": 442.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "spoken tutorial project team spoken tutorial का उपयोग करके कार्यशालाएँ भी चलाते हैं उनको प्रमाणपत्र भी देते हैं जो online test pass करते हैं",
+   "segment": "834022_lHGLSlYIb1clRBRF_0086"
+  },
+  {
+   "start": 442.0,
+   "end": 448.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "अधिक जानकारी के लिए कृपया हमें contact @spoken hyphen tutorial org पर लिखें",
+   "segment": "834022_lHGLSlYIb1clRBRF_0087"
+  },
+  {
+   "start": 448.0,
+   "end": 461.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "spoken tutorial project talktoateacher project का हिस्सा है यह भारत सरकार के एमएचआरडी के आईसीटी के माध्यम से राष्ट्रीय साक्षरता mission द्वारा समर्थित है",
+   "segment": "834022_lHGLSlYIb1clRBRF_0088"
+  },
+  {
+   "start": 461.0,
+   "end": 471.0,
+   "lang": "hi+en",
+   "speaker": "834022",
+   "text": "इस mission पर अधिक जानकारी के लिए उपलब्ध लिंक पर संपर्क करेंspoken hyphen tutorial dot org slash nmeict hyphen intro",
+   "segment": "834022_lHGLSlYIb1clRBRF_0089"
+  },
+  {
+   "start": 471.0,
+   "end": 478.0,
+   "lang": "hi",
+   "speaker": "834022",
+   "text": "आई आई टी बॉम्बे की ओर से मैं रवि कुमार अब आपसे विदा लेता हूँ हमसे जुड़ने के लिए धन्यवाद",
+   "segment": "834022_lHGLSlYIb1clRBRF_0090"
+  }
+ ]
+}

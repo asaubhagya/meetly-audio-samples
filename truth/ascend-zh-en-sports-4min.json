@@ -1,0 +1,944 @@
+{
+ "id": "ascend-zh-en-sports-4min",
+ "duration_sec": 276.85,
+ "source": "ASCEND (HKUST CAiRE) test split, session 2 (sports), spontaneous Mandarin-English code-switched conversation; utterances in dataset order (grouped by speaker, not original interleaving), joined with 0.3 s silence",
+ "license": "CC BY-SA 4.0 (https://huggingface.co/datasets/CAiRE/ASCEND)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 1.03,
+   "lang": "en",
+   "speaker": "17",
+   "text": "boys and girls",
+   "segment": "00443"
+  },
+  {
+   "start": 1.33,
+   "end": 5.45,
+   "lang": "en",
+   "speaker": "17",
+   "text": "so you can say you play you like toplaytennis",
+   "segment": "00444"
+  },
+  {
+   "start": 5.75,
+   "end": 10.4,
+   "lang": "en",
+   "speaker": "17",
+   "text": "so have you ever play tennis with other people with the same team",
+   "segment": "00445"
+  },
+  {
+   "start": 10.7,
+   "end": 16.57,
+   "lang": "en",
+   "speaker": "17",
+   "text": "in the same team you like four people are playing tennis together and two of you in this side",
+   "segment": "00446"
+  },
+  {
+   "start": 16.87,
+   "end": 20.02,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "男女都有但两个人一起打就是两个一起",
+   "segment": "00447"
+  },
+  {
+   "start": 20.32,
+   "end": 20.85,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯",
+   "segment": "00448"
+  },
+  {
+   "start": 21.15,
+   "end": 22.03,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "男女打",
+   "segment": "00449"
+  },
+  {
+   "start": 22.33,
+   "end": 23.12,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "男女打",
+   "segment": "00450"
+  },
+  {
+   "start": 23.42,
+   "end": 23.88,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯",
+   "segment": "00451"
+  },
+  {
+   "start": 24.18,
+   "end": 25.25,
+   "lang": "zh+en",
+   "speaker": "17",
+   "text": "嗯why",
+   "segment": "00452"
+  },
+  {
+   "start": 25.55,
+   "end": 26.72,
+   "lang": "en",
+   "speaker": "17",
+   "text": "because the",
+   "segment": "00453"
+  },
+  {
+   "start": 27.02,
+   "end": 27.4,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯",
+   "segment": "00454"
+  },
+  {
+   "start": 27.7,
+   "end": 28.06,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯",
+   "segment": "00455"
+  },
+  {
+   "start": 28.36,
+   "end": 28.97,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯",
+   "segment": "00456"
+  },
+  {
+   "start": 29.27,
+   "end": 30.68,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "男女还是要混合一下",
+   "segment": "00457"
+  },
+  {
+   "start": 30.98,
+   "end": 32.91,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "有没有其他的原因",
+   "segment": "00458"
+  },
+  {
+   "start": 33.21,
+   "end": 34.91,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "只是因为搭配的问题",
+   "segment": "00459"
+  },
+  {
+   "start": 35.21,
+   "end": 35.77,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯",
+   "segment": "00460"
+  },
+  {
+   "start": 36.07,
+   "end": 36.61,
+   "lang": "en",
+   "speaker": "17",
+   "text": "OK",
+   "segment": "00461"
+  },
+  {
+   "start": 36.91,
+   "end": 38.24,
+   "lang": "en",
+   "speaker": "17",
+   "text": "so uh",
+   "segment": "00462"
+  },
+  {
+   "start": 38.54,
+   "end": 39.45,
+   "lang": "en",
+   "speaker": "17",
+   "text": "um",
+   "segment": "00463"
+  },
+  {
+   "start": 39.75,
+   "end": 44.5,
+   "lang": "en",
+   "speaker": "17",
+   "text": "[UNK] I don't know uh I I mean for myself I",
+   "segment": "00464"
+  },
+  {
+   "start": 44.8,
+   "end": 48.14,
+   "lang": "en",
+   "speaker": "17",
+   "text": "it's hard for me to decide which sport is",
+   "segment": "00465"
+  },
+  {
+   "start": 48.44,
+   "end": 51.59,
+   "lang": "en",
+   "speaker": "17",
+   "text": "the best because I really don't like sports",
+   "segment": "00466"
+  },
+  {
+   "start": 51.89,
+   "end": 56.56,
+   "lang": "en",
+   "speaker": "17",
+   "text": "and i don't I don't do exercising in my spare time",
+   "segment": "00467"
+  },
+  {
+   "start": 56.86,
+   "end": 59.18,
+   "lang": "zh+en",
+   "speaker": "17",
+   "text": "我只参加最后final的体测",
+   "segment": "00468"
+  },
+  {
+   "start": 59.48,
+   "end": 59.88,
+   "lang": "en",
+   "speaker": "17",
+   "text": "cool",
+   "segment": "00469"
+  },
+  {
+   "start": 60.18,
+   "end": 60.53,
+   "lang": "en",
+   "speaker": "17",
+   "text": "cool",
+   "segment": "00470"
+  },
+  {
+   "start": 60.83,
+   "end": 61.22,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯",
+   "segment": "00471"
+  },
+  {
+   "start": 61.52,
+   "end": 62.0,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "呃",
+   "segment": "00472"
+  },
+  {
+   "start": 62.3,
+   "end": 63.2,
+   "lang": "en",
+   "speaker": "17",
+   "text": "three",
+   "segment": "00473"
+  },
+  {
+   "start": 63.5,
+   "end": 64.59,
+   "lang": "en",
+   "speaker": "17",
+   "text": "three to four minutes",
+   "segment": "00474"
+  },
+  {
+   "start": 64.89,
+   "end": 65.21,
+   "lang": "en",
+   "speaker": "17",
+   "text": "yeah",
+   "segment": "00475"
+  },
+  {
+   "start": 65.51,
+   "end": 65.77,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯",
+   "segment": "00476"
+  },
+  {
+   "start": 66.07,
+   "end": 67.39,
+   "lang": "en",
+   "speaker": "17",
+   "text": "is that fast or slow",
+   "segment": "00477"
+  },
+  {
+   "start": 67.69,
+   "end": 69.18,
+   "lang": "en",
+   "speaker": "17",
+   "text": "unbelievable really",
+   "segment": "00478"
+  },
+  {
+   "start": 69.48,
+   "end": 72.57,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "但是我仰卧起坐不行永远都做不起来一下都做不起来",
+   "segment": "00479"
+  },
+  {
+   "start": 72.87,
+   "end": 73.37,
+   "lang": "en",
+   "speaker": "17",
+   "text": "soccer",
+   "segment": "00480"
+  },
+  {
+   "start": 73.67,
+   "end": 77.45,
+   "lang": "en",
+   "speaker": "17",
+   "text": "you are talking about some sports i never did",
+   "segment": "00481"
+  },
+  {
+   "start": 77.75,
+   "end": 78.23,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯",
+   "segment": "00482"
+  },
+  {
+   "start": 78.53,
+   "end": 81.95,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "我只被我只被足球砸过但我没有踢过足球",
+   "segment": "00483"
+  },
+  {
+   "start": 82.25,
+   "end": 84.91,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯那你平时会打篮球吗",
+   "segment": "00484"
+  },
+  {
+   "start": 85.21,
+   "end": 88.15,
+   "lang": "zh+en",
+   "speaker": "17",
+   "text": "那你现在会不会去gym打那个壁球",
+   "segment": "00485"
+  },
+  {
+   "start": 88.45,
+   "end": 89.27,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "是差不多的吧",
+   "segment": "00486"
+  },
+  {
+   "start": 89.57,
+   "end": 92.56,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "壁球对着墙打但是反弹会快一点",
+   "segment": "00487"
+  },
+  {
+   "start": 92.86,
+   "end": 93.44,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "没有吗",
+   "segment": "00488"
+  },
+  {
+   "start": 93.74,
+   "end": 96.38,
+   "lang": "zh+en",
+   "speaker": "17",
+   "text": "我记得学校那个gym那边",
+   "segment": "00489"
+  },
+  {
+   "start": 96.68,
+   "end": 100.55,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "呃进门之后左拐就会有很多打壁球的地方",
+   "segment": "00490"
+  },
+  {
+   "start": 100.85,
+   "end": 103.09,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "我踏进去看了一眼才能出来了",
+   "segment": "00491"
+  },
+  {
+   "start": 103.39,
+   "end": 105.37,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "对没有在里面待超过五分钟",
+   "segment": "00492"
+  },
+  {
+   "start": 105.67,
+   "end": 106.03,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "除了",
+   "segment": "00493"
+  },
+  {
+   "start": 106.33,
+   "end": 112.95,
+   "lang": "zh+en",
+   "speaker": "17",
+   "text": "所以你平时就现在大部分时间还是tennis就打网球",
+   "segment": "00494"
+  },
+  {
+   "start": 113.25,
+   "end": 115.74,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "那你平时去健身是在学校健身房吗",
+   "segment": "00495"
+  },
+  {
+   "start": 116.04,
+   "end": 119.33,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "哦那一般你是跑步基本的那些",
+   "segment": "00496"
+  },
+  {
+   "start": 119.63,
+   "end": 119.98,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "哦",
+   "segment": "00497"
+  },
+  {
+   "start": 120.28,
+   "end": 122.62,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "每次说到有氧跟无氧我就有点懵逼",
+   "segment": "00498"
+  },
+  {
+   "start": 122.92,
+   "end": 123.24,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "嗯",
+   "segment": "00499"
+  },
+  {
+   "start": 123.54,
+   "end": 125.08,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "就是举铁什么的是吗",
+   "segment": "00500"
+  },
+  {
+   "start": 125.38,
+   "end": 127.26,
+   "lang": "en",
+   "speaker": "17",
+   "text": "[UNK] also related to soccer",
+   "segment": "00501"
+  },
+  {
+   "start": 127.56,
+   "end": 129.5,
+   "lang": "en",
+   "speaker": "17",
+   "text": "world cup is so is related",
+   "segment": "00502"
+  },
+  {
+   "start": 129.8,
+   "end": 130.32,
+   "lang": "zh+en",
+   "speaker": "17",
+   "text": "soccer吧",
+   "segment": "00503"
+  },
+  {
+   "start": 130.62,
+   "end": 131.04,
+   "lang": "en",
+   "speaker": "17",
+   "text": "football",
+   "segment": "00504"
+  },
+  {
+   "start": 131.34,
+   "end": 132.25,
+   "lang": "zh",
+   "speaker": "17",
+   "text": "运动白",
+   "segment": "00505"
+  },
+  {
+   "start": 132.55,
+   "end": 133.11,
+   "lang": "en",
+   "speaker": "17",
+   "text": "yeah",
+   "segment": "00506"
+  },
+  {
+   "start": 133.41,
+   "end": 133.95,
+   "lang": "en",
+   "speaker": "17",
+   "text": "uh",
+   "segment": "00507"
+  },
+  {
+   "start": 134.25,
+   "end": 137.29,
+   "lang": "en",
+   "speaker": "17",
+   "text": "this is a tricky question",
+   "segment": "00508"
+  },
+  {
+   "start": 137.59,
+   "end": 139.87,
+   "lang": "en",
+   "speaker": "17",
+   "text": "so do you think this will happen",
+   "segment": "00509"
+  },
+  {
+   "start": 140.17,
+   "end": 145.12,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "呃你是说呃你有一些就你最喜欢的sport是什么",
+   "segment": "00620"
+  },
+  {
+   "start": 145.42,
+   "end": 148.72,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "我觉得最棒的运动有",
+   "segment": "00621"
+  },
+  {
+   "start": 149.02,
+   "end": 149.78,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "两个",
+   "segment": "00622"
+  },
+  {
+   "start": 150.08,
+   "end": 152.81,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "一个是basketball一个是badminton",
+   "segment": "00623"
+  },
+  {
+   "start": 153.11,
+   "end": 156.25,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "首先为什么basketball呢因为就是",
+   "segment": "00624"
+  },
+  {
+   "start": 156.55,
+   "end": 157.32,
+   "lang": "en",
+   "speaker": "3",
+   "text": "for me",
+   "segment": "00625"
+  },
+  {
+   "start": 157.62,
+   "end": 158.9,
+   "lang": "en",
+   "speaker": "3",
+   "text": "basketball",
+   "segment": "00626"
+  },
+  {
+   "start": 159.2,
+   "end": 160.66,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "可以就是",
+   "segment": "00627"
+  },
+  {
+   "start": 160.96,
+   "end": 162.56,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "强身健体",
+   "segment": "00628"
+  },
+  {
+   "start": 162.86,
+   "end": 164.14,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "还可以",
+   "segment": "00629"
+  },
+  {
+   "start": 164.44,
+   "end": 165.48,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "就是",
+   "segment": "00630"
+  },
+  {
+   "start": 165.78,
+   "end": 167.84,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "make friends啊就",
+   "segment": "00631"
+  },
+  {
+   "start": 168.14,
+   "end": 170.21,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "对然后badminton呢",
+   "segment": "00632"
+  },
+  {
+   "start": 170.51,
+   "end": 172.64,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "就是也是一个",
+   "segment": "00633"
+  },
+  {
+   "start": 172.94,
+   "end": 179.65,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "其实呢badminton有一个就是badminton因为basketball的话主要是",
+   "segment": "00634"
+  },
+  {
+   "start": 179.95,
+   "end": 181.5,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "就是我跟一些",
+   "segment": "00635"
+  },
+  {
+   "start": 181.8,
+   "end": 184.11,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "就是male friends一起玩",
+   "segment": "00636"
+  },
+  {
+   "start": 184.41,
+   "end": 185.43,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "就是说",
+   "segment": "00637"
+  },
+  {
+   "start": 185.73,
+   "end": 188.01,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "badminton其实可以就是",
+   "segment": "00638"
+  },
+  {
+   "start": 188.31,
+   "end": 191.99,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "你可以邀一些你的就是female friends",
+   "segment": "00639"
+  },
+  {
+   "start": 192.29,
+   "end": 192.96,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "对啊",
+   "segment": "00640"
+  },
+  {
+   "start": 193.26,
+   "end": 194.08,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "可以",
+   "segment": "00641"
+  },
+  {
+   "start": 194.38,
+   "end": 196.94,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "你可以可以帮助你认识一些异性",
+   "segment": "00642"
+  },
+  {
+   "start": 197.24,
+   "end": 197.76,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "对",
+   "segment": "00643"
+  },
+  {
+   "start": 198.06,
+   "end": 203.55,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "因为你不可能邀你的female friends去说走我们去play basketball",
+   "segment": "00644"
+  },
+  {
+   "start": 203.85,
+   "end": 210.85,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "对吧但是通常就是说badminton是一个很好的途径去帮助你",
+   "segment": "00645"
+  },
+  {
+   "start": 211.15,
+   "end": 213.43,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "我觉得是tennis",
+   "segment": "00646"
+  },
+  {
+   "start": 213.73,
+   "end": 215.64,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "对因为",
+   "segment": "00647"
+  },
+  {
+   "start": 215.94,
+   "end": 219.89,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "我之前有就是学尝试",
+   "segment": "00648"
+  },
+  {
+   "start": 220.19,
+   "end": 221.46,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "学过tennis",
+   "segment": "00649"
+  },
+  {
+   "start": 221.76,
+   "end": 222.99,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "但是",
+   "segment": "00650"
+  },
+  {
+   "start": 223.29,
+   "end": 224.87,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "我当时",
+   "segment": "00651"
+  },
+  {
+   "start": 225.17,
+   "end": 226.04,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "就是",
+   "segment": "00652"
+  },
+  {
+   "start": 226.34,
+   "end": 229.27,
+   "lang": "en",
+   "speaker": "3",
+   "text": "it takes me half year to",
+   "segment": "00653"
+  },
+  {
+   "start": 229.57,
+   "end": 230.36,
+   "lang": "en",
+   "speaker": "3",
+   "text": "to like",
+   "segment": "00654"
+  },
+  {
+   "start": 230.66,
+   "end": 234.31,
+   "lang": "en",
+   "speaker": "3",
+   "text": "to reach a beginner beginner level",
+   "segment": "00655"
+  },
+  {
+   "start": 234.61,
+   "end": 236.11,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "所以我觉得因为你",
+   "segment": "00656"
+  },
+  {
+   "start": 236.41,
+   "end": 240.47,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "就是特别不好掌控那个就是你bracket的balance",
+   "segment": "00657"
+  },
+  {
+   "start": 240.77,
+   "end": 242.66,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "很容易把球打飞",
+   "segment": "00658"
+  },
+  {
+   "start": 242.96,
+   "end": 244.73,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "所以我觉得",
+   "segment": "00659"
+  },
+  {
+   "start": 245.03,
+   "end": 250.49,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "另外一个因素呢是就是the the court for tennis",
+   "segment": "00660"
+  },
+  {
+   "start": 250.79,
+   "end": 252.81,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "就是就比较难找",
+   "segment": "00661"
+  },
+  {
+   "start": 253.11,
+   "end": 255.84,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "对就是条件比较",
+   "segment": "00662"
+  },
+  {
+   "start": 256.14,
+   "end": 257.58,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "就是要比较高",
+   "segment": "00663"
+  },
+  {
+   "start": 257.88,
+   "end": 258.93,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "然后",
+   "segment": "00664"
+  },
+  {
+   "start": 259.23,
+   "end": 260.23,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "对你觉得呢",
+   "segment": "00665"
+  },
+  {
+   "start": 260.53,
+   "end": 265.05,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "对我的话也比较就是",
+   "segment": "00666"
+  },
+  {
+   "start": 265.35,
+   "end": 269.91,
+   "lang": "zh+en",
+   "speaker": "3",
+   "text": "不喜欢那些极限运动就是too risky",
+   "segment": "00667"
+  },
+  {
+   "start": 270.21,
+   "end": 271.33,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "然后",
+   "segment": "00668"
+  },
+  {
+   "start": 271.63,
+   "end": 276.85,
+   "lang": "zh",
+   "speaker": "3",
+   "text": "对但是而且我同意就说我也比较喜欢那种",
+   "segment": "00669"
+  }
+ ]
+}
