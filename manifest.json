@@ -1,7 +1,7 @@
 {
  "version": 1,
  "about": "Mixed-language test conversations for Meetly. Built by tools/bench/samples.py (MEE-1330). Set \"enabled\": false to hide a sample from the app.",
- "license": "Audio and transcripts: FLEURS test split, Google, CC-BY 4.0 (https://huggingface.co/datasets/google/fleurs). Each turn is a different FLEURS speaker. Real recordings (ids ami-*, mucs-*, ascend-*, vp-*) carry their own source and license fields: AMI (CC BY 4.0), MUCS 2021 (CC BY-SA 4.0), ASCEND (CC BY-SA 4.0), VoxPopuli (CC0).",
+ "license": "Audio and transcripts: FLEURS test split, Google, CC-BY 4.0 (https://huggingface.co/datasets/google/fleurs). Each turn is a different FLEURS speaker. Real recordings (ids ami-*, mucs-*, ascend-*, vp-*) carry their own source and license fields: AMI (CC BY 4.0), MUCS 2021 (CC BY-SA 4.0), ASCEND (CC BY-SA 4.0), VoxPopuli (CC0). Longer meetings: AMI and ICSI (CC BY 4.0), AliMeeting (CC BY-SA 4.0), VoxPopuli Polish (CC0). Entries with \"speakers\" give the true speaker count.",
  "samples": [
   {
    "id": "en-hi-short",
@@ -570,6 +570,96 @@
    "source": "VoxPopuli transcribed test split (Meta), European Parliament plenary session 20130205-0900-PLENARY-4-fr; consecutive segments in original order, joined with 0.5 s silence (inter-segment gaps removed)",
    "license": "CC0 1.0 (VoxPopuli transcribed data; https://github.com/facebookresearch/voxpopuli#license)",
    "speakers": 2
+  },
+  {
+   "id": "alimeeting-r8001-m8004-26min",
+   "title": "Real · Chinese meeting (far mic) · 4 speakers · 26 min",
+   "languages": [
+    "zh"
+   ],
+   "duration_sec": 1573.8,
+   "turns": 604,
+   "length": "long",
+   "audio": "audio/alimeeting-r8001-m8004-26min.wav",
+   "truth": "truth/alimeeting-r8001-m8004-26min.json",
+   "bytes": 50363278,
+   "sha256": "7f9c2cd40dcaae24743af76ca7b200a18529d39b8f8fa44c392ea74119222220",
+   "enabled": true,
+   "source": "AliMeeting Eval set (Alibaba DAMO / OpenSLR SLR119), meeting R8001_M8004, far-field 8-mic array, channel 1 only, full length; labels from the official far-field TextGrid",
+   "license": "CC BY-SA 4.0 (https://www.openslr.org/119/)",
+   "speakers": 4
+  },
+  {
+   "id": "ami-es2004c-39min",
+   "title": "Real · AMI meeting · 4 speakers · 39 min",
+   "languages": [
+    "en"
+   ],
+   "duration_sec": 2334.4,
+   "turns": 498,
+   "length": "long",
+   "audio": "audio/ami-es2004c-39min.wav",
+   "truth": "truth/ami-es2004c-39min.json",
+   "bytes": 74699854,
+   "sha256": "0f80d5ba6234726b35687746d963e55e1419a03575cbdf919d117f05f2833107",
+   "enabled": true,
+   "source": "AMI Meeting Corpus, meeting ES2004c, Mix-Headset, full length (2334s); speaker labels are AMI channel letters (University of Edinburgh / AMI Consortium)",
+   "license": "CC BY 4.0 (https://groups.inf.ed.ac.uk/ami/corpus/license.shtml)",
+   "speakers": 4
+  },
+  {
+   "id": "ami-ts3003c-43min",
+   "title": "Real · AMI meeting · 4 speakers · 43 min",
+   "languages": [
+    "en"
+   ],
+   "duration_sec": 2570.0,
+   "turns": 385,
+   "length": "long",
+   "audio": "audio/ami-ts3003c-43min.wav",
+   "truth": "truth/ami-ts3003c-43min.json",
+   "bytes": 82240078,
+   "sha256": "418b9607399cb44180e38965983e5da8ea6da7e63e4624eff0052e52589ebbc5",
+   "enabled": true,
+   "source": "AMI Meeting Corpus, meeting TS3003c, Mix-Headset, full length (2570s); speaker labels are AMI channel letters (University of Edinburgh / AMI Consortium)",
+   "license": "CC BY 4.0 (https://groups.inf.ed.ac.uk/ami/corpus/license.shtml)",
+   "speakers": 4
+  },
+  {
+   "id": "icsi-bmr013-48min",
+   "title": "Real · ICSI research meeting · 7 speakers · 48 min",
+   "languages": [
+    "en"
+   ],
+   "duration_sec": 2907.4,
+   "turns": 1538,
+   "length": "long",
+   "audio": "audio/icsi-bmr013-48min.wav",
+   "truth": "truth/icsi-bmr013-48min.json",
+   "bytes": 93038158,
+   "sha256": "bf939feb5377e8b9ff60e17ef5a531fe69854469980eb8d49b3dbe17cdaedd22",
+   "enabled": true,
+   "source": "ICSI Meeting Corpus, meeting Bmr013, headset mix (full length); speaker labels are ICSI participant ids",
+   "license": "CC BY 4.0 (https://groups.inf.ed.ac.uk/ami/icsi/license.shtml)",
+   "speakers": 7
+  },
+  {
+   "id": "vp-pl-plenary-9min",
+   "title": "Real · Polish parliament · 5 speakers · 9.5 min",
+   "languages": [
+    "pl"
+   ],
+   "duration_sec": 569.8,
+   "turns": 61,
+   "length": "long",
+   "audio": "audio/vp-pl-plenary-9min.wav",
+   "truth": "truth/vp-pl-plenary-9min.json",
+   "bytes": 18234460,
+   "sha256": "2f2903951192d5903918d7c3fdc75798eacc806fbff8d91877483651453889e0",
+   "enabled": true,
+   "source": "VoxPopuli transcribed test split (Meta), European Parliament plenary session 20090324-0900-PLENARY-3-pl; consecutive segments in original order, joined with 0.5 s silence (inter-segment gaps removed)",
+   "license": "CC0 1.0 (VoxPopuli transcribed data; https://github.com/facebookresearch/voxpopuli#license)",
+   "speakers": 5
   }
  ]
 }

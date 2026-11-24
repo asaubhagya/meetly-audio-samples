@@ -1,0 +1,497 @@
+{
+ "id": "vp-pl-plenary-9min",
+ "duration_sec": 569.83,
+ "speakers": 5,
+ "source": "VoxPopuli transcribed test split (Meta), European Parliament plenary session 20090324-0900-PLENARY-3-pl; consecutive segments in original order, joined with 0.5 s silence (inter-segment gaps removed)",
+ "license": "CC0 1.0 (VoxPopuli transcribed data; https://github.com/facebookresearch/voxpopuli#license)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 10.58,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Reforma polityki strukturalnej Unii Europejskiej na lata 2007 pociągnęła za sobą zmiany w strukturze funduszy i zasadach dystrybucji środków pomocowych.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_1"
+  },
+  {
+   "start": 11.08,
+   "end": 19.3,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Jedną ze znaczących zmian stało się utworzenie nowego Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich powiązanego ze wspólną polityką rolną.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_2"
+  },
+  {
+   "start": 19.8,
+   "end": 36.68,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "O ile w perspektywie finansowej na lata 2000 środki na rozwój obszarów wiejskich były powiązane z funduszami strukturalnymi i polityką spójności, co odrywało je od środków na WPR, o tyle w nowych ramach finansowych stały się one częścią działu powiązanego z WPR.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_3"
+  },
+  {
+   "start": 37.18,
+   "end": 46.64,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "W następstwie wprowadzenia tych zmian pojawia się jednak pytanie o to, czy w efekcie tego rozdziału nastąpiła poprawa efektywności wykorzystania dostępnych funduszy.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_4"
+  },
+  {
+   "start": 47.14,
+   "end": 54.98,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Powiązanie funduszy WPR ze środkami rozwoju obszarów wiejskich stanowi jednak tylko pozorne uproszczenie schematu budżetu.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_5"
+  },
+  {
+   "start": 55.48,
+   "end": 65.62,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "W istocie przyczynia się ono do oderwania środków na cele pozarolnicze od polityki spójności, a w konsekwencji albo do dublowania niektórych celów, albo ich pomijania w obydwu rozdziałach.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_6"
+  },
+  {
+   "start": 66.12,
+   "end": 77.36,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "W tej sytuacji wydatki na wspieranie działalności pozarolniczej oraz rozwój MŚP na obszarach wiejskich znalazłyby się na styku obydwu funduszy i pozostałyby bez pokrycia przez żaden z tych funduszy.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_9"
+  },
+  {
+   "start": 77.86,
+   "end": 88.7,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Niedobór środków może również nastąpić w zakresie zapewnienia podstawowych usług użytku publicznego oraz inwestycji infrastrukturalnych na obszarach wiejskich, do których powinien przyczynić się również fundusz spójności.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_10"
+  },
+  {
+   "start": 89.2,
+   "end": 106.06,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "W tym kontekście szczególnego znaczenia nabiera opracowanie przejrzystej, długoterminowej strategii rozwoju obszarów wiejskich na poziomie państw członkowskich i regionów tak, aby móc jasno zdefiniować priorytety i cele w rozwoju obszarów wiejskich oraz odpowiednio dopasować do nich środki pomocowe.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_11"
+  },
+  {
+   "start": 106.56,
+   "end": 112.98,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Powiązanie filaru drugiego z politykami spójności wymagałoby jednak ścisłej koordynacji działań na szczeblu krajowym.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_12"
+  },
+  {
+   "start": 113.48,
+   "end": 122.65,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Tradycyjnie wyróżniały się one od miejskich niższą gęstością zaludnienia, odmienną strukturą zatrudnienia, niższym poziomem dochodu i gorszym dostępem do dróg publicznych.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_14"
+  },
+  {
+   "start": 123.15,
+   "end": 128.25,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Jednym z celów rozwojowych Unii jest modernizacja struktury społecznej, w tym struktury zatrudnienia.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_16"
+  },
+  {
+   "start": 128.75,
+   "end": 133.38,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Celem koordynacji powinno być jednak właśnie osiągnięcie synergii w wykorzystywaniu środków.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_21"
+  },
+  {
+   "start": 133.88,
+   "end": 143.09,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "W poszczególnych krajach istnieje wiele modeli koordynacji tych działań i trudno w tej chwili mówić o tym, że jakieś rozwiązanie krajowe powinno stanowić wzorzec.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_22"
+  },
+  {
+   "start": 143.59,
+   "end": 150.69,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Wydaje się jednak, że przesądzić o sukcesie może raczej wola polityczna, a nie takie czy inne rozwiązanie organizacyjne.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_23"
+  },
+  {
+   "start": 151.19,
+   "end": 156.47,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Polityka ta lepiej niż WPR może wspierać rozwiązywanie nierolniczych problemów rozwoju wsi, takich jak np.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:16:38_26"
+  },
+  {
+   "start": 156.97,
+   "end": 165.37,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "Sprawozdanie posła van Nistelrooija jest odpowiedzią na opublikowaną przez Komisję zieloną księgę w sprawie spójności terytorialnej.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_1"
+  },
+  {
+   "start": 165.87,
+   "end": 180.23,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "Zgadzamy się wszyscy, że rozpoczęcie debaty na temat przyszłej polityki spójności powinno być uzupełnione właśnie o wymiar terytorialny. Mamy jednak paradoksalną sytuację dyskutujemy o spójności terytorialnej bez jej definicji.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_2"
+  },
+  {
+   "start": 180.73,
+   "end": 187.19,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "Jednak sprecyzowania, na czym ma polegać i na jakich kryteriach ma się oprzeć, jak do tej pory nie ma.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_4"
+  },
+  {
+   "start": 187.69,
+   "end": 197.59,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "Dyskusja nad spójnością terytorialną na forum Unii Europejskiej nie ma już większego sensu bez wypracowania spójnej definicji.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_6"
+  },
+  {
+   "start": 198.09,
+   "end": 207.23,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "Osiągnięcie spójności terytorialnej oznacza zapewnienie jak najlepszego rozwoju całości terytorium Wspólnoty i poprawę życia jej mieszkańców.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_7"
+  },
+  {
+   "start": 207.73,
+   "end": 230.95,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "Celem osiągnięcia spójności terytorialnej powinno być przede wszystkim niwelowanie rozbieżności na poziomie rozwoju poszczególnych regionów i państw członkowskich, a w szczególności usuwanie rosnących dysproporcji wewnątrz regionów i państw, na co zwraca uwagę sprawozdanie. O ile bowiem maleją różnice między państwami, o tyle coraz bardziej rośnie wewnętrzne zróżnicowanie.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_8"
+  },
+  {
+   "start": 231.45,
+   "end": 251.95,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "Najwięcej inwestycji i środków finansowych kumulują stolice państw i stolice regionów kosztem pozostałych terytoriów, a państwa członkowskie nie potrafią lub nie chcą temu przeciwdziałać. W tej sytuacji niezbędne jest stworzenie takich mechanizmów na szczeblu Wspólnoty, które będą skutecznie stymulowały bardziej równomierny",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_9"
+  },
+  {
+   "start": 252.45,
+   "end": 260.63,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "zrównoważony rozwój. Sadzę, że warto przypatrzeć się danym statystycznym na poziomie NUTS3, nie tylko NUTS2.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_10"
+  },
+  {
+   "start": 261.13,
+   "end": 266.53,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "NUTS2. Dane z NUTS3 znacznie lepiej pokazują istniejący problem.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_11"
+  },
+  {
+   "start": 267.03,
+   "end": 272.27,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "Warto je wziąć pod uwagę przy przydzielaniu środków pomocy.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_12"
+  },
+  {
+   "start": 272.77,
+   "end": 284.91,
+   "lang": "pl",
+   "speaker": "28388",
+   "text": "Proces osiągania spójności terytorialnej powinien być realizowany na wszystkich poziomach europejskim, krajowym, regionalnym, z uwzględnieniem zasady subsydiarności.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:51:45_13"
+  },
+  {
+   "start": 285.41,
+   "end": 292.97,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "Nasza debata dotyczy rozwoju regionalnego i polityki spójności. Kwestie te są bardzo istotne dla całej Wspólnoty.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_1"
+  },
+  {
+   "start": 293.47,
+   "end": 299.45,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "Dziś bowiem zamożność regionów jest bardzo zróżnicowana, przekracza nawet relację",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_2"
+  },
+  {
+   "start": 299.95,
+   "end": 309.37,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "101. W imię interesów mieszkańców Unii należy zatem wykorzystać wszystkie możliwości, aby pokazać faktyczną solidarność Europejczyków.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_3"
+  },
+  {
+   "start": 309.87,
+   "end": 314.35,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "To nie znaczy wcale, że wszyscy mają mieć tyle samo i tak samo.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_4"
+  },
+  {
+   "start": 314.85,
+   "end": 318.55,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "To powinno oznaczać, że wszyscy mają równe szanse.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_5"
+  },
+  {
+   "start": 319.05,
+   "end": 330.41,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "Dotyczyć to powinno zarówno mieszkańców aglomeracji miejskich, jak i wsi, zarówno ludzi żyjących w centrum Europy, jak i na jej obrzeżach, młodego pokolenia oraz ludzi starszych.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_6"
+  },
+  {
+   "start": 330.91,
+   "end": 336.27,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "Musimy to zrobić w sposób innowacyjny z myślą o teraźniejszości i przyszłości.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_7"
+  },
+  {
+   "start": 336.77,
+   "end": 340.01,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "Dziś mamy przed sobą sześć bardzo dobrych sprawozdań.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_8"
+  },
+  {
+   "start": 340.51,
+   "end": 343.83,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "Szkoda, że dyskutujemy je w taki skomasowany sposób.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_9"
+  },
+  {
+   "start": 344.33,
+   "end": 345.41,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "Gratuluję ich autorom.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_10"
+  },
+  {
+   "start": 345.91,
+   "end": 355.73,
+   "lang": "pl",
+   "speaker": "28355",
+   "text": "Chciałbym bardzo, żeby nasze działania służyły tej prawdziwej Wspólnocie Europejskiej, tej jedności. By każde euro było wykorzystane w szlachetnym celu.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-09:54:57_11"
+  },
+  {
+   "start": 356.23,
+   "end": 366.95,
+   "lang": "pl",
+   "speaker": "33946",
+   "text": "Dziś przy pojawieniu się w Europie tendencji protekcjonizmu narodowego szczególną wagę odgrywa racjonalnie prowadzona polityka spójności i rozwoju obszarów wiejskich.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:26:07_1"
+  },
+  {
+   "start": 367.45,
+   "end": 376.99,
+   "lang": "pl",
+   "speaker": "33946",
+   "text": "Obecny system wsparcia z różnych funduszy rozwoju obszarów wiejskich tylko utrwala, a nie niweluje, poziom rozwoju różnych części Unii Europejskiej.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:26:07_2"
+  },
+  {
+   "start": 377.49,
+   "end": 388.07,
+   "lang": "pl",
+   "speaker": "33946",
+   "text": "Mamy do czynienia ze zjawiskiem dużej dysproporcji dopłat do rolnictwa w nowych krajach członkowskich w stosunku do starych, a przecież te dysproporcje pozostaną po 2013",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:26:07_3"
+  },
+  {
+   "start": 388.57,
+   "end": 398.59,
+   "lang": "pl",
+   "speaker": "33946",
+   "text": "r. Wszyscy rolnicy mają podobne koszty produkcji a usługi w rolnictwie w nowych państwach członkowskich rosną, zbliżając się niejednokrotnie do cen w starych krajach.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:26:07_4"
+  },
+  {
+   "start": 399.09,
+   "end": 404.95,
+   "lang": "pl",
+   "speaker": "33946",
+   "text": "Gdzie tu więc szansa na wyrównanie poziomu rozwoju obszarów wiejskich w ciągu najbliższych kilkudziesięciu lat?",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:26:07_5"
+  },
+  {
+   "start": 405.45,
+   "end": 420.59,
+   "lang": "pl",
+   "speaker": "33946",
+   "text": "Tylko poprzez stabilne, wieloletnie wsparcie lokalnych społeczności w regionach biednych przy maksymalnych uproszczeniach procedur można zniwelować różnice i mówić w perspektywie kilkunastu lat o prawdziwej konkurencji w Unii Europejskiej.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:26:07_6"
+  },
+  {
+   "start": 421.09,
+   "end": 427.77,
+   "lang": "pl",
+   "speaker": "28382",
+   "text": "Dobrze funkcjonująca polityka spójności jest bezwzględnym warunkiem osiągnięcia spójności społecznej, gospodarczej i terytorialnej Unii Europejskiej.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:56:51_2"
+  },
+  {
+   "start": 428.27,
+   "end": 438.19,
+   "lang": "pl",
+   "speaker": "28382",
+   "text": "Dzisiaj naszym najważniejszym wyzwaniem jest szybkie zreformowanie zasad działania polityki, uproszczenie i uelastycznienie skomplikowanych procedur w realizacji projektów oraz przepisów dotyczących finansowania.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:56:51_3"
+  },
+  {
+   "start": 438.69,
+   "end": 445.75,
+   "lang": "pl",
+   "speaker": "28382",
+   "text": "Rozwój koncepcji międzyregionalnej, wymiana najlepszych praktyk wpisuje się w plan reformy polityki spójności i jest jej idealnym uzupełnieniem.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:56:51_4"
+  },
+  {
+   "start": 446.25,
+   "end": 454.23,
+   "lang": "pl",
+   "speaker": "28382",
+   "text": "Komisja Europejska powinna zatem jak najszybciej przedstawić konkretną propozycję możliwości wymiany doświadczeń pomiędzy podmiotami realizującymi projekty.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:56:51_5"
+  },
+  {
+   "start": 454.73,
+   "end": 464.93,
+   "lang": "pl",
+   "speaker": "28382",
+   "text": "Myślę, że nikogo z państwa tu obecnych nie trzeba przekonywać, że w obliczu kryzysu finansowego i gospodarczego środki strukturalne są kluczowym instrumentem stymulującym gospodarkę na poziomie regionalnym.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-10:56:51_6"
+  },
+  {
+   "start": 465.43,
+   "end": 478.23,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Moje sprawozdanie dotyczyło kwestii dość szczegółowej, ale bardzo ważnej dla optymalizacji wykorzystywania środków unijnych z punktu widzenia spójności, czy to rozumianej tradycyjnie, czy też spójności terytorialnej.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_2"
+  },
+  {
+   "start": 478.73,
+   "end": 486.53,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Wzrost zrównoważony to zadanie niesłychanie skomplikowane. Należy więc z uznaniem powitać wszelkie próby ułatwiania realizacji tego zadania.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_3"
+  },
+  {
+   "start": 487.03,
+   "end": 491.99,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Pojęcie spójności terytorialnej nie zostało jednak dotąd dostatecznie dokładnie zdefiniowane.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_4"
+  },
+  {
+   "start": 492.49,
+   "end": 497.63,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Zielona księga jest więc raczej początkiem, a nie końcem debaty na ten temat.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_5"
+  },
+  {
+   "start": 498.13,
+   "end": 507.39,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Cieszę się, że pani komisarz podkreśliła potrzebę redukcji różnic w poziomie rozwoju oraz znaczenie synergii w realizacji polityk unijnych.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_6"
+  },
+  {
+   "start": 507.89,
+   "end": 515.17,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Różne regiony mają bardzo różne problemy związane z poziomem dochodu, położeniem geograficznym, ruchami ludności itd.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_7"
+  },
+  {
+   "start": 515.67,
+   "end": 525.93,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Trzeba jednak pamiętać, o czym mówili tutaj moi polscy koledzy, pani poseł Staniszewska czy posłowie Podkański i Zapałowski, że centra regionów mają tendencję do kumulowania środków w swoich rękach.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_8"
+  },
+  {
+   "start": 526.43,
+   "end": 538.65,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Trzeba też pamiętać, że cele polityki rozwoju obszarów wiejskich nie muszą być sprzeczne z celami lizbońskimi, jeśli wykorzysta się mechanizm względnej konkurencyjności, czyli wzrost wydajności przy niskich kosztach.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_9"
+  },
+  {
+   "start": 539.15,
+   "end": 545.05,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Komisja Rolnictwa nie komentowała mojego sprawozdania, a więc milczenie uważam za zgodę.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_10"
+  },
+  {
+   "start": 545.55,
+   "end": 551.61,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Myślę, że głos pana posła Baco jest raczej pewnego rodzaju nieporozumieniem.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_11"
+  },
+  {
+   "start": 552.11,
+   "end": 558.53,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Podkreśliłem w swoim sprawozdaniu wyraźnie, że środki na rozwój obszarów wiejskich nie mogą uszczuplać dopłat bezpośrednich.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_12"
+  },
+  {
+   "start": 559.03,
+   "end": 569.83,
+   "lang": "pl",
+   "speaker": "28356",
+   "text": "Natomiast z drugiej strony jest faktem, że środki na rozwój obszarów wiejskich mogą pomóc wyjść z kłopotów gospodarczych regionom rolniczym poprzez wspieranie działalności pozarolniczej.",
+   "segment": "20090324-0900-PLENARY-3-pl_20090324-11:40:07_13"
+  }
+ ]
+}

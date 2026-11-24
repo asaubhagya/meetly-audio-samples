@@ -1,0 +1,3495 @@
+{
+ "id": "ami-es2004c-39min",
+ "duration_sec": 2334.368,
+ "speakers": 4,
+ "source": "AMI Meeting Corpus, meeting ES2004c, Mix-Headset, full length (2334s); speaker labels are AMI channel letters (University of Edinburgh / AMI Consortium)",
+ "license": "CC BY 4.0 (https://groups.inf.ed.ac.uk/ami/corpus/license.shtml)",
+ "turns": [
+  {
+   "start": 0.0,
+   "end": 2.81,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I'll wait until you're all um hooked up."
+  },
+  {
+   "start": 17.38,
+   "end": 19.2,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Oh good grief."
+  },
+  {
+   "start": 22.69,
+   "end": 23.3,
+   "lang": "en",
+   "speaker": "D",
+   "text": "'Kay."
+  },
+  {
+   "start": 29.61,
+   "end": 30.52,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 49.83,
+   "end": 50.69,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Oh."
+  },
+  {
+   "start": 52.11,
+   "end": 54.98,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Put it on in that way. Thanks."
+  },
+  {
+   "start": 53.98,
+   "end": 54.5,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Oops."
+  },
+  {
+   "start": 78.05,
+   "end": 78.59,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 79.18,
+   "end": 79.65,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm."
+  },
+  {
+   "start": 79.73,
+   "end": 83.9,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Welcome back everybody, hope you've had fun."
+  },
+  {
+   "start": 82.27,
+   "end": 83.36,
+   "lang": "en",
+   "speaker": "A",
+   "text": "After lunch."
+  },
+  {
+   "start": 84.99,
+   "end": 85.59,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 85.42,
+   "end": 93.55,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Right um this is our conceptual design meeting, um I think we're slightly ahead of ourselves"
+  },
+  {
+   "start": 89.09,
+   "end": 90.38,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 94.75,
+   "end": 99.73,
+   "lang": "en",
+   "speaker": "B",
+   "text": "from the last meeting, I th I I think yeah um."
+  },
+  {
+   "start": 95.98,
+   "end": 98.95,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah, yeah I was getting that impression as well."
+  },
+  {
+   "start": 96.34,
+   "end": 96.67,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 97.86,
+   "end": 98.55,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 100.93,
+   "end": 111.63,
+   "lang": "en",
+   "speaker": "B",
+   "text": "This is where we talk about um properties, materials, user-interface and trend-watching."
+  },
+  {
+   "start": 109.7,
+   "end": 110.57,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Etcetera."
+  },
+  {
+   "start": 111.89,
+   "end": 112.34,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 112.67,
+   "end": 115.04,
+   "lang": "en",
+   "speaker": "B",
+   "text": "So I think we've touched on a few things"
+  },
+  {
+   "start": 116.62,
+   "end": 119.04,
+   "lang": "en",
+   "speaker": "B",
+   "text": "to do with that already, but we'll just go over it."
+  },
+  {
+   "start": 120.38,
+   "end": 121.1,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Um"
+  },
+  {
+   "start": 122.96,
+   "end": 143.41,
+   "lang": "en",
+   "speaker": "B",
+   "text": "the minutes from the last time. Um we had a couple of um changes in our plans in that we couldn't use teletext, it wasn't gonna be a control for everything um and that we had to incorporate the image of the company into it somehow. Um"
+  },
+  {
+   "start": 144.7,
+   "end": 165.44,
+   "lang": "en",
+   "speaker": "B",
+   "text": "we have decided on a leaving out the voice recognition, we've decided on there being a flip design and um a different shape from what's normal. We were thinking a shell, but something along those lines, just a different shape from what's normal, um."
+  },
+  {
+   "start": 168.29,
+   "end": 172.14,
+   "lang": "en",
+   "speaker": "B",
+   "text": "You were going to look into the rechargeable batteries"
+  },
+  {
+   "start": 172.19,
+   "end": 172.96,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 173.1,
+   "end": 192.85,
+   "lang": "en",
+   "speaker": "B",
+   "text": "and we were gonna think about the port and an alarm for getting it lost, things like that, um and our market was going to be young, business, kind of range. Okay, so shall we start with the first presentation? Yes if you feel"
+  },
+  {
+   "start": 177.66,
+   "end": 178.14,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 188.08,
+   "end": 188.42,
+   "lang": "en",
+   "speaker": "A",
+   "text": "'Kay."
+  },
+  {
+   "start": 191.22,
+   "end": 194.86,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Shall I? Okay. We just connect up."
+  },
+  {
+   "start": 191.74,
+   "end": 192.29,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yep."
+  },
+  {
+   "start": 200.72,
+   "end": 201.49,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Thank you."
+  },
+  {
+   "start": 217.56,
+   "end": 228.56,
+   "lang": "en",
+   "speaker": "D",
+   "text": "There we go. Okay um so we decided on our market and so this feedback from the marketing department is really about trend watching. Um"
+  },
+  {
+   "start": 229.37,
+   "end": 232.48,
+   "lang": "en",
+   "speaker": "D",
+   "text": "the methods we used to decide on uh"
+  },
+  {
+   "start": 234.58,
+   "end": 269.31,
+   "lang": "en",
+   "speaker": "D",
+   "text": "current trends and so on, market trends, were that we did our traditional uh our usual market research study uh with a hundred subjects and the the general feedback from them is that the most im uh w I'm sorry I'm slightly tongue-tied after lunch, sorry Project Manager. Um we decided on the most important aspect i uh required in a remote control device and we'll come to that later. So that was one of the first things we did. Also with our company um being forerunners in uh putting fashion into technology, we also looked at a fashion update um using our consultants on fashion and design in Paris and Milan."
+  },
+  {
+   "start": 249.35,
+   "end": 250.82,
+   "lang": "en",
+   "speaker": "B",
+   "text": "It's okay."
+  },
+  {
+   "start": 270.17,
+   "end": 289.73,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Uh so the general findings from that was uh in the market trends the most important aspect for remote controls were people want a fancy look and feel, rather than the the current functional look and feel of remote controls. They also also want a remote control to be technologically innovative,"
+  },
+  {
+   "start": 290.88,
+   "end": 306.43,
+   "lang": "en",
+   "speaker": "D",
+   "text": "and of course, as we predicted, that it should be easy to use. Now I should point out that the first of those findings, fancy look and feel, is the most important, is twice as important as the second, technologically innovative, which is in turn twice as important as being easy to use."
+  },
+  {
+   "start": 307.82,
+   "end": 339.25,
+   "lang": "en",
+   "speaker": "D",
+   "text": "So possibly that the feature that we put first is actually third is still important, but it's third in order of preference for the the subject group we looked at. Okay, um, now the fashion update which relates to very personal preferences among our subject group, um we found from our um consultants in Paris and Milan who des attended all the design and fashion fairs there, that fruit and vegetables are going to be the theme for clothes, shoes and furniture. So should we be thinking of using something like that in our remote control design too?"
+  },
+  {
+   "start": 316.0,
+   "end": 316.37,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah."
+  },
+  {
+   "start": 340.07,
+   "end": 357.01,
+   "lang": "en",
+   "speaker": "D",
+   "text": "There also seems to be um a trend towards a spongy feel to materials, uh again in contrast to last year. So a lot of interesting feedback there, both from our market research departments and from our people in Paris and Milan. Be interesting to see what our design people make of that."
+  },
+  {
+   "start": 356.88,
+   "end": 357.31,
+   "lang": "en",
+   "speaker": "A",
+   "text": "'Kay."
+  },
+  {
+   "start": 357.23,
+   "end": 360.24,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay thank you very much. Um"
+  },
+  {
+   "start": 360.64,
+   "end": 361.0,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yep."
+  },
+  {
+   "start": 361.47,
+   "end": 364.14,
+   "lang": "en",
+   "speaker": "B",
+   "text": "let's start from the inside and work our way out."
+  },
+  {
+   "start": 363.44,
+   "end": 365.26,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Fine. It's okay with me."
+  },
+  {
+   "start": 364.11,
+   "end": 366.3,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah, okay."
+  },
+  {
+   "start": 365.28,
+   "end": 369.64,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Unless anyone has any questions about that? Not yet? 'Kay."
+  },
+  {
+   "start": 367.42,
+   "end": 369.52,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I don't think so, not yet."
+  },
+  {
+   "start": 370.96,
+   "end": 373.14,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Um, yes, thank you."
+  },
+  {
+   "start": 380.84,
+   "end": 381.9,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Okay."
+  },
+  {
+   "start": 380.91,
+   "end": 383.58,
+   "lang": "en",
+   "speaker": "C",
+   "text": "That screwed in?"
+  },
+  {
+   "start": 388.5,
+   "end": 389.79,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I hate those little things"
+  },
+  {
+   "start": 389.9,
+   "end": 390.8,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 390.94,
+   "end": 396.15,
+   "lang": "en",
+   "speaker": "B",
+   "text": "especially if you do them on too tight and you can't get the leverage on them to undo them."
+  },
+  {
+   "start": 393.87,
+   "end": 395.94,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I know."
+  },
+  {
+   "start": 402.94,
+   "end": 404.72,
+   "lang": "en",
+   "speaker": "C",
+   "text": "'Kay,"
+  },
+  {
+   "start": 410.55,
+   "end": 411.54,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 410.77,
+   "end": 425.07,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Okay. Um this is uh all about the design of the actual components and the availability of the components we have in stock at the moment. Okay, first uh the"
+  },
+  {
+   "start": 426.13,
+   "end": 450.84,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Into the method. The the main idea of the whole thing is just so you sh you just press buttons and it should activate things on the T_V_ and we discussed last meeting that it should be easy to find. Um also in this study I've looked into the availability of some of the materials, 'cause some of the things that we looked at last time aren't un unfortunately aren't available."
+  },
+  {
+   "start": 451.04,
+   "end": 451.44,
+   "lang": "en",
+   "speaker": "B",
+   "text": "'Kay."
+  },
+  {
+   "start": 451.44,
+   "end": 471.78,
+   "lang": "en",
+   "speaker": "B",
+   "text": "."
+  },
+  {
+   "start": 452.54,
+   "end": 478.58,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Um, findings, I've got my nice little picture there. This is uh the chip called the T_A_ double one eight three five which is what's used in pretty much every remote control 'cause it sends out standard signals, based on your input and um it's pretty much used for all all T_V_ remotes at the moment. Um and then we we're loo looking into battery options."
+  },
+  {
+   "start": 471.78,
+   "end": 472.88,
+   "lang": "en",
+   "speaker": "B",
+   "text": "'Kay."
+  },
+  {
+   "start": 479.71,
+   "end": 507.02,
+   "lang": "en",
+   "speaker": "C",
+   "text": "There's um actually no rechargeable option available, so we I saw the um the standard double A_ and triple A_ which we thought were a bit bit too bulky at the moment, dynamo charging, I thought that that might be a bit silly to be to be honest, people won't it's it's basically like wind-up radio. So you wind up your remote control before you use it. It might"
+  },
+  {
+   "start": 497.18,
+   "end": 498.98,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Wa can you explain that?"
+  },
+  {
+   "start": 499.93,
+   "end": 502.99,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Like a right, okay."
+  },
+  {
+   "start": 504.85,
+   "end": 512.98,
+   "lang": "en",
+   "speaker": "B",
+   "text": "How what kind of how l long can you get out of that, I mean can you pick it up and then wind it for two minutes and then that's it for the night? Or"
+  },
+  {
+   "start": 508.74,
+   "end": 509.47,
+   "lang": "en",
+   "speaker": "C",
+   "text": "You"
+  },
+  {
+   "start": 512.11,
+   "end": 533.22,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah, yeah, oh yeah I presu you wouldn't have to wind it for very long, but I don't I don't think it's really sort of necessary when you th you think of the next two options, like the the solar charging, 'cause most people have the light on in the room anyway so they could get when when you got T_V_."
+  },
+  {
+   "start": 531.31,
+   "end": 533.14,
+   "lang": "en",
+   "speaker": "B",
+   "text": "That doesn't count though does it?"
+  },
+  {
+   "start": 532.19,
+   "end": 535.78,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Does does light charge as as sunlight does? Artificial light?"
+  },
+  {
+   "start": 533.72,
+   "end": 537.9,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I thought it was U_V_ like"
+  },
+  {
+   "start": 535.0,
+   "end": 535.72,
+   "lang": "en",
+   "speaker": "C",
+   "text": "No."
+  },
+  {
+   "start": 536.78,
+   "end": 539.15,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Is it? Alright i"
+  },
+  {
+   "start": 538.95,
+   "end": 540.21,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Has to be solar."
+  },
+  {
+   "start": 539.17,
+   "end": 540.86,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Any, any"
+  },
+  {
+   "start": 540.37,
+   "end": 552.29,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yep. Regarding those sizes, which one you think will be light because we we have to take into consideration size also, so maybe a standard triple A_ might take lesser space or and dynamo might take more space."
+  },
+  {
+   "start": 550.91,
+   "end": 557.33,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah it would the d yeah the dynamo would take more space 'cause you actually need a physical sort of handle to wind up."
+  },
+  {
+   "start": 556.99,
+   "end": 559.73,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I'm pretty sure that solar is from the sun."
+  },
+  {
+   "start": 559.65,
+   "end": 560.91,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah, okay."
+  },
+  {
+   "start": 560.3,
+   "end": 560.8,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 560.39,
+   "end": 573.38,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Uh, I don't think it counts electric lights no, but I mean not many you don't want to limit your market. I mean people who live in basement flats there's not that many people, but there are people."
+  },
+  {
+   "start": 561.84,
+   "end": 563.28,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Artificial light, no."
+  },
+  {
+   "start": 565.25,
+   "end": 566.24,
+   "lang": "en",
+   "speaker": "D",
+   "text": "That's going to"
+  },
+  {
+   "start": 571.15,
+   "end": 575.83,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I know, different parts of the world too, if we're if we're marketing internationally."
+  },
+  {
+   "start": 571.29,
+   "end": 571.98,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Uh"
+  },
+  {
+   "start": 571.38,
+   "end": 572.05,
+   "lang": "en",
+   "speaker": "C",
+   "text": "But"
+  },
+  {
+   "start": 574.82,
+   "end": 580.48,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah and most people most people also watch T_V_ in the in the night anyway."
+  },
+  {
+   "start": 575.57,
+   "end": 576.19,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Right."
+  },
+  {
+   "start": 579.36,
+   "end": 580.44,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Night."
+  },
+  {
+   "start": 580.56,
+   "end": 588.82,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm, but then it would be charging through the day, I think the point is that it charges through the day and then you've got it charged for the evening."
+  },
+  {
+   "start": 587.19,
+   "end": 608.59,
+   "lang": "en",
+   "speaker": "C",
+   "text": "But I I think I think the the next one's the best anyway. The the kinetic charging which is like you get it in r you get it in wrist watches and you d you don't even notice it. I mean the amount the amount of probably moving around you'd be doing all the time would would charge it up, I don't think you'd ever need to actually physically start shaking it up to make it work."
+  },
+  {
+   "start": 590.1,
+   "end": 590.75,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 595.38,
+   "end": 596.33,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah I've seen"
+  },
+  {
+   "start": 608.42,
+   "end": 613.57,
+   "lang": "en",
+   "speaker": "A",
+   "text": "And are these like uh what are the life of the kinetic battery, it like it runs for long time?"
+  },
+  {
+   "start": 613.34,
+   "end": 640.64,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Um yeah it's it charges into um some form of it's a smaller cell which it charges into and uh the si the size sort of a watch a watch battery, 'cause they use them quite frequently in watches. And that'll that would l would last for um well I do I d I'm not entirely sure how long it would last but I've never seen one run out."
+  },
+  {
+   "start": 620.32,
+   "end": 620.8,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 627.69,
+   "end": 628.43,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay."
+  },
+  {
+   "start": 639.65,
+   "end": 657.59,
+   "lang": "en",
+   "speaker": "B",
+   "text": "But then if you think about a watch, it's on your wrist so it's on your whole bod it's on your body the whole time so you're walking around, you're doing things, it is moving a lot of the time. If you'd I mean you switch the T_V_ on, then you put it on the side, then you pick it up to change it and then you put it on the side. Is it really gonna be enough?"
+  },
+  {
+   "start": 639.96,
+   "end": 640.79,
+   "lang": "en",
+   "speaker": "A",
+   "text": "We c"
+  },
+  {
+   "start": 644.99,
+   "end": 645.6,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 649.81,
+   "end": 651.41,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah and"
+  },
+  {
+   "start": 652.81,
+   "end": 653.32,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 655.36,
+   "end": 686.78,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah but then again I I think it is because if you think about it, the watch, although it's only a tiny amount it's it's um it's always moving for the whole day and they don't run out over night when you leave them on the side. And th for the same the same reason, you're only using it for a v incredibly short amount of time just to send the signal and then you're finished with it and you put it no no I do I don't think the the draw on it would be"
+  },
+  {
+   "start": 672.42,
+   "end": 672.98,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 681.54,
+   "end": 697.81,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Hmm. Mm-hmm. Mm. Could I just ask referring back to solar charging, is that compatible with um standard batteries? I mean, could people put standard batteries in but with a s you know they could leave it in the sunlight for solar charging or the two things not compatible?"
+  },
+  {
+   "start": 681.59,
+   "end": 683.99,
+   "lang": "en",
+   "speaker": "B",
+   "text": "So it's not the draw on it isn't"
+  },
+  {
+   "start": 684.7,
+   "end": 685.55,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 688.5,
+   "end": 689.11,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Mm."
+  },
+  {
+   "start": 695.24,
+   "end": 715.02,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Ye yeah I think I th uh g y you could have a dual um power thing but the the thing with the solar cells is you would need to put them on the case and they because, if you lie on a calculator they they're qui they're quite big and they all they all look i identical."
+  },
+  {
+   "start": 698.13,
+   "end": 699.82,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Like a dual kind of."
+  },
+  {
+   "start": 710.4,
+   "end": 711.1,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 714.33,
+   "end": 716.76,
+   "lang": "en",
+   "speaker": "D",
+   "text": "So that affects the exterior design."
+  },
+  {
+   "start": 715.26,
+   "end": 717.86,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Solar would be slightly expensives."
+  },
+  {
+   "start": 715.99,
+   "end": 723.77,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Expensive as well. What kind of price are we looking at for I presume the normal batteries are the cheapest?"
+  },
+  {
+   "start": 717.23,
+   "end": 719.15,
+   "lang": "en",
+   "speaker": "C",
+   "text": "They're they're expensive, they don't"
+  },
+  {
+   "start": 720.56,
+   "end": 722.19,
+   "lang": "en",
+   "speaker": "A",
+   "text": "It's twelve point f"
+  },
+  {
+   "start": 722.94,
+   "end": 731.33,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah the normal batteries would be the cheapest I'd presume then it would actually be the the solar charging ones, um but the"
+  },
+  {
+   "start": 732.32,
+   "end": 748.72,
+   "lang": "en",
+   "speaker": "C",
+   "text": "It's i I think they're not very resistant to dropping, 'cause if you drop stuff yeah if you if you have y the size you'd need to charge a remote wouldn't be that big but I mean if remotes always get thrown around and stuff, so."
+  },
+  {
+   "start": 738.18,
+   "end": 739.03,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Solar."
+  },
+  {
+   "start": 740.27,
+   "end": 741.62,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Well they're not designed"
+  },
+  {
+   "start": 749.78,
+   "end": 751.92,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Y I think yeah, practically."
+  },
+  {
+   "start": 749.85,
+   "end": 751.6,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Practical-wise okay."
+  },
+  {
+   "start": 753.63,
+   "end": 760.82,
+   "lang": "en",
+   "speaker": "C",
+   "text": "I mean calculators you don't really throw around a lot whereas remotes you do, they can t"
+  },
+  {
+   "start": 758.84,
+   "end": 763.6,
+   "lang": "en",
+   "speaker": "B",
+   "text": "You do get a bit of wear but don't calculators have a battery in them as well?"
+  },
+  {
+   "start": 762.37,
+   "end": 767.01,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah they do, they yeah they've got dual things, but they're the batteries are smaller I think."
+  },
+  {
+   "start": 764.26,
+   "end": 765.08,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 764.61,
+   "end": 765.33,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm."
+  },
+  {
+   "start": 767.16,
+   "end": 768.09,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Again it de"
+  },
+  {
+   "start": 767.22,
+   "end": 774.66,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Another question is like sorry. W w which one would last the longest, because we don't want customers to be like you know charging like a mobile phone every day."
+  },
+  {
+   "start": 774.94,
+   "end": 778.34,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Mm. W m yeah so the"
+  },
+  {
+   "start": 775.84,
+   "end": 779.39,
+   "lang": "en",
+   "speaker": "A",
+   "text": "A remote control, like, so we have to s look at the life also."
+  },
+  {
+   "start": 777.08,
+   "end": 777.47,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 779.6,
+   "end": 784.94,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah the the s if you if you had something du uh using the standard"
+  },
+  {
+   "start": 785.98,
+   "end": 797.9,
+   "lang": "en",
+   "speaker": "C",
+   "text": "batteries and the solar charging, um, I don't think you'd I think the it would d well you know how long the standard double A_s would last in or triple A_s would last."
+  },
+  {
+   "start": 796.24,
+   "end": 801.9,
+   "lang": "en",
+   "speaker": "D",
+   "text": "It would just detract from the attractiveness of the of the whole feature, i it's not gonna add anything, okay."
+  },
+  {
+   "start": 799.01,
+   "end": 802.06,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah I think i I think it would, yeah."
+  },
+  {
+   "start": 801.87,
+   "end": 806.34,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay, can we add in uh an attachment to closing feature?"
+  },
+  {
+   "start": 806.93,
+   "end": 807.31,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay."
+  },
+  {
+   "start": 807.97,
+   "end": 814.34,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Can we think about that? 'Cause if we're doing the kinetic thing and it's"
+  },
+  {
+   "start": 811.66,
+   "end": 812.28,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 812.15,
+   "end": 818.56,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Shouldn't we do some market research on that first before we add it in because I I personally right, okay."
+  },
+  {
+   "start": 816.07,
+   "end": 819.17,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Well add it in to think about um"
+  },
+  {
+   "start": 821.86,
+   "end": 822.58,
+   "lang": "en",
+   "speaker": "B",
+   "text": "because,"
+  },
+  {
+   "start": 823.68,
+   "end": 848.21,
+   "lang": "en",
+   "speaker": "B",
+   "text": "where am I? If it is the kinetic thing and it is small and it is portable and it is a different shape and the kinetic is something people don't do kind of we're doing something original and different um but if you wore it if it's something you could just clip on your pocket then you would have that less, you you wouldn't lose it so much."
+  },
+  {
+   "start": 832.45,
+   "end": 833.26,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 846.99,
+   "end": 847.68,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 849.49,
+   "end": 852.77,
+   "lang": "en",
+   "speaker": "B",
+   "text": "But then maybe that's looking at someone who's just sitting on their own rather than"
+  },
+  {
+   "start": 849.82,
+   "end": 850.67,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 854.1,
+   "end": 856.97,
+   "lang": "en",
+   "speaker": "B",
+   "text": "the eternal battle for control of the controls."
+  },
+  {
+   "start": 856.99,
+   "end": 863.73,
+   "lang": "en",
+   "speaker": "D",
+   "text": "It's not something that's come up in any of our uh focus groups and market research, it's not a thing that people are looking for"
+  },
+  {
+   "start": 861.78,
+   "end": 862.4,
+   "lang": "en",
+   "speaker": "B",
+   "text": "No."
+  },
+  {
+   "start": 863.83,
+   "end": 864.71,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 864.82,
+   "end": 866.48,
+   "lang": "en",
+   "speaker": "D",
+   "text": "when we threw it open to the field yeah."
+  },
+  {
+   "start": 865.05,
+   "end": 865.75,
+   "lang": "en",
+   "speaker": "A",
+   "text": "So"
+  },
+  {
+   "start": 867.98,
+   "end": 870.24,
+   "lang": "en",
+   "speaker": "D",
+   "text": "But it's something to put on the side to think about maybe."
+  },
+  {
+   "start": 868.02,
+   "end": 868.57,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Okay."
+  },
+  {
+   "start": 871.58,
+   "end": 872.75,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay, right."
+  },
+  {
+   "start": 872.18,
+   "end": 873.38,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Okay, well I'll move on."
+  },
+  {
+   "start": 873.31,
+   "end": 873.81,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 874.78,
+   "end": 917.71,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Um, my second part of my findings uh the mo most current remotes use this silicone uh P_C_B_ board which pr printed circuit board, which basically has these contacts that are really close together and then when you press down on the rubber button, it'll connect the circuit and each each switch is connected to two uh different legs on the chip and so sends a different message and that then uh gets translated by the chip into a code and then it's fired out of this L_E_D_ in the sequence of l on and off bursts."
+  },
+  {
+   "start": 917.78,
+   "end": 928.08,
+   "lang": "en",
+   "speaker": "B",
+   "text": "What kind of things do we have to consider there? Can we what kind of size, does it come in varying sizes or is it just one size and we would have to fit the design of"
+  },
+  {
+   "start": 925.07,
+   "end": 925.85,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Well"
+  },
+  {
+   "start": 926.86,
+   "end": 930.19,
+   "lang": "en",
+   "speaker": "C",
+   "text": "well this the thi the thing about is um"
+  },
+  {
+   "start": 931.55,
+   "end": 962.22,
+   "lang": "en",
+   "speaker": "C",
+   "text": "they they can be as big or as small as you want them to be because you can you can print circuit board like that that it's it's simply spaced like that so you can have fit the n the size of the nine buttons in. If you if you see how thin the tracks are, you could you could s you could put them virtually right next to each other and have a much smaller switch on each one, if you if you wanted to but um the there is an option to do to do it like that, or you could have some sort of"
+  },
+  {
+   "start": 945.62,
+   "end": 946.08,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 952.0,
+   "end": 952.66,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 963.26,
+   "end": 967.54,
+   "lang": "en",
+   "speaker": "C",
+   "text": "array of switches which I'll speak about in the next bit so that"
+  },
+  {
+   "start": 966.5,
+   "end": 966.94,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 969.06,
+   "end": 1003.2,
+   "lang": "en",
+   "speaker": "C",
+   "text": "And then to uh yeah, so to conserve battery life the remote should be in a standby mode no while not being used. Now what I was thinking about that was 'cause sometimes when y when you have these things, they've got little lights on behind the buttons, so you can see what all the buttons are, like on a mobile phone, they do it more often than on a than on a T_V_ remote, but you could you could have lights behind the buttons and um after like five or ten seconds of not being used I'd have that turned off, if we decided to go for buttons that could light up."
+  },
+  {
+   "start": 987.17,
+   "end": 987.92,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 987.59,
+   "end": 988.55,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1004.71,
+   "end": 1005.61,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay."
+  },
+  {
+   "start": 1004.81,
+   "end": 1023.41,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Um, the case material, I've a been sent what the factory can actually give us, the there's the plastic which I think we were gonna go for anyway as the main case case housing and"
+  },
+  {
+   "start": 1020.82,
+   "end": 1021.47,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1024.51,
+   "end": 1056.62,
+   "lang": "en",
+   "speaker": "C",
+   "text": "the the main problems with the well you could go for wood but I think it would be a bit impractical. Titanium um very expensive just to process, which to make it is expensive, and rubber, well you're saying that people like this uh spongy feel this year, so perhaps uh some something made of rubber, but I was thinking more of the buttons, because the buttons which they've they've said"
+  },
+  {
+   "start": 1038.13,
+   "end": 1038.62,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm."
+  },
+  {
+   "start": 1046.69,
+   "end": 1047.19,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1057.84,
+   "end": 1060.27,
+   "lang": "en",
+   "speaker": "C",
+   "text": "that they've they've put across"
+  },
+  {
+   "start": 1061.26,
+   "end": 1084.88,
+   "lang": "en",
+   "speaker": "C",
+   "text": "are what is used in some stress ball manufacture and it's meant to be anti R_S_I_. I'm no I'm not sure how that would work because surely your fingers would still be moving over the short distances but that's what they said. Um the problem with the casing is that uh there's"
+  },
+  {
+   "start": 1066.03,
+   "end": 1066.77,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Okay."
+  },
+  {
+   "start": 1069.15,
+   "end": 1069.98,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1085.98,
+   "end": 1109.23,
+   "lang": "en",
+   "speaker": "C",
+   "text": "quite um there's quite a few design restrictions that they've got on the shape of the case. If you go for titanium they can only do a standard box shape, whereas if you come to plastic they can they can be a little more they can they can do sort of curved shapes. But whether whether or not because we'd have it in two separate units"
+  },
+  {
+   "start": 1111.03,
+   "end": 1112.75,
+   "lang": "en",
+   "speaker": "C",
+   "text": "for the flip phone."
+  },
+  {
+   "start": 1111.22,
+   "end": 1129.24,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Second thing is yeah and second question is like, a mobile you can change the cover, you call it a skin or whatever. So in this case if you're looking at like a customer can change the colour like from green, parrot green to chilli red or something like that. So is that feature available in like uh titanium, or it's like only specific to plastic or"
+  },
+  {
+   "start": 1111.25,
+   "end": 1112.83,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Hinged, yeah."
+  },
+  {
+   "start": 1115.42,
+   "end": 1116.72,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1120.98,
+   "end": 1121.6,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1122.95,
+   "end": 1124.34,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah I th"
+  },
+  {
+   "start": 1126.34,
+   "end": 1127.14,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Uh."
+  },
+  {
+   "start": 1128.21,
+   "end": 1151.04,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah in in titanium I don't I don't think it would be available at all really, the ju just it w well you could make it available in the titanium, it was just it would be so expensive to buy a new case for it, because of the expense of how much titanium is is it's light and strong but I think it should be left for aircraft design rather than for"
+  },
+  {
+   "start": 1131.99,
+   "end": 1132.55,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1141.15,
+   "end": 1141.5,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1151.91,
+   "end": 1169.92,
+   "lang": "en",
+   "speaker": "D",
+   "text": "It does mark quite easily too if you let it fall. I've got a mobile phone myself which is titanium and it does mark very easily if you drop it. I was just wondering if we make the basic mould out of plastic but have like a rubber cover that goes over, that would give the spongy feel, that also allows us to kind of have different fasciae for the phone."
+  },
+  {
+   "start": 1152.36,
+   "end": 1153.68,
+   "lang": "en",
+   "speaker": "C",
+   "text": "for a remote."
+  },
+  {
+   "start": 1156.7,
+   "end": 1158.61,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah, yeah."
+  },
+  {
+   "start": 1163.82,
+   "end": 1165.31,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Rubber, yeah."
+  },
+  {
+   "start": 1168.61,
+   "end": 1170.13,
+   "lang": "en",
+   "speaker": "C",
+   "text": "And you can peel them off yeah."
+  },
+  {
+   "start": 1169.79,
+   "end": 1170.53,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 1169.83,
+   "end": 1181.1,
+   "lang": "en",
+   "speaker": "B",
+   "text": "So instead of the fascia that comes off being plastic, the fascia that comes off would be the rubber, like those pens that you get with the grip, that you can you can pull that off."
+  },
+  {
+   "start": 1174.29,
+   "end": 1176.05,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Like a rubber sleeve almost, yeah."
+  },
+  {
+   "start": 1175.97,
+   "end": 1176.86,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1175.98,
+   "end": 1177.18,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Something like"
+  },
+  {
+   "start": 1178.1,
+   "end": 1179.12,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1178.3,
+   "end": 1178.74,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1178.61,
+   "end": 1180.99,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Alright. That could be a good idea."
+  },
+  {
+   "start": 1180.96,
+   "end": 1181.3,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1181.21,
+   "end": 1181.66,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Hmm."
+  },
+  {
+   "start": 1181.86,
+   "end": 1184.0,
+   "lang": "en",
+   "speaker": "A",
+   "text": "It could it would be comfortable to hold on also."
+  },
+  {
+   "start": 1182.06,
+   "end": 1182.56,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 1183.68,
+   "end": 1184.14,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm."
+  },
+  {
+   "start": 1184.27,
+   "end": 1188.42,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Very cheap way of changing the look of it and people can just buy a new one if they want to."
+  },
+  {
+   "start": 1184.58,
+   "end": 1185.2,
+   "lang": "en",
+   "speaker": "C",
+   "text": "T"
+  },
+  {
+   "start": 1187.74,
+   "end": 1188.52,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1188.7,
+   "end": 1193.0,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Well that's been really popular with mobile phones so I don't see why not."
+  },
+  {
+   "start": 1191.79,
+   "end": 1193.23,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm. Yeah."
+  },
+  {
+   "start": 1193.58,
+   "end": 1219.62,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Also the just just going back to the interface designs with the buttons, the I kno we were planning to do some sort of touch screen. Now what I was saying before about instead of having you could have just a bare P_C_B_ circuit board and I'm sure you could probably get it in different colours and so just by touching it with your finger it'd make the connection"
+  },
+  {
+   "start": 1195.04,
+   "end": 1195.55,
+   "lang": "en",
+   "speaker": "B",
+   "text": "'Kay."
+  },
+  {
+   "start": 1202.78,
+   "end": 1203.36,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1220.69,
+   "end": 1249.62,
+   "lang": "en",
+   "speaker": "C",
+   "text": "over if you had them close enough, that would be one option. Um the second option th they offer rubber buttons, but I thought that an L_C_D_ type of screen 'cause one they're incredibly thin um and don't take up much space, two they you can have them in a sort of array and you can arrange the buttons on the screen in a sort of set thing and you could have them like a touch"
+  },
+  {
+   "start": 1250.59,
+   "end": 1253.1,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Sorry I didn't get the last part, you're talking of"
+  },
+  {
+   "start": 1250.9,
+   "end": 1251.62,
+   "lang": "en",
+   "speaker": "C",
+   "text": "display."
+  },
+  {
+   "start": 1254.3,
+   "end": 1255.58,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Uh what what"
+  },
+  {
+   "start": 1255.58,
+   "end": 1259.98,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Just what you said I I didn't get the uh meaning of it completely, you're saying like"
+  },
+  {
+   "start": 1258.82,
+   "end": 1278.32,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Oh on the on the L_C_D_ screen you could becau you could fit it the problem with it basically is that it's flat and so you can't do lots of curve curved things with it, but um you can you wouldn't have with the L_C_D_ you'd have the wires coming off, you wouldn't have that with the"
+  },
+  {
+   "start": 1261.17,
+   "end": 1261.62,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Uh-huh."
+  },
+  {
+   "start": 1268.1,
+   "end": 1268.57,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay."
+  },
+  {
+   "start": 1268.37,
+   "end": 1268.99,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1279.38,
+   "end": 1282.18,
+   "lang": "en",
+   "speaker": "C",
+   "text": "with the L_C_D_, you'd only have that with the printed circuit board."
+  },
+  {
+   "start": 1281.21,
+   "end": 1281.89,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1283.18,
+   "end": 1283.92,
+   "lang": "en",
+   "speaker": "C",
+   "text": "With"
+  },
+  {
+   "start": 1284.93,
+   "end": 1286.59,
+   "lang": "en",
+   "speaker": "C",
+   "text": "W also with the"
+  },
+  {
+   "start": 1285.04,
+   "end": 1294.42,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I don't s sorry to interrupt, I don't see why the curved thing is a problem, if we for example had a shell, once we open that yeah, so it'd be f yeah, yeah."
+  },
+  {
+   "start": 1290.45,
+   "end": 1291.42,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1291.26,
+   "end": 1293.14,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Oh it would be flat inside."
+  },
+  {
+   "start": 1292.62,
+   "end": 1311.92,
+   "lang": "en",
+   "speaker": "C",
+   "text": "You could have a flat screen inside, yeah, but I'm just wondering whether we want an L_C_D_ screen inside. It wouldn't be like full colour, it would just be black and white, but there'd be touch touch buttons, so you wouldn't be pressing down on 'em, w or we could have rubber buttons which are made of this material which is anti-R_S_I_."
+  },
+  {
+   "start": 1294.32,
+   "end": 1294.74,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm."
+  },
+  {
+   "start": 1295.89,
+   "end": 1297.34,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Have I misunderstood you?"
+  },
+  {
+   "start": 1302.11,
+   "end": 1302.54,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1305.75,
+   "end": 1306.31,
+   "lang": "en",
+   "speaker": "A",
+   "text": "'Kay."
+  },
+  {
+   "start": 1311.84,
+   "end": 1312.31,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1312.05,
+   "end": 1327.65,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I think it would be good to have a contrast between, if the whole thing is gonna be this rubber thing it would be good to open it up and see something quite fancy looking inside. Now how would you distinguish, if you had it bare, how would you distinguish where you had to press, I mean"
+  },
+  {
+   "start": 1316.03,
+   "end": 1316.94,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Is rubber."
+  },
+  {
+   "start": 1320.94,
+   "end": 1321.48,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 1321.38,
+   "end": 1321.92,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Mm."
+  },
+  {
+   "start": 1328.32,
+   "end": 1331.53,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah I hadn't I hadn't really thought of that to be honest."
+  },
+  {
+   "start": 1328.38,
+   "end": 1329.66,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Uh"
+  },
+  {
+   "start": 1329.62,
+   "end": 1345.44,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I just had another idea, I don't know if it helps with that, but just to do with the R_S_I_. Is it possible, just as an option, when we open it up, people can use their fingers to press the button, or we have inside like a small pointer thing when people want to. Mm."
+  },
+  {
+   "start": 1341.28,
+   "end": 1350.48,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah you could, you could have some sort of stylus that you could pull out but I I think they could get a bit easily lost, 'cause I had"
+  },
+  {
+   "start": 1342.97,
+   "end": 1344.88,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Like one of the palm pop thing."
+  },
+  {
+   "start": 1349.38,
+   "end": 1352.58,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah. They're easy to replace as well, cheap."
+  },
+  {
+   "start": 1349.5,
+   "end": 1367.49,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Absolutely, f for somebody who very often, if he would a person who switches channels very often or does use a particular function very often will find it very irritating to use a and he might spoil the touch-pad very fast compared to a button like, if you keep punching with an pointer or whatever."
+  },
+  {
+   "start": 1350.39,
+   "end": 1352.41,
+   "lang": "en",
+   "speaker": "B",
+   "text": "It would have to be attached."
+  },
+  {
+   "start": 1353.0,
+   "end": 1353.56,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Hmm."
+  },
+  {
+   "start": 1357.27,
+   "end": 1357.95,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1360.11,
+   "end": 1360.82,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1360.84,
+   "end": 1361.38,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1364.48,
+   "end": 1365.01,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1364.82,
+   "end": 1365.24,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1367.66,
+   "end": 1368.75,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah okay."
+  },
+  {
+   "start": 1368.0,
+   "end": 1373.98,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah just a thought they wouldn't actually need one and they could use anything they've got, couldn't they? A pencil or a pen, so they wouldn't really need a"
+  },
+  {
+   "start": 1374.05,
+   "end": 1381.59,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay, we'll talk about that so if you finish your and we'll come back to that. That's you, right okay."
+  },
+  {
+   "start": 1377.34,
+   "end": 1380.96,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah that's yeah that that's the end of m my"
+  },
+  {
+   "start": 1380.12,
+   "end": 1393.38,
+   "lang": "en",
+   "speaker": "A",
+   "text": "And just one small question before like you are, regarding the circuit, since we are hav having a flip-top, we can customise the two circuits for different type of buttons like we are keeping the standard buttons on the top and the more complex buttons under this thing, so we can divide the circuit like you know."
+  },
+  {
+   "start": 1385.0,
+   "end": 1385.75,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1389.66,
+   "end": 1390.74,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Uh yeah."
+  },
+  {
+   "start": 1392.82,
+   "end": 1411.15,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah yeah that that would be fairly simple, I mean you'd you'd actually have two separate you'd have two separate circuit boards but they'd be joined by wires or like some cabling between them, 'cause in the in the actual flip bit you'd have some linking."
+  },
+  {
+   "start": 1395.66,
+   "end": 1396.46,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1398.56,
+   "end": 1399.08,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay."
+  },
+  {
+   "start": 1403.53,
+   "end": 1404.3,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay."
+  },
+  {
+   "start": 1406.16,
+   "end": 1406.75,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1412.72,
+   "end": 1428.15,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I'll just raise another point while it occurs to me, it kind of applies to both our designers here, so I'm not sure how it would fit in. If we flip open, now you know how you've got some mirrors in nightclubs that are mirrors when you turn to them and you turn away and it gives like an advertising display, you seen those?"
+  },
+  {
+   "start": 1417.84,
+   "end": 1418.44,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Mm."
+  },
+  {
+   "start": 1427.9,
+   "end": 1428.51,
+   "lang": "en",
+   "speaker": "B",
+   "text": "No."
+  },
+  {
+   "start": 1428.91,
+   "end": 1441.06,
+   "lang": "en",
+   "speaker": "D",
+   "text": "And they kind of respond to the turn of your body. Is it possible that when we open our flip-top shell it's a little compact mirror and when you press a button it then goes onto the phone display th uh the remote control display thing."
+  },
+  {
+   "start": 1441.28,
+   "end": 1444.99,
+   "lang": "en",
+   "speaker": "B",
+   "text": "We're marketing to guys as much as we are to women."
+  },
+  {
+   "start": 1441.7,
+   "end": 1442.51,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Um."
+  },
+  {
+   "start": 1445.31,
+   "end": 1446.55,
+   "lang": "en",
+   "speaker": "D",
+   "text": "They don't look at themselves?"
+  },
+  {
+   "start": 1447.71,
+   "end": 1448.47,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Just a thought."
+  },
+  {
+   "start": 1448.49,
+   "end": 1457.72,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Well it's a remote control, you were sitting watching T_V_ are you gonna want to sort of open it and say oh shit I should go and have a shower and do my hair before I put the T_"
+  },
+  {
+   "start": 1451.06,
+   "end": 1451.62,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 1453.09,
+   "end": 1466.14,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I know what you mean, it's with us using the ideas for a mobile ph it's with us using the ideas for mobile phones I kinda got sidetracked onto that I think, okay. trying to think of other features we can build in that wouldn't cost too much but maybe we'll leave that one on the side."
+  },
+  {
+   "start": 1459.37,
+   "end": 1461.55,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah, no, no."
+  },
+  {
+   "start": 1464.61,
+   "end": 1465.17,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm."
+  },
+  {
+   "start": 1466.08,
+   "end": 1466.9,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1467.25,
+   "end": 1468.08,
+   "lang": "en",
+   "speaker": "D",
+   "text": "'Kay."
+  },
+  {
+   "start": 1467.47,
+   "end": 1467.95,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 1469.36,
+   "end": 1482.34,
+   "lang": "en",
+   "speaker": "C",
+   "text": "I mean you can you could do it, you could have a 'cause if you if you just put the full charge through an L_C_D_ display it'll completely blank it out, but I don't know if you could get any mirror effect on it, I'm not sure about"
+  },
+  {
+   "start": 1478.45,
+   "end": 1478.85,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1481.14,
+   "end": 1485.9,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Oh I think forget about the mirror that was just a very quick passing thought yeah."
+  },
+  {
+   "start": 1482.83,
+   "end": 1486.0,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay, okay."
+  },
+  {
+   "start": 1485.58,
+   "end": 1487.52,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay, uh"
+  },
+  {
+   "start": 1489.78,
+   "end": 1521.2,
+   "lang": "en",
+   "speaker": "A",
+   "text": "would like to share something which I did here. First thing is uh basically on design we just took the input from the previous meeting, especially from the marketing and industrial design, to check on the customer needs and feasibility. Second is we checked into competitors, the picture here shows one of the standard models offered by competitors here. So y you generally see there's not much of variety and like marketing team said uh, people need trendy, they are bored of black and white. So you generally see rectangular shape, very monotonous kind of designs here."
+  },
+  {
+   "start": 1510.14,
+   "end": 1510.87,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm."
+  },
+  {
+   "start": 1515.7,
+   "end": 1516.11,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1522.9,
+   "end": 1529.09,
+   "lang": "en",
+   "speaker": "A",
+   "text": "And uh second thing is there's too much of confusion here. No particular remote is standard."
+  },
+  {
+   "start": 1527.1,
+   "end": 1527.9,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm."
+  },
+  {
+   "start": 1531.15,
+   "end": 1532.86,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Like, some some people have a"
+  },
+  {
+   "start": 1534.42,
+   "end": 1537.49,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Here you see this? This is on a I I"
+  },
+  {
+   "start": 1538.56,
+   "end": 1548.02,
+   "lang": "en",
+   "speaker": "A",
+   "text": "I found th that uh only common feature is the ch uh channel control and uh volume control, rest other buttons, they are in a very disorganized and they are not consistent th with other models and all."
+  },
+  {
+   "start": 1548.18,
+   "end": 1548.75,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 1549.26,
+   "end": 1565.05,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay, and second as already discussed with William, we are going to have m maybe a G_ G_U_I_ interface in the f in the middle of the flip-top and g graphic user interface basically which is what we d do in computer, have icons or touch pad or whatever, which is"
+  },
+  {
+   "start": 1555.89,
+   "end": 1556.73,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1557.57,
+   "end": 1559.01,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Sorry what does that stand for?"
+  },
+  {
+   "start": 1558.22,
+   "end": 1559.38,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Which means"
+  },
+  {
+   "start": 1560.23,
+   "end": 1560.86,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Okay."
+  },
+  {
+   "start": 1562.29,
+   "end": 1562.93,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1564.16,
+   "end": 1569.94,
+   "lang": "en",
+   "speaker": "C",
+   "text": "If you if yeah if you have like buttons that appear on the screen in this L_C_D_ screen."
+  },
+  {
+   "start": 1568.83,
+   "end": 1575.6,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Like you have on a l uh icons or something y you have is a good example of G_U_I_ graphic user interface."
+  },
+  {
+   "start": 1574.82,
+   "end": 1575.74,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1575.49,
+   "end": 1575.97,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 1576.32,
+   "end": 1579.22,
+   "lang": "en",
+   "speaker": "A",
+   "text": "So basically not point or click"
+  },
+  {
+   "start": 1580.1,
+   "end": 1598.18,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Press any particular device, he just has to click on that particular icon to simplify. And on the top m repetitive buttons which are like volume or channel changing and all could be on the pointing device, that means the use of button. So he need not use a pointer to keep changing the channel if a person is frequent surfer."
+  },
+  {
+   "start": 1582.96,
+   "end": 1583.33,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 1598.18,
+   "end": 1598.69,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1598.7,
+   "end": 1607.84,
+   "lang": "en",
+   "speaker": "A",
+   "text": "So we are having a combination of boards, so f on the s simpler board, on the top we have this button, rubber buttons, to keep frequently changing the channels."
+  },
+  {
+   "start": 1609.44,
+   "end": 1614.32,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Can we swap that round so th that the ones that we use all the time are on the bottom part?"
+  },
+  {
+   "start": 1615.62,
+   "end": 1617.5,
+   "lang": "en",
+   "speaker": "B",
+   "text": "'Cause if you're thinking about holding it"
+  },
+  {
+   "start": 1618.75,
+   "end": 1623.1,
+   "lang": "en",
+   "speaker": "B",
+   "text": "you would be using your thumbs to press, just like a mobile phone."
+  },
+  {
+   "start": 1622.33,
+   "end": 1623.58,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1622.35,
+   "end": 1624.93,
+   "lang": "en",
+   "speaker": "D",
+   "text": "No you'd hold it you don't if you flip it open then you'd be"
+  },
+  {
+   "start": 1627.01,
+   "end": 1636.87,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Wouldn't you? Isn't that the idea? You us if we just use the shell as an example again, you open that, you've got your L_C_D_ display there and you've got the buttons there so you're holding it in the palm of your hand, yeah."
+  },
+  {
+   "start": 1630.48,
+   "end": 1631.47,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah."
+  },
+  {
+   "start": 1635.06,
+   "end": 1638.16,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah, yeah but you can do it with your thumb li"
+  },
+  {
+   "start": 1635.31,
+   "end": 1652.47,
+   "lang": "en",
+   "speaker": "B",
+   "text": "That's what I was just saying, and then have the and then have the L_C_D_ at the top and then be able to touch that for the other controls, so have the um the volume and the programme, things like that, on the lower side. Okay."
+  },
+  {
+   "start": 1636.58,
+   "end": 1637.39,
+   "lang": "en",
+   "speaker": "A",
+   "text": "But"
+  },
+  {
+   "start": 1640.58,
+   "end": 1641.04,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1640.74,
+   "end": 1641.25,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1642.75,
+   "end": 1643.22,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1643.42,
+   "end": 1644.99,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay and you mean to the"
+  },
+  {
+   "start": 1649.39,
+   "end": 1651.68,
+   "lang": "en",
+   "speaker": "A",
+   "text": "And the lower distance. Oh f perfect."
+  },
+  {
+   "start": 1651.66,
+   "end": 1652.14,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Hmm."
+  },
+  {
+   "start": 1655.6,
+   "end": 1658.01,
+   "lang": "en",
+   "speaker": "A",
+   "text": "So the findings are too many cluttered buttons."
+  },
+  {
+   "start": 1658.61,
+   "end": 1669.18,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Repetition of certain but buttons which I already explained, example the volume and channel control buttons. All are confusing and in inconsistent. Okay we had a latest finding of voice recognition, there was a mail"
+  },
+  {
+   "start": 1670.35,
+   "end": 1706.67,
+   "lang": "en",
+   "speaker": "A",
+   "text": "which mentions that our division has developed a new speech recognition s feature. We have to check into the for financial f feasibility whether we can incorporate it this at a low cost, but for like we had g um s response from the customers that they would like to have the feature of finding it. So it could be like, where is the remote, and the remote answers I am here. Some kind of thing or it gives a b bleep sound or some kind of sound and if this can be incorporated this would be more uh you can say trendy also? And technologically innovative also."
+  },
+  {
+   "start": 1690.02,
+   "end": 1690.72,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1694.74,
+   "end": 1695.25,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1699.39,
+   "end": 1699.89,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1708.24,
+   "end": 1708.94,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1708.72,
+   "end": 1712.46,
+   "lang": "en",
+   "speaker": "A",
+   "text": "So we we can check into the financial feasibility of incorporating this."
+  },
+  {
+   "start": 1716.21,
+   "end": 1731.95,
+   "lang": "en",
+   "speaker": "A",
+   "text": "My personal preferences would be like, as already uh marketing department, they want something to do with fruit so I wouldn't say the design should be like a fruit, but yeah we can take inspiration from fruit colours, like the vibrant colours, uh red chilli uh"
+  },
+  {
+   "start": 1729.02,
+   "end": 1729.66,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1730.61,
+   "end": 1731.49,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1732.99,
+   "end": 1742.43,
+   "lang": "en",
+   "speaker": "A",
+   "text": "tomato red or whatever and second thing is cer certain standard buttons we should have, like for example, i if you see the previous slide uh"
+  },
+  {
+   "start": 1743.52,
+   "end": 1745.37,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Well, yeah we"
+  },
+  {
+   "start": 1745.93,
+   "end": 1757.23,
+   "lang": "en",
+   "speaker": "A",
+   "text": "I think most of the users would now be well acquainted with this cer central pattern, here, so we we we would not change h that particular pattern because i this is the most consistent thing in all remote controls."
+  },
+  {
+   "start": 1751.06,
+   "end": 1751.66,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1757.38,
+   "end": 1760.24,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I can't see that, is that play and stop and things?"
+  },
+  {
+   "start": 1760.14,
+   "end": 1771.1,
+   "lang": "en",
+   "speaker": "A",
+   "text": "This is central one, the one you yeah volume and channel. So keep that m that standardised because that's the most common feature across all models, if you look at all the models, it's here."
+  },
+  {
+   "start": 1761.42,
+   "end": 1763.55,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Or is that volume and channel?"
+  },
+  {
+   "start": 1773.63,
+   "end": 1774.24,
+   "lang": "en",
+   "speaker": "A",
+   "text": "This"
+  },
+  {
+   "start": 1776.94,
+   "end": 1777.62,
+   "lang": "en",
+   "speaker": "A",
+   "text": "and"
+  },
+  {
+   "start": 1780.75,
+   "end": 1781.63,
+   "lang": "en",
+   "speaker": "A",
+   "text": "voice recognition."
+  },
+  {
+   "start": 1782.64,
+   "end": 1783.44,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 1787.44,
+   "end": 1790.86,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Right. Okay. Um"
+  },
+  {
+   "start": 1791.9,
+   "end": 1798.46,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I'm not sure how long we've got left, but we need to make a decision about um"
+  },
+  {
+   "start": 1800.92,
+   "end": 1802.05,
+   "lang": "en",
+   "speaker": "B",
+   "text": "the things we've discussed."
+  },
+  {
+   "start": 1802.64,
+   "end": 1806.51,
+   "lang": "en",
+   "speaker": "B",
+   "text": "So, we agree on"
+  },
+  {
+   "start": 1807.79,
+   "end": 1809.02,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Do we agree on the battery?"
+  },
+  {
+   "start": 1809.78,
+   "end": 1810.47,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Kinetic?"
+  },
+  {
+   "start": 1809.87,
+   "end": 1810.94,
+   "lang": "en",
+   "speaker": "A",
+   "text": "The kinetic."
+  },
+  {
+   "start": 1810.9,
+   "end": 1826.93,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah. Um, that means that there's no function for li the port, you know that it sits in, then pressing the button then having so we could incorporate voice recognition for the finding it. It's a bi i it's like a g it's a gadget, it's a"
+  },
+  {
+   "start": 1811.36,
+   "end": 1812.13,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1819.89,
+   "end": 1820.51,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Mm."
+  },
+  {
+   "start": 1822.93,
+   "end": 1824.74,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah I think I mean if"
+  },
+  {
+   "start": 1826.4,
+   "end": 1848.0,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah it is it is qui it's quite a cool feature to have and also if they've got it if they've got these parts already in stock, then it won't be cheap to re-manufacture them, uh or it will be cheap sorry to re-manufacture them. So do you reckon that's a good idea that, where's the remote, I'm here thing? I think that would be quite fun."
+  },
+  {
+   "start": 1827.93,
+   "end": 1829.22,
+   "lang": "en",
+   "speaker": "B",
+   "text": "selling point."
+  },
+  {
+   "start": 1835.18,
+   "end": 1835.54,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1847.5,
+   "end": 1847.98,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1847.98,
+   "end": 1849.26,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I think the only"
+  },
+  {
+   "start": 1850.29,
+   "end": 1867.16,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I think the only pitfall that we would have would be how much it's going to cost if that means we have to cut down somewhere else, but I think pretty much we've used cheap relatively cheap and simple things. The L_C_D_'s not cheap."
+  },
+  {
+   "start": 1855.03,
+   "end": 1855.62,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1863.11,
+   "end": 1863.77,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1864.07,
+   "end": 1864.67,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 1864.85,
+   "end": 1876.88,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah to s th well it's it's not as expensive as it would be if it was full colour 'cause if we've just got a black and white one, I mean they use them in calculators so."
+  },
+  {
+   "start": 1866.51,
+   "end": 1867.3,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Hmm."
+  },
+  {
+   "start": 1876.5,
+   "end": 1877.81,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah, okay."
+  },
+  {
+   "start": 1877.44,
+   "end": 1879.36,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Maybe we could start with the black and white."
+  },
+  {
+   "start": 1879.89,
+   "end": 1880.46,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1880.67,
+   "end": 1883.23,
+   "lang": "en",
+   "speaker": "A",
+   "text": "That that way we could upgrade later."
+  },
+  {
+   "start": 1880.68,
+   "end": 1882.0,
+   "lang": "en",
+   "speaker": "B",
+   "text": "And you could yeah."
+  },
+  {
+   "start": 1883.68,
+   "end": 1889.78,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah, we talked about kinetic charging, we've deci seem to have decided on that, did we decide on double A_ or triple A_ batteries?"
+  },
+  {
+   "start": 1884.06,
+   "end": 1884.61,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 1884.89,
+   "end": 1885.28,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm."
+  },
+  {
+   "start": 1890.21,
+   "end": 1890.59,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm."
+  },
+  {
+   "start": 1890.51,
+   "end": 1892.32,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Well you cou um."
+  },
+  {
+   "start": 1891.34,
+   "end": 1893.45,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Do you want like a back-up?"
+  },
+  {
+   "start": 1893.84,
+   "end": 1900.94,
+   "lang": "en",
+   "speaker": "D",
+   "text": "No, one of the decisions we had to make was whether we had double A_ or triple A_ batteries 'cause they've still got to be charged this way haven't they? I oh I see."
+  },
+  {
+   "start": 1899.03,
+   "end": 1905.06,
+   "lang": "en",
+   "speaker": "C",
+   "text": "K no the kinetic ones come come with um a sort of w watch a battery that goes in a watch."
+  },
+  {
+   "start": 1905.04,
+   "end": 1906.16,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Right, okay, got you."
+  },
+  {
+   "start": 1906.13,
+   "end": 1908.58,
+   "lang": "en",
+   "speaker": "C",
+   "text": "So it's a lot smaller, so it would"
+  },
+  {
+   "start": 1908.38,
+   "end": 1910.75,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Got you on that okay, didn't realise."
+  },
+  {
+   "start": 1912.67,
+   "end": 1920.76,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Um, okay so we've got battery. The inside components is pretty standardised across the board isn't it?"
+  },
+  {
+   "start": 1921.06,
+   "end": 1921.84,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1921.7,
+   "end": 1922.31,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 1921.82,
+   "end": 1925.95,
+   "lang": "en",
+   "speaker": "B",
+   "text": "So there's not a really a decision to be made there, um."
+  },
+  {
+   "start": 1928.06,
+   "end": 1931.28,
+   "lang": "en",
+   "speaker": "B",
+   "text": "The buttons what did you give us as our"
+  },
+  {
+   "start": 1934.64,
+   "end": 1937.16,
+   "lang": "en",
+   "speaker": "B",
+   "text": "The bare-board L_C_D_ or"
+  },
+  {
+   "start": 1936.34,
+   "end": 1947.74,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah the well I think were we're going for the L_C_D_ on that one, on the buttons, on the on the on on the top one we're gonna yeah."
+  },
+  {
+   "start": 1944.46,
+   "end": 1949.49,
+   "lang": "en",
+   "speaker": "B",
+   "text": "On the top one okay you've got the touch okay and then"
+  },
+  {
+   "start": 1950.02,
+   "end": 1955.18,
+   "lang": "en",
+   "speaker": "C",
+   "text": "On the bottom we were gonna have the rubber, the rubber ones, the anti-R_S_I_ ones."
+  },
+  {
+   "start": 1956.26,
+   "end": 1958.53,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay, okay."
+  },
+  {
+   "start": 1959.5,
+   "end": 1961.8,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Sorry could you repeat that last part?"
+  },
+  {
+   "start": 1961.76,
+   "end": 1970.48,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Um, okay on we've got the flip the flip-screen, the top one is gonna be the L_C_D_ and the bottom one is gonna be the rubberised buttons."
+  },
+  {
+   "start": 1963.47,
+   "end": 1964.69,
+   "lang": "en",
+   "speaker": "D",
+   "text": "L_C_D_ screen."
+  },
+  {
+   "start": 1965.51,
+   "end": 1966.13,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1969.81,
+   "end": 1970.45,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Okay."
+  },
+  {
+   "start": 1971.42,
+   "end": 1972.94,
+   "lang": "en",
+   "speaker": "A",
+   "text": "And for the sorry."
+  },
+  {
+   "start": 1972.92,
+   "end": 1974.41,
+   "lang": "en",
+   "speaker": "B",
+   "text": "No, it's fine."
+  },
+  {
+   "start": 1977.07,
+   "end": 1987.86,
+   "lang": "en",
+   "speaker": "A",
+   "text": "For the body design I think plastic, uh w yeah we could use the body, for the inside and uh rubber as a padding or for the grip, something like to add to the design."
+  },
+  {
+   "start": 1979.92,
+   "end": 1981.9,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Plastic, okay."
+  },
+  {
+   "start": 1981.38,
+   "end": 1983.0,
+   "lang": "en",
+   "speaker": "B",
+   "text": "For the inside."
+  },
+  {
+   "start": 1983.33,
+   "end": 1983.84,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 1987.78,
+   "end": 1988.14,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 1988.18,
+   "end": 1994.35,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm, so we decided on a rubber casing for the plastic shell, a variety of designs, okay."
+  },
+  {
+   "start": 1991.7,
+   "end": 1992.83,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Plast right."
+  },
+  {
+   "start": 1992.01,
+   "end": 1994.3,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Oh I think so, I think so."
+  },
+  {
+   "start": 1995.73,
+   "end": 2008.38,
+   "lang": "en",
+   "speaker": "D",
+   "text": "and it is just uh although it's rubberised and spongy, apart from that we're just going to go for sort of vegetable and fruit colours, we're not gonna try and make it actually a vegetable or fruit design or anything else, like a shell that we discussed, just go for the colours."
+  },
+  {
+   "start": 2006.03,
+   "end": 2006.91,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Mm no."
+  },
+  {
+   "start": 2006.51,
+   "end": 2036.66,
+   "lang": "en",
+   "speaker": "B",
+   "text": "No I think I we don't wanna be tacky if we've got a kind of different shape anyway um the fact the m the material that we would be using would be cheap, so we could make it red, we could make it um psychedelic, you know, we could make it black and white zebra stripes, but that's not really what we're focusing on, what we're focusing on is the m you know yes. So we could just pick anything."
+  },
+  {
+   "start": 2008.14,
+   "end": 2008.83,
+   "lang": "en",
+   "speaker": "A",
+   "text": "It's"
+  },
+  {
+   "start": 2010.02,
+   "end": 2010.99,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Okay."
+  },
+  {
+   "start": 2024.94,
+   "end": 2025.49,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 2031.78,
+   "end": 2032.32,
+   "lang": "en",
+   "speaker": "D",
+   "text": "The feel."
+  },
+  {
+   "start": 2034.43,
+   "end": 2035.38,
+   "lang": "en",
+   "speaker": "D",
+   "text": "'Kay."
+  },
+  {
+   "start": 2036.82,
+   "end": 2056.69,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm. Is that going to be this image I've got in my head of something kind of shaped like that, maybe about that size, made of plastic, fits into the palm of the hand, rubberised cover that's spongy. Is that really going to fit fancy look and feel which was the major thing that people wanted, market research, is that fancy?"
+  },
+  {
+   "start": 2054.88,
+   "end": 2057.39,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Uh I it's different."
+  },
+  {
+   "start": 2054.93,
+   "end": 2083.61,
+   "lang": "en",
+   "speaker": "B",
+   "text": "It's just different it's just different from everything else and I mean, I'm trying to imagine um clean looking houses, sort of beige and black um so you either want something that goes with that, which is what's on the market anyway, or you want something that contrasts as you know like you get clocks now that are more of a talking point than an actual clock because they're so interesting and"
+  },
+  {
+   "start": 2063.39,
+   "end": 2064.27,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 2066.67,
+   "end": 2067.15,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 2071.09,
+   "end": 2072.69,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm. Mm-hmm."
+  },
+  {
+   "start": 2075.4,
+   "end": 2075.88,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Mm."
+  },
+  {
+   "start": 2078.46,
+   "end": 2078.86,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 2080.53,
+   "end": 2081.24,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 2082.11,
+   "end": 2094.64,
+   "lang": "en",
+   "speaker": "D",
+   "text": "I'm just kind of pushing at that to see if you came out with anything else, but I mean I totally agree. We looked at those remotes, I mean they are kind of anonymous, very similar looking things. This would definitely be different enough, I just wondered if anybody could come up with something even more"
+  },
+  {
+   "start": 2090.13,
+   "end": 2090.69,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm."
+  },
+  {
+   "start": 2094.26,
+   "end": 2107.09,
+   "lang": "en",
+   "speaker": "B",
+   "text": "And you would just have an across the b you would have so many different options that you could do, you could have um a plain black one, you could have sparkly pink glittery ones for your little"
+  },
+  {
+   "start": 2105.24,
+   "end": 2117.98,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Well the thing is the rubberised covers are going to be s relatively cheap to produce, that if in a year's time we we get feedback from the design fairs that show something else is coming I mean it's so easy for us to just produce that and it can be slipped on, which is another beauty of it."
+  },
+  {
+   "start": 2113.84,
+   "end": 2114.62,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm."
+  },
+  {
+   "start": 2115.97,
+   "end": 2132.16,
+   "lang": "en",
+   "speaker": "B",
+   "text": "And ones tha ones that have rubbery spikes y you know, you could just go so far with it, like a puffer fish, you could just, you could take it wherever, so I think that's quite a flexible thing."
+  },
+  {
+   "start": 2116.26,
+   "end": 2117.04,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Right."
+  },
+  {
+   "start": 2121.14,
+   "end": 2122.51,
+   "lang": "en",
+   "speaker": "C",
+   "text": "You can you can just"
+  },
+  {
+   "start": 2122.86,
+   "end": 2125.11,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Acupressure, you could talk of acupressures."
+  },
+  {
+   "start": 2123.54,
+   "end": 2124.5,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 2128.57,
+   "end": 2129.23,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 2130.8,
+   "end": 2141.06,
+   "lang": "en",
+   "speaker": "A",
+   "text": "And finally the body should be retouchable, may maybe ch you can change the body or the case casing the case outside, it should be moulded it with the design in such a way you can change it every time."
+  },
+  {
+   "start": 2136.67,
+   "end": 2137.23,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yes."
+  },
+  {
+   "start": 2141.3,
+   "end": 2151.62,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah, yeah j with these rubber these rubberised ca not the actual uh plastic outside case, just the rubber thing that goes round the outside."
+  },
+  {
+   "start": 2145.16,
+   "end": 2145.88,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm."
+  },
+  {
+   "start": 2148.08,
+   "end": 2149.93,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Okay. The rubber."
+  },
+  {
+   "start": 2149.6,
+   "end": 2149.97,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Yeah."
+  },
+  {
+   "start": 2152.24,
+   "end": 2157.28,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay we've got five minutes, um, or that might've been up for a while."
+  },
+  {
+   "start": 2156.25,
+   "end": 2157.12,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Fine."
+  },
+  {
+   "start": 2156.42,
+   "end": 2178.56,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm, so can I just recap uh Sarah, for the decisions that we've made, kinetic charging, the watch-type batteries, um L_C_D_ display on th the top side of the flip top, rubberised buttons on the bottom side, we're gonna use fruit and vegetable colours for the rubber cover, the case itself is plastic. That's how far we've got, what else do we have to add to our decisions here?"
+  },
+  {
+   "start": 2159.23,
+   "end": 2159.52,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 2180.22,
+   "end": 2189.95,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Fine, uh we were talking of voice recognition also because that we are not for how to look it uh remote control if it's lost."
+  },
+  {
+   "start": 2183.46,
+   "end": 2184.15,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm."
+  },
+  {
+   "start": 2183.76,
+   "end": 2184.22,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 2190.72,
+   "end": 2193.29,
+   "lang": "en",
+   "speaker": "A",
+   "text": "So, are we looking at voice?"
+  },
+  {
+   "start": 2190.93,
+   "end": 2196.42,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yes, it was just, there was just a cost issue with that, but it's a good idea we just need to check on the cost, is that right?"
+  },
+  {
+   "start": 2195.24,
+   "end": 2199.87,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Or maybe like uh William was suggesting in the last thing some devices you put on key chains."
+  },
+  {
+   "start": 2201.26,
+   "end": 2203.38,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Oh yeah, yeah the whistle ones, yeah."
+  },
+  {
+   "start": 2201.34,
+   "end": 2208.19,
+   "lang": "en",
+   "speaker": "A",
+   "text": "For l yeah, the whistle. So we can if financially voice recognition is not feasible we could go for a whistle."
+  },
+  {
+   "start": 2216.16,
+   "end": 2219.68,
+   "lang": "en",
+   "speaker": "D",
+   "text": "And incorporating the company logo?"
+  },
+  {
+   "start": 2220.28,
+   "end": 2220.88,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yep."
+  },
+  {
+   "start": 2221.25,
+   "end": 2222.16,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Have you"
+  },
+  {
+   "start": 2222.5,
+   "end": 2225.44,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Uh sorry I didn't mention this, but we'll be incorporating in the design."
+  },
+  {
+   "start": 2225.68,
+   "end": 2235.99,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Mm. 'Cause I took it from the feedback you gave in the last meeting from y from y your report, it's not just a case of having a little R_R_ hidden somewhere, they do want it to be obvious that it's our product don't they?"
+  },
+  {
+   "start": 2226.48,
+   "end": 2227.35,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  },
+  {
+   "start": 2235.47,
+   "end": 2260.92,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Well they do, but I think we can you could well it is, it is, I think you just address that with um advertising. Um, you associate the name with the individual product that it is and that does the work for you. Obviously it'll have a logo on it just like everything, but everything else has a logo on it. The point is that it's got to stand out somehow differently but I think it does, without that so I'm not worried about that."
+  },
+  {
+   "start": 2238.35,
+   "end": 2241.4,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Since it's the only one of its kind on the market it's obviously gonna be ours."
+  },
+  {
+   "start": 2244.24,
+   "end": 2244.75,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Yeah."
+  },
+  {
+   "start": 2247.73,
+   "end": 2248.4,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 2248.45,
+   "end": 2248.96,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Okay."
+  },
+  {
+   "start": 2256.9,
+   "end": 2257.58,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Okay."
+  },
+  {
+   "start": 2260.26,
+   "end": 2268.69,
+   "lang": "en",
+   "speaker": "D",
+   "text": "Okay. Did we I know at the last meeting we spoke about a beeper, I think that was you talked about a beeper for a location, have we just rejected that in favour of voice recognition then?"
+  },
+  {
+   "start": 2268.46,
+   "end": 2276.47,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Depending on how i I mean we've got this memo saying that it's something that the company's looking into, so"
+  },
+  {
+   "start": 2269.73,
+   "end": 2271.9,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah, depending on the expense of it."
+  },
+  {
+   "start": 2276.06,
+   "end": 2278.24,
+   "lang": "en",
+   "speaker": "C",
+   "text": "And they've got in stock, so yeah."
+  },
+  {
+   "start": 2277.48,
+   "end": 2293.28,
+   "lang": "en",
+   "speaker": "B",
+   "text": "um that seems to make sense, but if it turns out that it's hugely expensive we'd have to cut down somewhere else, then it's worth thinking about. But I think we'll find out more about cost afterwards. Right I'm going to wrap it up there."
+  },
+  {
+   "start": 2288.57,
+   "end": 2289.19,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Yeah."
+  },
+  {
+   "start": 2291.33,
+   "end": 2291.99,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Okay."
+  },
+  {
+   "start": 2295.02,
+   "end": 2295.93,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Fine."
+  },
+  {
+   "start": 2296.29,
+   "end": 2303.6,
+   "lang": "en",
+   "speaker": "B",
+   "text": "I got a end meeting now message on my mo yeah so. Um"
+  },
+  {
+   "start": 2298.36,
+   "end": 2299.16,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Mm-hmm."
+  },
+  {
+   "start": 2299.33,
+   "end": 2300.04,
+   "lang": "en",
+   "speaker": "C",
+   "text": "Did it?"
+  },
+  {
+   "start": 2299.99,
+   "end": 2301.05,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Yeah."
+  },
+  {
+   "start": 2302.26,
+   "end": 2303.6,
+   "lang": "en",
+   "speaker": "A",
+   "text": "Again a questionnaire huh?"
+  },
+  {
+   "start": 2305.1,
+   "end": 2312.67,
+   "lang": "en",
+   "speaker": "B",
+   "text": "so I think we've probably got it says, closing we have forty minutes so I um think we've probably got about that time before we come back."
+  },
+  {
+   "start": 2306.67,
+   "end": 2307.79,
+   "lang": "en",
+   "speaker": "D",
+   "text": "You got to go through."
+  },
+  {
+   "start": 2314.34,
+   "end": 2315.27,
+   "lang": "en",
+   "speaker": "B",
+   "text": "It's either that or"
+  },
+  {
+   "start": 2316.22,
+   "end": 2321.4,
+   "lang": "en",
+   "speaker": "B",
+   "text": "we only had forty minutes to discuss what we just discussed and don't know how long that took."
+  },
+  {
+   "start": 2321.1,
+   "end": 2324.28,
+   "lang": "en",
+   "speaker": "A",
+   "text": "I think we are pretty going in a clear direction now."
+  },
+  {
+   "start": 2325.7,
+   "end": 2326.82,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Is everyone happy?"
+  },
+  {
+   "start": 2328.67,
+   "end": 2331.82,
+   "lang": "en",
+   "speaker": "B",
+   "text": "Okay."
+  }
+ ]
+}
